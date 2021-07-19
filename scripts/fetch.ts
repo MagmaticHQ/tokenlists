@@ -21,28 +21,35 @@ interface Token {
 
 const chains: Record<number, string> = {
 	1: 'ethereum',
+	137: 'polygon',
 }
 
 const lists: Record<number, TokenListMeta[]> = {
 	1: [{
 		id: 'coingecko',
 		url: 'https://tokens.coingecko.com/uniswap/all.json',
-	},
-	{
+	}, {
 		id: 'kleros',
 		url: 'https://t2crtokens.eth.link/',
-	},
-	{
+	}, {
 		id: 'mycrypto',
 		url: 'https://uniswap.mycryptoapi.com/',
-	},
-	{
+	}, {
 		id: 'zapper',
 		url: 'https://zapper.fi/api/token-list',
-	},
-	{
+	}, {
 		id: 'zerion',
 		url: 'https://tokenlist.zerion.eth.link/',
+	}],
+	137: [{
+		id: 'coingecko',
+		url: 'https://tokens.coingecko.com/polygon-pos/all.json',
+	}, {
+		id: 'quickswap',
+		url: 'https://unpkg.com/quickswap-default-token-list/build/quickswap-default.tokenlist.json',
+	}, {
+		id: 'balancer',
+		url: 'https://storageapi.fleek.co/tomafrench-team-bucket/polygon.listed.tokenlist.json',
 	}],
 };
 
@@ -53,7 +60,7 @@ async function run() {
 		recursive: true,
 	});
 	await mkdir(LIST_DIR);
-	const chainIds = Object.keys(lists).map(parseInt);
+	const chainIds = Object.keys(lists).map(idString => parseInt(idString));
 	for (const chainId of chainIds) {
 		const chainLists = lists[chainId];
 		for (const list of chainLists) {

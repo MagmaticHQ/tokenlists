@@ -10,5 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/MagmaticHQ/tokenlists.git"
   },
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }

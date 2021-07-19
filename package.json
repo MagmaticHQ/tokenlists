@@ -13,5 +13,8 @@
   "license": "UNLICENSED",
   "dependencies": {
     "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.1.0"
   }
 }

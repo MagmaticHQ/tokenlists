@@ -1,0 +1,10 @@
+[
+	"ethereum:coingecko.json",
+	"ethereum:kleros.json",
+	"ethereum:mycrypto.json",
+	"ethereum:zapper.json",
+	"ethereum:zerion.json",
+	"polygon:coingecko.json",
+	"polygon:quickswap.json",
+	"polygon:balancer.json"
+]

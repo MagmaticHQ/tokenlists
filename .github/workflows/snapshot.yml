@@ -20,6 +20,8 @@ jobs:
           DIFF_LINES=$(git diff | wc -l)
           if [ $DIFF_LINES -gt 0  ]
           then
+            git config --global user.email "bot@magmatic.xyz"
+            git config --global user.name "Magmatic Bot"
             git add .
             git commit -m "Snapshot lists: $DATE"
             git push

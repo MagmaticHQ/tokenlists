@@ -12,7 +12,7 @@ jobs:
       - run: npm ci
       - run: npm run fetch
       - run: |
-          DATE=$(date +"%Y/%m/%d")
+          DATE=$(date +"%d/%m/%y")
           DIFF_LINES=$(git diff | wc -l)
           if [ $DIFF_LINES -gt 0  ]
           then

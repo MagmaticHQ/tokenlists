@@ -61,7 +61,7 @@ async function run() {
 	});
 	await mkdir(LIST_DIR);
 	const chainIds = Object.keys(lists).map(idString => parseInt(idString));
-	const fileNames = [];
+	const files = [];
 	for (const chainId of chainIds) {
 		const chainLists = lists[chainId];
 		for (const list of chainLists) {
@@ -72,10 +72,14 @@ async function run() {
 			const filePath = `${LIST_DIR}/${fileName}`;
 			const listString = JSON.stringify(listData, null, '\t');
 			await writeFile(filePath, listString);
-			fileNames.push(fileName);
+			files.push({
+				id,
+				chain: chainId,
+				name: fileName,
+			});
 		}
 	}
-	const indexString = JSON.stringify(fileNames, null, '\t');
+	const indexString = JSON.stringify(files, null, '\t');
 	await writeFile(`${LIST_DIR}/index.json`, indexString);
 }
 

@@ -1,0 +1,27 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Snapshot
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '0 0 * * *'  # every day at midnight
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm ci
+      - run: npm run fetch
+      - run: |
+          DATE=$(date +"%Y/%m/%d")
+          DIFF_LINES=$(git diff | wc -l)
+          if [ $DIFF_LINES -gt 0  ]
+          then
+            git add .
+            git commit -m "Snapshot lists: $DATE"
+            git push
+          fi
+          git tag "$DATE"
+          git push origin "$DATE"

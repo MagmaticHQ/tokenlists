@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-07-18T17:06:14.582Z",
+	"timestamp": "2021-07-20T17:06:13.974Z",
 	"version": {
 		"major": 55,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -7348,6 +7348,15 @@
 			"name": "SwapDEX",
 			"decimals": 7,
 			"logoURI": "ipfs://QmU3KGmRmKvhNkLigeeaFwaMH1aKCFe8DFMEX1mNCYvTtq",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xDDdddd4301A082e62E84e43F474f044423921918",
+			"symbol": "DVF",
+			"name": "DVF",
+			"decimals": 18,
+			"logoURI": "ipfs://QmRXBVAQxEs6GUjff8Fvtii2Ue5SX3T1moJmgWbce7Ea9Y",
 			"tags": []
 		},
 		{

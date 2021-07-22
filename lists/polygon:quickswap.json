@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-07-19T13:13:50.934Z",
+	"timestamp": "2021-07-21T13:07:15.699Z",
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 78
+		"patch": 79
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -84,6 +84,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/azuki.png"
+		},
+		{
+			"name": "Bella",
+			"address": "0x28C388FB1F4fa9F9eB445f0579666849EE5eeb42",
+			"symbol": "BEL",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/12478/small/Bella.png?1602230054"
 		},
 		{
 			"name": "beefy.finance",
@@ -212,6 +220,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/DEGEN_LOGO.png"
+		},
+		{
+			"name": "DinoSwap",
+			"address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+			"symbol": "DINO",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/17103/small/DINO.png?1626244014"
 		},
 		{
 			"name": "Dark Matter Token",
@@ -710,6 +726,22 @@
 			"logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2"
 		},
 		{
+			"name": "PUSD",
+			"address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+			"symbol": "PUSD",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/16762/small/PUSD-purple-200.png?1624937879"
+		},
+		{
+			"name": "PYR Token",
+			"address": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9",
+			"symbol": "PYR",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/14770/small/1617088937196.png?1619414736"
+		},
+		{
 			"name": "Qi Dao",
 			"address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
 			"symbol": "QI",
@@ -788,6 +820,14 @@
 			"decimals": 8,
 			"chainId": 137,
 			"logoURI": "https://cdn-images-1.medium.com/max/1200/1*mK1oPGsQWh4Nfupg-e0S-g.png"
+		},
+		{
+			"name": "SOL",
+			"address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
+			"symbol": "SOL",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452"
 		},
 		{
 			"name": "BSCstarter",
@@ -948,6 +988,14 @@
 			"decimals": 9,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png"
+		},
+		{
+			"name": "YAMP.FINANCE",
+			"address": "0x87f654c4b347230C60CAD8d7ea9cF0D7238bcc79",
+			"symbol": "YAMP",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://yamp.finance/img/yamp_logo.svg"
 		},
 		{
 			"name": "YAYO Coin",

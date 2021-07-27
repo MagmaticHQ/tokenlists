@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-07-25T17:06:18.004Z",
+	"timestamp": "2021-07-26T17:06:17.922Z",
 	"version": {
 		"major": 56,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -593,6 +593,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+			"symbol": "AXS",
+			"name": "Axie Infinity",
+			"decimals": 18,
+			"logoURI": "ipfs://QmVUzbiJP2xm2rH69Y42rmTxD8MZxEpGmvdfVKe551zZcR",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
 			"symbol": "BOXX",
 			"name": "Blockparty",
@@ -673,6 +682,15 @@
 			"name": "ZMINE",
 			"decimals": 18,
 			"logoURI": "ipfs://QmcaFrJScm6ZS8bZLwjDJotP7JmK4CZgcj6smPHM8QaQUv",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
+			"symbol": "OHM",
+			"name": "Olympus",
+			"decimals": 9,
+			"logoURI": "ipfs://QmcDGyz7Ag6PJB7zHQt1uMnJkFjvawAGwWp2UbmoEAtpXp",
 			"tags": []
 		},
 		{

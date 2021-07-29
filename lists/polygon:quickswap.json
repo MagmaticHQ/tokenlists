@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-07-21T13:07:15.699Z",
+	"timestamp": "2021-07-28T16:10:33.800Z",
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 79
+		"patch": 81
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -76,6 +76,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://aria.fyi/images/Aria_Logo_256.png"
+		},
+		{
+			"name": "Avalanche Token",
+			"address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+			"symbol": "AVAX",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://yamp.finance/img/yamp_logo.svg"
 		},
 		{
 			"name": "DokiDokiAzuki",
@@ -406,6 +414,14 @@
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
 		},
 		{
+			"name": "Helmet.insure on Polygon",
+			"address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
+			"symbol": "Guard",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/VtDIzy7.png"
+		},
+		{
 			"name": "HEXX",
 			"address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
 			"symbol": "HEX",
@@ -446,12 +462,12 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/7697/small/N7aEdYrY_400x400.png?1561587437"
 		},
 		{
-			"name": "Rupeeto",
-			"address": "0xde485931674F4EdD3Ed3bf22e86E7d3C7D5347a1",
-			"symbol": "INRP",
+			"name": "Impermax",
+			"address": "0x60bB3D364B765C497C8cE50AE0Ae3f0882c5bD05",
+			"symbol": "IMX",
 			"decimals": 18,
 			"chainId": 137,
-			"logoURI": "https://cdn.rupeeto.com/images/rupeeto-symbol.jpeg"
+			"logoURI": "https://polygon.impermax.finance/build/assets/icons/0x60bb3d364b765c497c8ce50ae0ae3f0882c5bd05.png"
 		},
 		{
 			"name": "IOI Token",
@@ -468,6 +484,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/IQ.png"
+		},
+		{
+			"name": "kogecoin.io",
+			"address": "0x13748d548D95D78a3c83fe3F32604B4796CFfa23",
+			"symbol": "KOGECOIN",
+			"decimals": 9,
+			"chainId": 137,
+			"logoURI": "https://kogefarm.io/koge-logo-01.png"
 		},
 		{
 			"name": "Krill",
@@ -590,6 +614,14 @@
 			"logoURI": "https://etherscan.io/token/images/deflect_32.png?=v1"
 		},
 		{
+			"name": "MeebMaster.com Token",
+			"address": "0x64aFDF9e28946419E325d801Fb3053d8B8FFdC23",
+			"symbol": "MEEB",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/tmPoZ1D.png"
+		},
+		{
 			"name": "Memecoin",
 			"address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
 			"symbol": "MEM",
@@ -670,6 +702,14 @@
 			"logoURI": "https://etherscan.io/token/images/mantradao_32.png"
 		},
 		{
+			"name": "Augury Finance",
+			"address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+			"symbol": "OMEN",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://augury.finance/_nuxt/img/omen.b433161.png"
+		},
+		{
 			"name": "Opu Coin",
 			"address": "0x7ff2FC33E161E3b1C6511B934F0209D304267857",
 			"symbol": "OPU",
@@ -724,6 +764,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://etherscan.io/token/images/pepedex_32.png?v=2"
+		},
+		{
+			"name": "pSwampy",
+			"address": "0x5f1657896B38c4761dbc5484473c7A7C845910b6",
+			"symbol": "pSwamp",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://swamp.finance/static/frontend/img/symbols/pswamp.svg"
 		},
 		{
 			"name": "PUSD",
@@ -1004,6 +1052,14 @@
 			"decimals": 4,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/YayoCorp/yayo-assets/master/avatar.png"
+		},
+		{
+			"name": "YEL Token",
+			"address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+			"symbol": "YEL",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/cwfndaf.png"
 		},
 		{
 			"name": "yearn.finance",

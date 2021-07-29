@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-07-26T17:06:17.922Z",
+	"timestamp": "2021-07-28T17:06:17.366Z",
 	"version": {
 		"major": 56,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	},
 	"tags": {
@@ -1667,6 +1667,15 @@
 			"name": "OXO.Farm",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXpBbDt7mChVYvHfj8mtjRS6TTS93B5HHq4txPcLHizYB",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+			"symbol": "SOCKS",
+			"name": "Unisocks",
+			"decimals": 18,
+			"logoURI": "ipfs://QmSvnxH9cmzX2npK9NCg84kAtF8d9WgHh3ogeiJ7hLw32n",
 			"tags": []
 		},
 		{
@@ -8116,6 +8125,15 @@
 			"name": "Cream ETH 2",
 			"decimals": 18,
 			"logoURI": "ipfs://QmQZ18rdkNG8ShepTRTnVorqKeMJKpq56F3s8pDYwS45oK",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x14da230d6726C50F759Bc1838717F8CE6373509C",
+			"symbol": "KAT",
+			"name": "Kambria",
+			"decimals": 18,
+			"logoURI": "ipfs://QmRbvzNhswdGPGEg4kPTSrTZJLpS9SLuRtooVwsQMjG5WN",
 			"tags": []
 		},
 		{

@@ -1,6 +1,6 @@
 {
 	"name": "Balancer",
-	"timestamp": "2021-07-15T00:00:00.000Z",
+	"timestamp": "2021-07-29T00:00:00.000Z",
 	"logoURI": "https://raw.githubusercontent.com/balancer-labs/pebbles/master/images/pebbles-pad.256w.png",
 	"keywords": [
 		"balancer",
@@ -171,6 +171,14 @@
 			"symbol": "SNX",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
+		},
+		{
+			"address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+			"chainId": 137,
+			"name": "Telcoin",
+			"symbol": "TEL",
+			"decimals": 2,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x467Bccd9d29f223BcE8043b84E8C8B282827790F/logo.png"
 		},
 		{
 			"address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",

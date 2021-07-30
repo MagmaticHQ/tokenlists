@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-07-28T16:10:33.800Z",
+	"timestamp": "2021-07-29T04:18:23.593Z",
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 81
+		"patch": 82
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -83,7 +83,7 @@
 			"symbol": "AVAX",
 			"decimals": 18,
 			"chainId": 137,
-			"logoURI": "https://yamp.finance/img/yamp_logo.svg"
+			"logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
 		},
 		{
 			"name": "DokiDokiAzuki",

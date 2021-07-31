@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-07-28T17:06:17.366Z",
+	"timestamp": "2021-07-30T17:06:44.333Z",
 	"version": {
 		"major": 56,
-		"minor": 2,
+		"minor": 3,
 		"patch": 0
 	},
 	"tags": {
@@ -812,6 +812,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x986b4AFF588a109c09B50A03f42E4110E29D353F",
+			"symbol": "yvCurve-sETH",
+			"name": "Curve sETH Pool yVault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmQ3PQj67fHHpYM2jtqUoLCALhY6QHtM7H32QENwtNt8zk",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xe541504417670FB76b612B41B4392d967a1956c7",
 			"symbol": "BSC",
 			"name": "Bitsonic",
@@ -1390,6 +1399,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xcAAfF72A8CbBfc5Cf343BA4e26f65a257065bFF1",
+			"symbol": "KRT",
+			"name": "Wrapped KRT",
+			"decimals": 18,
+			"logoURI": "ipfs://QmQtc1fdXU9LFdLyKkFSVGbge9nKvxrBPmdWgrAM5apyZo",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
 			"symbol": "CHAI",
 			"name": "Chai",
@@ -1694,6 +1712,15 @@
 			"name": "Synthetic DeFi Index",
 			"decimals": 18,
 			"logoURI": "ipfs://QmNeutsc5YpyeooBx7kMWCvoongrttWGCZFgzQnxspmvaQ",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x01da76DEa59703578040012357b81ffE62015C2d",
+			"symbol": "crYETH",
+			"name": "Cream yETH",
+			"decimals": 8,
+			"logoURI": "ipfs://QmRiFXLiU33CKE7UuHxxAkyu2cxvdcwdrNMXDfTrXY4EpD",
 			"tags": []
 		},
 		{
@@ -2126,6 +2153,15 @@
 			"name": "Tatcoin",
 			"decimals": 18,
 			"logoURI": "ipfs://QmeHqnLyRouopAY1v3qkFpCjAWRc3qAcZu8qNwUt7Brohr",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xb892249939AdBf6D7851864CA9A5c7D2d537af97",
+			"symbol": "GSHIBA",
+			"name": "Gambler Shiba",
+			"decimals": 18,
+			"logoURI": "ipfs://QmYHdjhJtjhZy1BnvoUTLcXj3e9LdQkHsg6A17b3GaHxEu",
 			"tags": []
 		},
 		{
@@ -2723,6 +2759,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x9c306A78b1a904e83115c05Ac67c1Ef07C653651",
+			"symbol": "ODOGE",
+			"name": "BoringDAO DOGE",
+			"decimals": 18,
+			"logoURI": "ipfs://QmQpVdkPm49cPB26PVVhL5ChoMeNd9P9Zj2PVsckF1NRz4",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
 			"symbol": "BBTC",
 			"name": "Binance Wrapped BTC",
@@ -2761,6 +2806,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xA10A210C27C86f8C63825096E34f671fD61041b1",
+			"symbol": "JEFF",
+			"name": "Jeff in Space",
+			"decimals": 9,
+			"logoURI": "ipfs://QmQdQCf78g7QfmpM2i8eQj8RxkBi6RNCHKbbv7wjqGkxno",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xC567bca531992352166252ea5121e535432E81eD",
 			"symbol": "TAR",
 			"name": "Tartarus",
@@ -2775,6 +2829,15 @@
 			"name": "AGA Token",
 			"decimals": 4,
 			"logoURI": "ipfs://QmQo8togE5d6PXknPudusziqJpAv8pYFiX1D1wVshhJZJq",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x9358e3a79D428c7708da22a5bd085159F6818D12",
+			"symbol": "TENSHI",
+			"name": "Tenshi",
+			"decimals": 9,
+			"logoURI": "ipfs://QmfQUyksNP4zNdDdL8GsLxGcpoMrodLLskJeSojorvLCRs",
 			"tags": []
 		},
 		{
@@ -4506,6 +4569,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900",
+			"symbol": "a3Crv",
+			"name": "a3Curve",
+			"decimals": 18,
+			"logoURI": "ipfs://QmankNkL8NxQkGNsgEurKJAPrqrq3ZnDx2q1nDyf76QC9g",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xD6014EA05BDe904448B743833dDF07c3C7837481",
 			"symbol": "iBTC",
 			"name": "Synthetic Inverse Bitcoin",
@@ -4998,6 +5070,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x10FDBD1e48eE2fD9336a482D746138AE19e649Db",
+			"symbol": "crFTT",
+			"name": "Cream FTX Token",
+			"decimals": 8,
+			"logoURI": "ipfs://QmXPeh9hmkzb9acebNMStZHynWEKwQgrzAkp1ecM85AbmG",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
 			"symbol": "BERRY",
 			"name": "Rentberry",
@@ -5425,11 +5506,38 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+			"symbol": "UNN",
+			"name": "UNION Protocol Governance Token",
+			"decimals": 18,
+			"logoURI": "ipfs://QmXmTdV5qbMqjpkZ5b7BWqd6A6xpvxcCFZzSHXPKLHB8Lz",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xD70240Dd62F4ea9a6A2416e0073D72139489d2AA",
+			"symbol": "GLYPH",
+			"name": "GLYPH Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmbWyeKrvk5JtqYp5yRm2fSG3dsZXGnzvivQgcmAbiRV69",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x763186eB8d4856D536eD4478302971214FEbc6A9",
 			"symbol": "BETR",
 			"name": "BetterBetting",
 			"decimals": 18,
 			"logoURI": "ipfs://QmZboAYRMvKc7649WpuoafFJLAJnyDxQSqefcCsfYzyBiN",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xdCD90C7f6324cfa40d7169ef80b12031770B4325",
+			"symbol": "yvCurve-stETH",
+			"name": "Curve stETH Pool yVault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmNwwqSeTzHLKeUzKDvtyurmc8REpyoGorHXXTkjFaHq2w",
 			"tags": []
 		},
 		{
@@ -5911,6 +6019,15 @@
 			"name": "DOS Network",
 			"decimals": 18,
 			"logoURI": "ipfs://QmPGoNJJKDDHnTa9WyWk8z4qAk94z3LceL3Vjk1vqR35XL",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x676Ad1b33ae6423c6618C1AEcf53BAa29cf39EE5",
+			"symbol": "SDT",
+			"name": "Wrapped SDT",
+			"decimals": 18,
+			"logoURI": "ipfs://Qmeoe9cVhKadHqrFc9Np7aTEF8aAa9jXpvpKsk7n5w5jzH",
 			"tags": []
 		},
 		{
@@ -6414,6 +6531,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x272F97b7a56a387aE942350bBC7Df5700f8a4576",
+			"symbol": "aBAL",
+			"name": "Aave BAL",
+			"decimals": 18,
+			"logoURI": "ipfs://Qmd2Wm6P9msmKTQPi5ZcBjvo8y1w59QsMXKhX6Rwfc8zdp",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x9f4F1C679FC8479Cd71482A8D8C88Dc60c1403f9",
 			"symbol": "DAA",
 			"name": "Double Ace",
@@ -6607,6 +6733,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x9F8eef61b1Ad834B44C089DBF33eb854746a6bf9",
+			"symbol": "DAWGS",
+			"name": "SpaceDawgs",
+			"decimals": 9,
+			"logoURI": "ipfs://QmZT9MBjbB7jZvfNwdpr8bDLKGPYaEmjbytAKdixekr2sL",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x5845Cd0205b5d43AF695412a79Cf7C1Aeddb060F",
 			"symbol": "SHD",
 			"name": "ShardingDAO",
@@ -6793,6 +6928,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x269616D549D7e8Eaa82DFb17028d0B212D11232A",
+			"symbol": "PUNK",
+			"name": "PUNK Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmfFUxvhmbN6hSXGkotpdxJqK2DgiDb91iVxu63xDfXJTE",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
 			"symbol": "UST",
 			"name": "Wrapped UST",
@@ -6975,6 +7119,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xef58b2d5A1b8D3cDE67b8aB054dC5C831E9Bc025",
+			"symbol": "crSRM",
+			"name": "Cream Serum",
+			"decimals": 8,
+			"logoURI": "ipfs://QmP3uCWoHm3oB8RXQaKgTeFsUeruvDrVTgRoupgQfW63fW",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xf6E9b246319ea30e8C2fA2d1540AAEBF6f9E1B89",
 			"symbol": "iBCH",
 			"name": "Synthetic Inverse Bitcoin Cash",
@@ -7034,6 +7187,15 @@
 			"name": "DSLA Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmcW4CwmHRTgeVMQxyrD7nchui5imqL2kj4eD5VcjpDcX2",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xF68df6dF642E8387AfC9D03214B78f3087ef8a99",
+			"symbol": "RELOADED",
+			"name": "Doge Reloaded",
+			"decimals": 9,
+			"logoURI": "ipfs://Qmf1dxs91R6KUQ7A5gDDCWbpRUuGJh4fhWnA9vurDf12Ao",
 			"tags": []
 		},
 		{
@@ -8125,6 +8287,15 @@
 			"name": "Cream ETH 2",
 			"decimals": 18,
 			"logoURI": "ipfs://QmQZ18rdkNG8ShepTRTnVorqKeMJKpq56F3s8pDYwS45oK",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0",
+			"symbol": "NODE",
+			"name": "DAppNode",
+			"decimals": 18,
+			"logoURI": "ipfs://QmcGporuACuvzeNiUECUEEdtefQKic7axnp2UhVE9VwZxL",
 			"tags": []
 		},
 		{

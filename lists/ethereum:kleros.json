@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-07-30T17:06:44.333Z",
+	"timestamp": "2021-08-02T17:06:16.719Z",
 	"version": {
 		"major": 56,
-		"minor": 3,
+		"minor": 4,
 		"patch": 0
 	},
 	"tags": {
@@ -3272,6 +3272,15 @@
 			"name": "UniDollar",
 			"decimals": 18,
 			"logoURI": "ipfs://QmQubAovbLJZHBCkTuSpJBCsYfTEiNNkypnd1ph6rtG38j",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F",
+			"symbol": "SAITAMA",
+			"name": "SAITAMA INU",
+			"decimals": 9,
+			"logoURI": "ipfs://QmZaz5pS4zcAAumxuipdMta1jK1aLdjBRiixsxy5tkeKgD",
 			"tags": []
 		},
 		{

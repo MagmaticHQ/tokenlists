@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-02T17:06:16.719Z",
+	"timestamp": "2021-08-03T17:06:17.734Z",
 	"version": {
 		"major": 56,
-		"minor": 4,
+		"minor": 5,
 		"patch": 0
 	},
 	"tags": {
@@ -386,6 +386,15 @@
 			"name": "Talao",
 			"decimals": 18,
 			"logoURI": "ipfs://QmZf3L4eGCuWjFC1SzeHHZ6PDQdMYGqm8mupNNhQpomKqH",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+			"symbol": "MFT",
+			"name": "Hifi Finance",
+			"decimals": 18,
+			"logoURI": "ipfs://QmbX6zzGxXT9FaXS6o1n3FsADDJFxgEekzuKZJE2hj5Hoq",
 			"tags": []
 		},
 		{
@@ -2802,6 +2811,15 @@
 			"name": "Turtle",
 			"decimals": 18,
 			"logoURI": "ipfs://Qmb9DT4fJUtVj8QcGsNpyQ2WB6ZY5JwhXdffEViCK5YZUz",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x217ddEad61a42369A266F1Fb754EB5d3EBadc88a",
+			"symbol": "DON",
+			"name": "Don-key",
+			"decimals": 18,
+			"logoURI": "ipfs://Qmbzrcnhd9giqzFWEe9afoqPPnRJCWKEszADKjiWWPnvs6",
 			"tags": []
 		},
 		{

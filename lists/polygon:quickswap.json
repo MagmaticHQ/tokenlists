@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-07-29T04:18:23.593Z",
+	"timestamp": "2021-08-03T19:04:18.866Z",
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 82
+		"patch": 90
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -83,7 +83,7 @@
 			"symbol": "AVAX",
 			"decimals": 18,
 			"chainId": 137,
-			"logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
+			"logoURI": "      "
 		},
 		{
 			"name": "DokiDokiAzuki",
@@ -828,6 +828,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
+		},
+		{
+			"name": "Relay Token",
+			"address": "0x904371845Bc56dCbBcf0225ef84a669b2fD6bd0d",
+			"symbol": "RELAY",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://starter.xyz/Relay.png"
 		},
 		{
 			"name": "renDGB",

@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-03T17:06:17.734Z",
+	"timestamp": "2021-08-06T17:06:16.033Z",
 	"version": {
 		"major": 56,
-		"minor": 5,
+		"minor": 6,
 		"patch": 0
 	},
 	"tags": {
@@ -5347,6 +5347,15 @@
 			"name": "Index Cooperative",
 			"decimals": 18,
 			"logoURI": "ipfs://Qma2WLFYcV1vdFYdcxz6USXg1ieWUzM2rVCyiu31zPX1CE",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xe0955F26515d22E347B17669993FCeFcc73c3a0a",
+			"symbol": "STACK",
+			"name": "Stacker Ventures",
+			"decimals": 18,
+			"logoURI": "ipfs://Qmb8YYZXMiiThvHyQvccXoYV3q5ugjYwiu3bGRSPHVjBTN",
 			"tags": []
 		},
 		{

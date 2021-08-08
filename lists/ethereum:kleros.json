@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-06T17:06:16.033Z",
+	"timestamp": "2021-08-07T17:06:16.427Z",
 	"version": {
 		"major": 56,
-		"minor": 6,
+		"minor": 7,
 		"patch": 0
 	},
 	"tags": {
@@ -3042,6 +3042,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xfF69e48af1174Da7F15D0c771861c33d3f19eD8a",
+			"symbol": "TESINU",
+			"name": "TESLA INU",
+			"decimals": 9,
+			"logoURI": "ipfs://Qmc92Vn8tYdt4fgERmBnYz8Sz9YPqk6y2Ck4pQU3wz1af4",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x49d716DFe60b37379010A75329ae09428f17118d",
 			"symbol": "plDai",
 			"name": "Pool Dai",
@@ -5291,6 +5300,15 @@
 			"name": "Visor",
 			"decimals": 18,
 			"logoURI": "ipfs://QmYADtw3AgMCZCgHELQpv4ibNCriozgVzd7SCbwo1wP3ak",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xb439B8731ee047799019eF0b745a51d256B116Af",
+			"symbol": "BULL",
+			"name": "BullionFX",
+			"decimals": 18,
+			"logoURI": "ipfs://QmeXbrVJeM54Sa7X9t5HmHzy3vTX6wNf7VsFKZbHMqmJ2Y",
 			"tags": []
 		},
 		{

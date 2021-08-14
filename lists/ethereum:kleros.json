@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-07T17:06:16.427Z",
+	"timestamp": "2021-08-13T17:06:15.863Z",
 	"version": {
 		"major": 56,
-		"minor": 7,
+		"minor": 8,
 		"patch": 0
 	},
 	"tags": {
@@ -5756,6 +5756,15 @@
 			"name": "Relex",
 			"decimals": 18,
 			"logoURI": "ipfs://QmUBGuvvHycqE4RH6ZCsfvNNuuxuK8cUna8DVVo89qxGPZ",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+			"symbol": "MINDS",
+			"name": "Minds",
+			"decimals": 18,
+			"logoURI": "ipfs://QmWPkQAjYYWZ2iGjwa2r7nmXcGn2v5BX5dzWoNSvUmTi6y",
 			"tags": []
 		},
 		{

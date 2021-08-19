@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-08-11T17:11:08.261Z",
+	"timestamp": "2021-08-18T15:21:45.327Z",
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 93
+		"patch": 95
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -180,6 +180,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/66lM7Rx.png"
+		},
+		{
+			"name": "Crosschain IOTX",
+			"address": "0x300211Def2a644b036A9bdd3e58159bb2074d388",
+			"symbol": "CIOTX",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
 		},
 		{
 			"name": "Furucombo",
@@ -678,7 +686,7 @@
 			"logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png"
 		},
 		{
-			"name": "miMATIC",
+			"name": "MAI",
 			"address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
 			"symbol": "miMATIC",
 			"decimals": 18,
@@ -924,6 +932,14 @@
 			"decimals": 8,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/13796/small/renDOGE.png?1611897869"
+		},
+		{
+			"name": "REVV",
+			"address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
+			"symbol": "REVV",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/12373/small/REVV_TOKEN_Refined_2021_%281%29.png?1627652390"
 		},
 		{
 			"name": "rUSD",

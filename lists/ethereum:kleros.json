@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-13T17:06:15.863Z",
+	"timestamp": "2021-08-22T17:06:38.646Z",
 	"version": {
 		"major": 56,
-		"minor": 8,
+		"minor": 9,
 		"patch": 0
 	},
 	"tags": {
@@ -417,6 +417,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xcbE771323587EA16dACB6016e269D7F08A7ACC4E",
+			"symbol": "SPO",
+			"name": "Spores Network",
+			"decimals": 18,
+			"logoURI": "ipfs://QmViV56obfyaJKwLuZ5VdiU68tt2wrqqf2RLb65pFj8qQp",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x2de72aDa48BDF7Bac276256D3F016fE058490C34",
 			"symbol": "FLOKI",
 			"name": "Floki Inu",
@@ -521,6 +530,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x22B243B96495C547598D9042B6f94B01C22B2e9E",
+			"symbol": "crSWAG",
+			"name": "Cream Swag",
+			"decimals": 8,
+			"logoURI": "ipfs://Qme1hgBM2rsKfhhZSGsFynn7BgA9z982GMASc92GBg2kbw",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xeF8bA8cBa86f81B3108f60186FCe9c81B5096D5c",
 			"symbol": "YFIIG",
 			"name": "YFII Gold",
@@ -571,6 +589,15 @@
 			"name": "Nydronia",
 			"decimals": 18,
 			"logoURI": "ipfs://QmZ4JrDsZPLRC1ZR56VoK8rJ4e5JjBv3Z5ZZHYf7Lha8yV",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xD80F72a6558ec337E0d4CF76b8752B17FA770860",
+			"symbol": "RWD",
+			"name": "Rewards",
+			"decimals": 18,
+			"logoURI": "ipfs://QmWUXabGCAYSGYwcvkdnNiGLbtC2Sc8PTzCEqA3vyEFDJU",
 			"tags": []
 		},
 		{
@@ -2090,6 +2117,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
+			"symbol": "HAKA",
+			"name": "TribeOne",
+			"decimals": 18,
+			"logoURI": "ipfs://QmVBaQxhq2NA7T5k8BF8FF53K6Y5GFviDyD4WHTpxZf8Fj",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
 			"symbol": "LIBERTAS",
 			"name": "Libertas",
@@ -3078,6 +3114,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
+			"symbol": "ankrCrv",
+			"name": "ankrCurve",
+			"decimals": 18,
+			"logoURI": "ipfs://QmYaAAchqA7ov8Qa16sFmqg3XGvbmfnZJir43E6oZjtcSP",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xb4d0FDFC8497AEF97d3c2892AE682eE06064A2BC",
 			"symbol": "FMF",
 			"name": "Formosa Financial",
@@ -3602,6 +3647,15 @@
 			"name": "King Arthur",
 			"decimals": 9,
 			"logoURI": "ipfs://QmPjT8e9eyEsGM12HTS3Ed1aT7BT2fZtCPk74VKG4gVjdP",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x8C6bf16C273636523C29Db7DB04396143770F6A0",
+			"symbol": "AAA",
+			"name": "Moon Rabbit",
+			"decimals": 18,
+			"logoURI": "ipfs://QmazjPsHjhhHm8zGjsaY84xJ7fpH4HgZXMxFCHUxjjVxcd",
 			"tags": []
 		},
 		{
@@ -4366,6 +4420,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xe89a6D0509faF730BD707bf868d9A2A744a363C7",
+			"symbol": "crUNI",
+			"name": "Cream Uniswap",
+			"decimals": 8,
+			"logoURI": "ipfs://QmU3AF7YMttVQRtL1Ysksafhnj3woAmLxJye66TzTQ7dju",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
 			"symbol": "PLR",
 			"name": "Pillar",
@@ -4450,6 +4513,15 @@
 			"name": "Pantos",
 			"decimals": 8,
 			"logoURI": "ipfs://QmbFqcBz1JDTTpQrkF3XyjAZhRA21wsCVS5SbkQqW8cZav",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x13dB9034C9CA6cb739887288fcE790544a476f8c",
+			"symbol": "TAIYO",
+			"name": "Taiyo",
+			"decimals": 9,
+			"logoURI": "ipfs://QmXdnMTT94EkcP3aCFZeG4Kte9zG1Af8AuLKK2JoQ5TFDg",
 			"tags": []
 		},
 		{
@@ -5850,6 +5922,24 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xEA47B64e1BFCCb773A0420247C0aa0a3C1D2E5C5",
+			"symbol": "BAYC",
+			"name": "BAYC Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmbQKmuvaXzig9CE9RRJRc5morXwqJ8GsjRkRe99FoSs1X",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x7047F90229a057C13BF847C0744D646CFb6c9E1A",
+			"symbol": "yvCurve-renBTC",
+			"name": "Curve renBTC Pool yVault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmcDhrT8g5sfisGQJVe4mKy5SYopyybxk1g9pdTygwTcTU",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14",
 			"symbol": "DAV",
 			"name": "DAV",
@@ -6583,6 +6673,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xC7a8B45E184138114E6085C82936A8Db93DD156a",
+			"symbol": "MASK",
+			"name": "MASK Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmPZyXbCtvefYuVLNMw4MQLoHog8NXrJkgMUq21nPUDipk",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
 			"symbol": "bCrv",
 			"name": "bCurve",
@@ -6608,6 +6707,15 @@
 			"name": "Double Ace",
 			"decimals": 8,
 			"logoURI": "ipfs://QmPqeuevLYigjdR6cutmrME4fvyEfBEhPiYSXRTeHTc8nR",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xeFF039C3c1D668f408d09dD7B63008622a77532C",
+			"symbol": "crWNXM",
+			"name": "Cream Wrapped NXM",
+			"decimals": 8,
+			"logoURI": "ipfs://QmUCKx2d1mG3GLCMgkkY9T9rbwGQZiqCu5sPGkycFAMwi5",
 			"tags": []
 		},
 		{
@@ -7355,6 +7463,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x8414Db07a7F743dEbaFb402070AB01a4E0d2E45e",
+			"symbol": "yvCurve-sBTC",
+			"name": "Curve sBTC Pool yVault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmY8U1aQvc8gUqmi2NBpm54DaTNBbEzNEDfPn9dv26B185",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x7a545Ed3863221A974F327199Ac22F7f12535F11",
 			"symbol": "BGTT",
 			"name": "Baguette Token",
@@ -7378,6 +7495,15 @@
 			"name": "Fulcrum BZRX iToken",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXp6pNoH2B2Vpmt2CAwiusv2SBt7oNejAYttbCDXu5ANL",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+			"symbol": "aBAT",
+			"name": "Aave BAT",
+			"decimals": 18,
+			"logoURI": "ipfs://Qma1iWbZmzJ5TG9AYc4LJAc1orQjeUhgxXS2wTPPTK72zS",
 			"tags": []
 		},
 		{
@@ -7441,6 +7567,15 @@
 			"name": "Synthetic Nikkei 225 Index",
 			"decimals": 18,
 			"logoURI": "ipfs://QmYmgroM468jUPFzX9d5MBihgmMinbQ3KmAHhPJVBLFbS5",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x18A908eD663823C908A900b934D6249d4befbE44",
+			"symbol": "sBUSD",
+			"name": "Strike BUSD",
+			"decimals": 8,
+			"logoURI": "ipfs://QmXsjpJPzxma3C4fMNVNg7QPiGmAJC57YZbDkUmgcNHjTc",
 			"tags": []
 		},
 		{
@@ -8845,6 +8980,15 @@
 			"name": "Dentacoin",
 			"decimals": 0,
 			"logoURI": "ipfs://QmbMuzhYHTafQaPA6dLu3Lzh7KQtmNRCHpvQZT1KbZPmaZ",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x37A15C92e67686aA268df03d4C881A76340907E8",
+			"symbol": "PIXIU",
+			"name": "Pixiu Finance",
+			"decimals": 0,
+			"logoURI": "ipfs://QmPY9XM9jNjhr4PUqqnjDg57MMZEycn9mQcQ3sZ4KEZgjA",
 			"tags": []
 		},
 		{

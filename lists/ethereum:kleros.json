@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-22T17:06:38.646Z",
+	"timestamp": "2021-08-23T17:06:21.808Z",
 	"version": {
-		"major": 56,
-		"minor": 9,
+		"major": 57,
+		"minor": 0,
 		"patch": 0
 	},
 	"tags": {
@@ -1300,6 +1300,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x5b558564B57E4ff88c6b8D8E7EeEe599bF79B368",
+			"symbol": "MMM",
+			"name": "MultiMillion",
+			"decimals": 18,
+			"logoURI": "ipfs://QmXNUCjizLTswB8pmgZ4b9oLhfD64FuwY2EFXC3uTRYpho",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x918dA91Ccbc32B7a6A0cc4eCd5987bbab6E31e6D",
 			"symbol": "sTSLA",
 			"name": "Synthetic Tesla",
@@ -1739,6 +1748,15 @@
 			"name": "Unibright",
 			"decimals": 8,
 			"logoURI": "ipfs://QmbS5WrX6GUUz1RDx3fBKKAK8GAm6TMa6rvTzYCfkzb2tg",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x5A235C0b4cB8d0e80a5c3bF4d2faD5c32E440884",
+			"symbol": "KONGZ",
+			"name": "KONGZ Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmPbhdjaXjTu9vw888kYvTUUU9w2kKrp5ssFT5tJUwoTUz",
 			"tags": []
 		},
 		{
@@ -4839,6 +4857,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x54a3017754BFba73F71F37d893A368814CbFf457",
+			"symbol": "WWCN",
+			"name": "Wrapped Widecoin",
+			"decimals": 8,
+			"logoURI": "ipfs://QmUMsVhTMwLmvY3cYofZpaJUnS2kmSZk2oLWvi1MZoNiGp",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
 			"symbol": "ORI",
 			"name": "Origami Network",
@@ -6075,6 +6102,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+			"symbol": "CTX",
+			"name": "Cryptex Finance",
+			"decimals": 18,
+			"logoURI": "ipfs://QmUTgXBfsUh7bLj4xDXKd8LzmUQpBLfhX3tWgue2an83mx",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x83d60E7aED59c6829fb251229061a55F35432c4d",
 			"symbol": "INFT",
 			"name": "Infinito",
@@ -6734,6 +6770,15 @@
 			"name": "NKN",
 			"decimals": 18,
 			"logoURI": "ipfs://QmZKine6fKEDX9acooDaVtXBQ5kYGX5j6R1eZFoueLEQdU",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
+			"symbol": "sUSDT",
+			"name": "Strike USDT",
+			"decimals": 8,
+			"logoURI": "ipfs://QmQJG7sfaaL6QmP3PamNiDhhBiJWGxqP7KQ4XuasFMmoRH",
 			"tags": []
 		},
 		{
@@ -8899,15 +8944,6 @@
 			"name": "Million",
 			"decimals": 18,
 			"logoURI": "ipfs://QmVArzZrtZSwvV5sg4bksiHB3oDqBCowETB7wugWX4z3CP",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
-			"symbol": "MATH",
-			"name": "MATH",
-			"decimals": 18,
-			"logoURI": "ipfs://QmeNULGgeQrycac48SeM6csWqTVvWw2CvTUZj7NiPbjzc8",
 			"tags": []
 		},
 		{

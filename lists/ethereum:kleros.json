@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-23T17:06:21.808Z",
+	"timestamp": "2021-08-24T17:06:21.192Z",
 	"version": {
-		"major": 57,
+		"major": 58,
 		"minor": 0,
 		"patch": 0
 	},
@@ -2961,6 +2961,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xcb86c6A22CB56B6cf40CaFEDb06BA0DF188a416E",
+			"symbol": "SURE",
+			"name": "inSure DeFi",
+			"decimals": 18,
+			"logoURI": "ipfs://QmcC4PkTmbVdf7FtFyuBhbZfEL2tDrDoinkP5Z2RfQUjok",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xd9B48548DE7710519221207D70E40aa24D7d1985",
 			"symbol": "BOOTY",
 			"name": "CandyBooty",
@@ -4389,6 +4398,15 @@
 			"name": "Perpetual Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmPmw3W5wwfh8G4DkhpgMa2XzJUhKusFyjDhuahgKSxajk",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xdcDc1c1cC33AA817CbDBe8F5E2390BF7cc43dc4B",
+			"symbol": "AVASTR",
+			"name": "AVASTR Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmSYyT4LqUbFxCkbDNXCBZzDJNPd76LuhQcV6KJ8boQNZC",
 			"tags": []
 		},
 		{
@@ -8926,24 +8944,6 @@
 			"name": "Momentum",
 			"decimals": 10,
 			"logoURI": "ipfs://QmRvFeGbvxogJrgWUvRoTJzC7yS6xz2UCjYtKHbAY4xMqV",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
-			"symbol": "DUCK",
-			"name": "Unit Protocol",
-			"decimals": 18,
-			"logoURI": "ipfs://QmYpCh8WpJ9hJe5qDCEdSW7pF7JojcfxPStnpbrJU6k1LE",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
-			"symbol": "MM",
-			"name": "Million",
-			"decimals": 18,
-			"logoURI": "ipfs://QmVArzZrtZSwvV5sg4bksiHB3oDqBCowETB7wugWX4z3CP",
 			"tags": []
 		},
 		{

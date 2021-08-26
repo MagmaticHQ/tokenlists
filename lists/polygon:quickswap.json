@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-08-18T15:21:45.327Z",
+	"timestamp": "2021-08-25T13:20:49.308Z",
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 95
+		"patch": 97
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -252,6 +252,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/DEGEN_LOGO.png"
+		},
+		{
+			"name": "DeHive.finance",
+			"address": "0x5fCB9de282Af6122ce3518CDe28B7089c9F97b26",
+			"symbol": "DHV",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/14926/small/logo_200x200.png?1626181831"
 		},
 		{
 			"name": "DinoSwap",
@@ -590,6 +598,14 @@
 			"logoURI": "https://aavegotchi.com/images/matokens/maDAI.svg"
 		},
 		{
+			"name": "MAI",
+			"address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+			"symbol": "MAI",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
+		},
+		{
 			"name": "Matic Aave interest bearing LINK",
 			"address": "0x98ea609569bD25119707451eF982b90E3eb719cD",
 			"symbol": "maLINK",
@@ -686,14 +702,6 @@
 			"logoURI": "https://media.discordapp.net/attachments/846293892785242143/852874003928449054/mem_gold_with_white_5.png"
 		},
 		{
-			"name": "MAI",
-			"address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
-			"symbol": "miMATIC",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
-		},
-		{
 			"name": "Ocean Token",
 			"address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
 			"symbol": "mOCEAN",
@@ -724,6 +732,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://i.postimg.cc/CxvzF5bJ/moon-black.png"
+		},
+		{
+			"name": "MoonEdge",
+			"address": "0x7E4c577ca35913af564ee2a24d882a4946Ec492B",
+			"symbol": "MOONED",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/17393/small/ME_logo_200_200.png?1627526275"
 		},
 		{
 			"name": "Matic Rebalance Token",
@@ -780,6 +796,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://augury.finance/_nuxt/img/omen.b433161.png"
+		},
+		{
+			"name": "OpenOcean",
+			"address": "0x9d5565dA88e596730522CbC5a918d2A89dbC16d9",
+			"symbol": "OOE",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://cloudstorage.openocean.finance/image/ooe_log.png"
 		},
 		{
 			"name": "Opu Coin",
@@ -1118,12 +1142,36 @@
 			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/wootrade_w.svg"
 		},
 		{
+			"name": "WOWswap",
+			"address": "0x855D4248672a1fCE482165e8DBE1207b94b1968a",
+			"symbol": "WOW",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/14101/small/Group-423.png?1614317472"
+		},
+		{
 			"name": "WazirX",
 			"address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
 			"symbol": "WRX",
 			"decimals": 8,
 			"chainId": 137,
 			"logoURI": "https://etherscan.io/token/images/binance-wrx_32.png"
+		},
+		{
+			"name": "XCAD Token",
+			"address": "0xA55870278d6389ec5B524553D03C04F5677c061E",
+			"symbol": "XCAD",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/jykuRwK.png"
+		},
+		{
+			"name": "Exeedme",
+			"address": "0x2fe8733dcb25BFbbA79292294347415417510067",
+			"symbol": "XED",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/Kte7hVj.jpg"
 		},
 		{
 			"name": "Standard",

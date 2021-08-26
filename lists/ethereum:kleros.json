@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-24T17:06:21.192Z",
+	"timestamp": "2021-08-25T17:06:15.027Z",
 	"version": {
 		"major": 58,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -2524,6 +2524,15 @@
 			"name": "Power Ledger",
 			"decimals": 6,
 			"logoURI": "ipfs://QmXYvB4sHumuFoTzVPov1jXHPYWrpBGJeRjH5AFdRBUpqE",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x86Dd3002BF215082Ea43b0Bd2fD595EcE4341880",
+			"symbol": "VIO",
+			"name": "VIO",
+			"decimals": 18,
+			"logoURI": "ipfs://QmVer7VDhTu5k7UivRe9VwjwX99GLKmY2vKofABniYWJ9H",
 			"tags": []
 		},
 		{
@@ -5727,15 +5736,6 @@
 			"name": "Keep3rV1",
 			"decimals": 18,
 			"logoURI": "ipfs://QmNoy6PbQVqbJSx3MLMxB5KC2sb52QhXLiJozc2WwsuaxJ",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x1017B147b05942EAd495E2ad6d606EF3C94B8FD0",
-			"symbol": "VNL",
-			"name": "Vanilla",
-			"decimals": 12,
-			"logoURI": "ipfs://QmaQMhpKPaChXBXVgJkc3jxKcDDCJsJKYVJUMadTigSmHe",
 			"tags": []
 		},
 		{
@@ -8944,6 +8944,15 @@
 			"name": "Momentum",
 			"decimals": 10,
 			"logoURI": "ipfs://QmRvFeGbvxogJrgWUvRoTJzC7yS6xz2UCjYtKHbAY4xMqV",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x1017B147b05942EAd495E2ad6d606EF3C94B8FD0",
+			"symbol": "VNL",
+			"name": "Vanilla",
+			"decimals": 12,
+			"logoURI": "ipfs://QmaQMhpKPaChXBXVgJkc3jxKcDDCJsJKYVJUMadTigSmHe",
 			"tags": []
 		},
 		{

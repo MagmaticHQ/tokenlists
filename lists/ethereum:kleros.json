@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-25T17:06:15.027Z",
+	"timestamp": "2021-08-26T17:06:14.884Z",
 	"version": {
-		"major": 58,
-		"minor": 1,
+		"major": 59,
+		"minor": 0,
 		"patch": 0
 	},
 	"tags": {
@@ -1350,6 +1350,15 @@
 			"name": "The Sandbox",
 			"decimals": 18,
 			"logoURI": "ipfs://QmRR1AqRennufqHCVR1Eb8oYf6kiJy8DrRoNTEgkvwZsVq",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xAbeA7663c472648d674bd3403D94C858dFeEF728",
+			"symbol": "PUDGY",
+			"name": "PUDGY Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmZ2oHJizUjF3UGJyjijdTi62rppawgJVsGfR17hdD9mPc",
 			"tags": []
 		},
 		{
@@ -8935,15 +8944,6 @@
 			"name": "Router Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://Qma8NkdFrza8JLpMqHZWykYuh2diCPckmNwAF3bN6jRqse",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x9a7a4C141a3BCCE4A31e42C1192Ac6Add35069b4",
-			"symbol": "XMM",
-			"name": "Momentum",
-			"decimals": 10,
-			"logoURI": "ipfs://QmRvFeGbvxogJrgWUvRoTJzC7yS6xz2UCjYtKHbAY4xMqV",
 			"tags": []
 		},
 		{

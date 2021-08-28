@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-26T17:06:14.884Z",
+	"timestamp": "2021-08-27T17:06:18.054Z",
 	"version": {
-		"major": 59,
+		"major": 60,
 		"minor": 0,
 		"patch": 0
 	},
@@ -2087,6 +2087,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
+			"symbol": "MEEB",
+			"name": "MEEB Vault",
+			"decimals": 18,
+			"logoURI": "ipfs://QmPDVfU55SfVWMVm6soCzPiDL7UUJPkiUZrmtfYNXxnLtz",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xBF494F02EE3FdE1F20BEE6242bCe2d1ED0c15e47",
 			"symbol": "WORLD",
 			"name": "World Token",
@@ -3683,6 +3692,15 @@
 			"name": "SwapShip",
 			"decimals": 18,
 			"logoURI": "ipfs://QmZy8fTUrazArDKwDbxN1G4tR8xPfDUjs1CvJtxwRTWaqU",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+			"symbol": "FRAX",
+			"name": "Frax",
+			"decimals": 18,
+			"logoURI": "ipfs://QmRirZ2xjnJGyxbLnNvWTaiKT1YvPY58UYeA9u6GYgQKiu",
 			"tags": []
 		},
 		{
@@ -8939,15 +8957,6 @@
 		},
 		{
 			"chainId": 1,
-			"address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
-			"symbol": "ROUTE",
-			"name": "Router Protocol",
-			"decimals": 18,
-			"logoURI": "ipfs://Qma8NkdFrza8JLpMqHZWykYuh2diCPckmNwAF3bN6jRqse",
-			"tags": []
-		},
-		{
-			"chainId": 1,
 			"address": "0x1017B147b05942EAd495E2ad6d606EF3C94B8FD0",
 			"symbol": "VNL",
 			"name": "Vanilla",
@@ -9083,15 +9092,6 @@
 			"name": "Modum",
 			"decimals": 0,
 			"logoURI": "ipfs://QmdHSe6UiBRbphXADmecUGYxGKsUwyjzEJdCESMDA2sNPk",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
-			"symbol": "LAND",
-			"name": "Decentraland LAND",
-			"decimals": 0,
-			"logoURI": "ipfs://QmTNcsaqyTgTJ968Mi3dWUp1Uetu7fBN9LGbmwatyL2Frf",
 			"tags": []
 		}
 	]

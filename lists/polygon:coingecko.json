@@ -4,8 +4,16 @@
 	"keywords": [
 		"defi"
 	],
-	"timestamp": "2021-08-26T16:04:55.100+00:00",
+	"timestamp": "2021-08-27T08:04:45.490+00:00",
 	"tokens": [
+		{
+			"chainId": 137,
+			"address": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360",
+			"name": "Aave Polygon AAVE",
+			"symbol": "AMAAVE",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/17239/thumb/amAAVE_2x.png?1626940769"
+		},
 		{
 			"chainId": 137,
 			"address": "0x68f044b59d96ec856ac72c29df997348c8c1fff3",
@@ -32,19 +40,27 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0x9ad36aff5c08f5007e5f1c168f2b958db77ef7c4",
-			"name": "Rapture Token",
-			"symbol": "RT",
+			"address": "0x98b1d7ba836a0a73d741735a309a18febeb6299c",
+			"name": "Polycorn Finance",
+			"symbol": "YCORN",
 			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17965/thumb/LOGO_200_%283%29.png?1629946161"
+			"logoURI": "https://assets.coingecko.com/coins/images/17426/thumb/output-onlinepngtools_%285%29.png?1627607047"
 		},
 		{
 			"chainId": 137,
-			"address": "0x8d43b5c7e3d7577bbf75b70c3880b99164a23634",
-			"name": "Trodl",
-			"symbol": "TRO",
+			"address": "0x883abe4168705d2e5da925d28538b7a6aa9d8419",
+			"name": "Ball Token",
+			"symbol": "BALL",
 			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/14713/thumb/KU_Ul7P5_400x400.jpg?1617921826"
+			"logoURI": "https://assets.coingecko.com/coins/images/17557/thumb/2_%289%29.png?1628228675"
+		},
+		{
+			"chainId": 137,
+			"address": "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975",
+			"name": "xDollar Stablecoin",
+			"symbol": "XUSD",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/16291/thumb/xUSD-web-transparent.png?1623661715"
 		},
 		{
 			"chainId": 137,
@@ -56,19 +72,19 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0x98b1d7ba836a0a73d741735a309a18febeb6299c",
-			"name": "Polycorn Finance",
-			"symbol": "YCORN",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17426/thumb/output-onlinepngtools_%285%29.png?1627607047"
-		},
-		{
-			"chainId": 137,
 			"address": "0x0c8c8ae8bc3a69dc8482c01ceacfb588bb516b01",
 			"name": "AuroraToken",
 			"symbol": "AURORA",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/15345/thumb/aurora_tokenlogo.png?1620622117"
+		},
+		{
+			"chainId": 137,
+			"address": "0x8d43b5c7e3d7577bbf75b70c3880b99164a23634",
+			"name": "Trodl",
+			"symbol": "TRO",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/14713/thumb/KU_Ul7P5_400x400.jpg?1617921826"
 		},
 		{
 			"chainId": 137,
@@ -88,14 +104,6 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0xf4b0903774532aee5ee567c02aab681a81539e92",
-			"name": "Gaj Finance",
-			"symbol": "GAJ",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/15257/thumb/logo200x200.png?1629887093"
-		},
-		{
-			"chainId": 137,
 			"address": "0xa656dc2b1061f80f4e847bba2d9bd52db4889836",
 			"name": "50 Keeper",
 			"symbol": "50K",
@@ -112,27 +120,19 @@
 		},
 		{
 			"chainId": 137,
+			"address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+			"name": "IRON Titanium Token",
+			"symbol": "TITAN",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/16031/thumb/76583210.png?1622634331"
+		},
+		{
+			"chainId": 137,
 			"address": "0x66c59dded4ef01a3412a8b019b6e41d4a8c49a35",
 			"name": "SafeDollar",
 			"symbol": "SDO",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/16887/thumb/1_551bIKFiNCvKXdUloML0wA_%281%29.png?1625549180"
-		},
-		{
-			"chainId": 137,
-			"address": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360",
-			"name": "Aave Polygon AAVE",
-			"symbol": "AMAAVE",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17239/thumb/amAAVE_2x.png?1626940769"
-		},
-		{
-			"chainId": 137,
-			"address": "0x883abe4168705d2e5da925d28538b7a6aa9d8419",
-			"name": "Ball Token",
-			"symbol": "BALL",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17557/thumb/2_%289%29.png?1628228675"
 		},
 		{
 			"chainId": 137,
@@ -184,27 +184,19 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75",
-			"name": "SandMan",
-			"symbol": "SANDMAN",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17872/thumb/sandman-large.png?1629695052"
-		},
-		{
-			"chainId": 137,
-			"address": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
-			"name": "IRON Titanium Token",
-			"symbol": "TITAN",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/16031/thumb/76583210.png?1622634331"
-		},
-		{
-			"chainId": 137,
 			"address": "0x245e5ddb65efea6522fa913229df1f4957fb2e21",
 			"name": "LoserChick EGG",
 			"symbol": "EGG",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/17574/thumb/lRAQ2MOTpWqrHhI.png?1628551880"
+		},
+		{
+			"chainId": 137,
+			"address": "0xf9b4defdde04fe18f5ee6456607f8a2ec9ff6a75",
+			"name": "SandMan",
+			"symbol": "SANDMAN",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/17872/thumb/sandman-large.png?1629695052"
 		},
 		{
 			"chainId": 137,
@@ -229,6 +221,14 @@
 			"symbol": "GMS",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/16871/thumb/coin200x200.png?1625476941"
+		},
+		{
+			"chainId": 137,
+			"address": "0x70784d8a360491562342b4f3d3d039aaacaf8f5d",
+			"name": "Simba Empire",
+			"symbol": "SIM",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/17712/thumb/Logo_Simba_200x200.png?1629083120"
 		},
 		{
 			"chainId": 137,
@@ -285,14 +285,6 @@
 			"symbol": "AMUSDC",
 			"decimals": 6,
 			"logoURI": "https://assets.coingecko.com/coins/images/17249/thumb/amUSDC_2x.png?1626941306"
-		},
-		{
-			"chainId": 137,
-			"address": "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975",
-			"name": "xDollar Stablecoin",
-			"symbol": "XUSD",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/16291/thumb/xUSD-web-transparent.png?1623661715"
 		},
 		{
 			"chainId": 137,
@@ -376,14 +368,6 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0x1da554d34027ca8de74c5b1cd2fa53a8a1492c94",
-			"name": "PolyLion",
-			"symbol": "LION",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/15578/thumb/logo_-_2021-05-17T161550.501.png?1621239357"
-		},
-		{
-			"chainId": 137,
 			"address": "0xfc5a11d0fe8b5ad23b8a643df5eae60b979ce1bf",
 			"name": "PolyWhirl",
 			"symbol": "WHIRL",
@@ -421,6 +405,14 @@
 			"symbol": "8BALL",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/16531/thumb/932-ABB99-78-DF-4-DD1-A6-B7-E7-DC9-C7-DB6-E6.png?1624343328"
+		},
+		{
+			"chainId": 137,
+			"address": "0x1da554d34027ca8de74c5b1cd2fa53a8a1492c94",
+			"name": "PolyLion",
+			"symbol": "LION",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/15578/thumb/logo_-_2021-05-17T161550.501.png?1621239357"
 		},
 		{
 			"chainId": 137,
@@ -757,14 +749,6 @@
 			"symbol": "WMATIC",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/14073/thumb/matic.png?1628852392"
-		},
-		{
-			"chainId": 137,
-			"address": "0x70784d8a360491562342b4f3d3d039aaacaf8f5d",
-			"name": "Simba Empire",
-			"symbol": "SIM",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/17712/thumb/Logo_Simba_200x200.png?1629083120"
 		},
 		{
 			"chainId": 137,
@@ -2477,11 +2461,43 @@
 			"symbol": "POWER",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/11618/thumb/unipower.png?1591943398"
+		},
+		{
+			"chainId": 137,
+			"address": "0xf4b0903774532aee5ee567c02aab681a81539e92",
+			"name": "Gaj Finance",
+			"symbol": "GAJ",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/15257/thumb/logo200x200.png?1629887093"
+		},
+		{
+			"chainId": 137,
+			"address": "0x554f074d9ccda8f483d1812d4874cbebd682644e",
+			"name": "AnRKey X",
+			"symbol": "ANRX",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/13415/thumb/anrkey.jpg?1608311301"
+		},
+		{
+			"chainId": 137,
+			"address": "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2",
+			"name": "RAMP",
+			"symbol": "RAMP",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/12837/thumb/RAMP-Logo-v2-1000pxsq.png?1617952606"
+		},
+		{
+			"chainId": 137,
+			"address": "0x5fcb9de282af6122ce3518cde28b7089c9f97b26",
+			"name": "DeHive",
+			"symbol": "DHV",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/14926/thumb/logo_200x200.png?1626181831"
 		}
 	],
 	"version": {
-		"major": 14,
-		"minor": 41,
+		"major": 15,
+		"minor": 1,
 		"patch": 0
 	}
 }

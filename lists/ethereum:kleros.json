@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-27T17:06:18.054Z",
+	"timestamp": "2021-08-30T17:06:14.721Z",
 	"version": {
-		"major": 60,
+		"major": 61,
 		"minor": 0,
 		"patch": 0
 	},
@@ -8953,15 +8953,6 @@
 			"name": "Clover",
 			"decimals": 6,
 			"logoURI": "ipfs://QmULSQePcd3JQZux1SWpXCeb4hqgs5yfWQHgLoeVSPpVu3",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x1017B147b05942EAd495E2ad6d606EF3C94B8FD0",
-			"symbol": "VNL",
-			"name": "Vanilla",
-			"decimals": 12,
-			"logoURI": "ipfs://QmaQMhpKPaChXBXVgJkc3jxKcDDCJsJKYVJUMadTigSmHe",
 			"tags": []
 		},
 		{

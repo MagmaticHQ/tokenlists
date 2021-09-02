@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-08-30T17:06:14.721Z",
+	"timestamp": "2021-09-01T17:06:16.712Z",
 	"version": {
-		"major": 61,
+		"major": 62,
 		"minor": 0,
 		"patch": 0
 	},
@@ -413,6 +413,15 @@
 			"name": "Direwolf",
 			"decimals": 2,
 			"logoURI": "ipfs://QmeyMEHbreLKo7pzGnBrDgnaQ2fkZJY7391ybqq2idXBSS",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xA4f2fDB0a5842d62bbAa5B903f09687B85E4bf59",
+			"symbol": "TBOT",
+			"name": "TBOT Project",
+			"decimals": 18,
+			"logoURI": "ipfs://QmQJ9iEaEpnBRY8B3SmiMZ7ZvmLAfp4WGQXnvzM9BziYhp",
 			"tags": []
 		},
 		{
@@ -8944,15 +8953,6 @@
 			"name": "HippoFinance",
 			"decimals": 18,
 			"logoURI": "ipfs://QmYd6Yh3t7JAkvYcyA3gn65jZonX2oupy9T2CAQpr9XwfK",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
-			"symbol": "CLV",
-			"name": "Clover",
-			"decimals": 6,
-			"logoURI": "ipfs://QmULSQePcd3JQZux1SWpXCeb4hqgs5yfWQHgLoeVSPpVu3",
 			"tags": []
 		},
 		{

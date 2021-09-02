@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-08-25T13:20:49.308Z",
+	"timestamp": "2021-09-01T12:52:13.879Z",
 	"version": {
 		"major": 1,
 		"minor": 0,
-		"patch": 97
+		"patch": 98
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -13,6 +13,14 @@
 		"default"
 	],
 	"tokens": [
+		{
+			"name": "AnRKey X",
+			"address": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
+			"symbol": "$ANRX",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/13415/small/anrkey.jpg?1608311301"
+		},
 		{
 			"name": "decentral.games",
 			"address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
@@ -68,6 +76,14 @@
 			"decimals": 8,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/06BkcTT.png"
+		},
+		{
+			"name": "Angel",
+			"address": "0x0B6afe834dab840335F87d99b45C2a4bd81A93c7",
+			"symbol": "ANGEL",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/17739/small/Polylauncher_-_200_x_200.png?1629121147"
 		},
 		{
 			"name": "Anyswap",
@@ -188,6 +204,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
+		},
+		{
+			"name": "Centaur Token",
+			"address": "0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5",
+			"symbol": "CNTR",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/cH3LOBD.png"
 		},
 		{
 			"name": "Furucombo",
@@ -558,6 +582,14 @@
 			"logoURI": "https://kogefarm.io/koge-logo-01.png"
 		},
 		{
+			"name": "Kommunitas",
+			"address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+			"symbol": "KOM",
+			"decimals": 8,
+			"chainId": 137,
+			"logoURI": "https://i.imgur.com/KTS2F7I.png"
+		},
+		{
 			"name": "Krill",
 			"address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
 			"symbol": "Krill",
@@ -580,6 +612,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+		},
+		{
+			"name": "Wrapped LUNA Token",
+			"address": "0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+			"symbol": "LUNA",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
 		},
 		{
 			"name": "Matic Aave interest bearing AAVE",
@@ -620,6 +660,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+		},
+		{
+			"name": "Mask Network",
+			"address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
+			"symbol": "MASK",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://dimensiondev.github.io/Maskbook-VI/assets/Logo/MB--Logo--CombH-Circle--White.png"
 		},
 		{
 			"name": "Matic Aave interest bearing TUSD",
@@ -966,6 +1014,14 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/12373/small/REVV_TOKEN_Refined_2021_%281%29.png?1627652390"
 		},
 		{
+			"name": "Darwinia",
+			"address": "0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f",
+			"symbol": "Ring",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/9443/small/RING.png?1615271827"
+		},
+		{
 			"name": "rUSD",
 			"address": "0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5",
 			"symbol": "rUSD",
@@ -1038,12 +1094,28 @@
 			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/sx.jpg"
 		},
 		{
+			"name": "The Crypto Prophecies",
+			"address": "0x032F85b8FbF8540a92B986d953e4C3A61C76d39E",
+			"symbol": "TCP",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/15054/small/tcp.PNG?1619579195"
+		},
+		{
 			"name": "Telcoin",
 			"address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
 			"symbol": "TEL",
 			"decimals": 2,
 			"chainId": 137,
 			"logoURI": "https://etherscan.io/token/images/telcoin_28.png"
+		},
+		{
+			"name": "Polytrade",
+			"address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+			"symbol": "TRADE",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://polygonscan.com/token/images/polytrade_32.png"
 		},
 		{
 			"name": "Unibright",
@@ -1060,6 +1132,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
+		},
+		{
+			"name": "Unreal Governance Token",
+			"address": "0xBa4c54Ea2d66b904C82847A7d2357d22B857E812",
+			"symbol": "UGT",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/11292.png"
 		},
 		{
 			"name": "Uniswap",
@@ -1084,6 +1164,14 @@
 			"decimals": 6,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+		},
+		{
+			"name": "Wrapped UST Token",
+			"address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+			"symbol": "UST",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407"
 		},
 		{
 			"name": "Vision Token",

@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-01T17:06:16.712Z",
+	"timestamp": "2021-09-04T17:06:21.359Z",
 	"version": {
-		"major": 62,
+		"major": 63,
 		"minor": 0,
 		"patch": 0
 	},
@@ -880,6 +880,15 @@
 			"name": "Baer Chain",
 			"decimals": 8,
 			"logoURI": "ipfs://QmbCXKAiFy8ffuxLCXDoFWEg6NYoVm5ktyxeuNdRQ4sYAP",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+			"symbol": "xSUSHI",
+			"name": "xSUSHI",
+			"decimals": 18,
+			"logoURI": "ipfs://Qmcj43QaVBSTHgLDZNkAJVqzqMNoJeUdd2kwrYvnQRemah",
 			"tags": []
 		},
 		{
@@ -6891,6 +6900,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+			"symbol": "DAWN",
+			"name": "Dawn Protocol",
+			"decimals": 18,
+			"logoURI": "ipfs://QmSpVb83xQL5jJ1kRh2MnuWurW2p9BrZxwpirdXJUSGg66",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
 			"symbol": "BAT",
 			"name": "Basic Attention Token",
@@ -7511,6 +7529,15 @@
 			"name": "DEXTools",
 			"decimals": 18,
 			"logoURI": "ipfs://QmPe856WVFjcY4ojDYneaoCp7ZvgpZVFJpF19GmeptgZ3o",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+			"symbol": "FOX",
+			"name": "ShapeShift FOX ",
+			"decimals": 18,
+			"logoURI": "ipfs://QmTp7cS7TpSvhgSJigweLym1tUpAyKcCwhK3ifWHHNkPDP",
 			"tags": []
 		},
 		{
@@ -8926,33 +8953,6 @@
 			"name": "MoneyToken",
 			"decimals": 18,
 			"logoURI": "ipfs://QmPFy5mdsTktAy2wpPizjAATfUNuVtTwti2DxUwgcsae8g",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
-			"symbol": "DG",
-			"name": "Decentral Games",
-			"decimals": 18,
-			"logoURI": "ipfs://QmaGqCR3Tg4WSfSGvpjmCqbDGr3ChB6SBRFfnzTjBTMUoh",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
-			"symbol": "WOO",
-			"name": "Wootrade Network",
-			"decimals": 18,
-			"logoURI": "ipfs://QmNkuV4qxhgQ7PzbhKUvmGZ34SzHYnGXR9novnpf2h8DdM",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x81313f7c5c9C824236c9E4cba3AC4B049986E756",
-			"symbol": "HIPPO",
-			"name": "HippoFinance",
-			"decimals": 18,
-			"logoURI": "ipfs://QmYd6Yh3t7JAkvYcyA3gn65jZonX2oupy9T2CAQpr9XwfK",
 			"tags": []
 		},
 		{

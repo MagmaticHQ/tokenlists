@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-04T17:06:21.359Z",
+	"timestamp": "2021-09-06T17:06:14.054Z",
 	"version": {
-		"major": 63,
+		"major": 64,
 		"minor": 0,
 		"patch": 0
 	},
@@ -691,6 +691,15 @@
 			"name": "Dock",
 			"decimals": 18,
 			"logoURI": "ipfs://QmUbbAZALQaH8MFY1mHHYf2QXHsAotafHqq7aMqUJveqR2",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x515d7E9D75E2b76DB60F8a051Cd890eBa23286Bc",
+			"symbol": "GDAO",
+			"name": "Governor DAO",
+			"decimals": 18,
+			"logoURI": "ipfs://Qme9zUccf3bx35rv8MV9t627UWR64HbPT7RnogM1Wbnwhz",
 			"tags": []
 		},
 		{
@@ -8944,15 +8953,6 @@
 			"name": "Synthetix Network Token",
 			"decimals": 18,
 			"logoURI": "ipfs://QmR1YkycrQhHZU3dWF1F26yrnb5zwTEutH9Dp57ww3bxgE",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
-			"symbol": "IMT",
-			"name": "MoneyToken",
-			"decimals": 18,
-			"logoURI": "ipfs://QmPFy5mdsTktAy2wpPizjAATfUNuVtTwti2DxUwgcsae8g",
 			"tags": []
 		},
 		{

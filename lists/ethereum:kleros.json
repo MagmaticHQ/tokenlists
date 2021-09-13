@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-06T17:06:14.054Z",
+	"timestamp": "2021-09-12T17:06:13.603Z",
 	"version": {
 		"major": 64,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -4670,18 +4670,6 @@
 		},
 		{
 			"chainId": 1,
-			"address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-			"symbol": "PAX",
-			"name": "Paxos Standard",
-			"decimals": 18,
-			"logoURI": "ipfs://QmQTzo6Ecdn54x7NafwegjLetAnno1ATL9Y8M3PcVXGVhR",
-			"tags": [
-				"erc20",
-				"stablecoin"
-			]
-		},
-		{
-			"chainId": 1,
 			"address": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
 			"symbol": "GRID",
 			"name": "Grid+",
@@ -8954,6 +8942,27 @@
 			"decimals": 18,
 			"logoURI": "ipfs://QmR1YkycrQhHZU3dWF1F26yrnb5zwTEutH9Dp57ww3bxgE",
 			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
+			"symbol": "IMT",
+			"name": "MoneyToken",
+			"decimals": 18,
+			"logoURI": "ipfs://QmPFy5mdsTktAy2wpPizjAATfUNuVtTwti2DxUwgcsae8g",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+			"symbol": "PAX",
+			"name": "Paxos Standard",
+			"decimals": 18,
+			"logoURI": "ipfs://QmQTzo6Ecdn54x7NafwegjLetAnno1ATL9Y8M3PcVXGVhR",
+			"tags": [
+				"erc20",
+				"stablecoin"
+			]
 		},
 		{
 			"chainId": 1,

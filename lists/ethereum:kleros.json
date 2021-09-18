@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-12T17:06:13.603Z",
+	"timestamp": "2021-09-17T17:06:16.638Z",
 	"version": {
-		"major": 64,
-		"minor": 1,
+		"major": 65,
+		"minor": 0,
 		"patch": 0
 	},
 	"tags": {
@@ -7101,6 +7101,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+			"symbol": "DYDX",
+			"name": "dYdX",
+			"decimals": 18,
+			"logoURI": "ipfs://QmWvzRABL7bNs3wjMy6vjvaZs3525XwQDaPspibkqwa1wQ",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
 			"symbol": "GIV",
 			"name": "GIV",
@@ -7299,6 +7308,15 @@
 			"name": "REBASE",
 			"decimals": 9,
 			"logoURI": "ipfs://QmT8Av7SJPp6nuRT3j3hKkDVLGBg8wSawwEAAKkyzXxeHq",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
+			"symbol": "SDT",
+			"name": "Stake DAO",
+			"decimals": 18,
+			"logoURI": "ipfs://QmeoNizSHj1P78aQUKD6cUz1VqHj4q6JhkFfLvwKcuk4fH",
 			"tags": []
 		},
 		{
@@ -8933,36 +8951,6 @@
 			"decimals": 18,
 			"logoURI": "ipfs://QmRih3YJut1LG3Cz77qWZQkegjUGWb3TPHTjmyqkadk8gc",
 			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-			"symbol": "SNX",
-			"name": "Synthetix Network Token",
-			"decimals": 18,
-			"logoURI": "ipfs://QmR1YkycrQhHZU3dWF1F26yrnb5zwTEutH9Dp57ww3bxgE",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
-			"symbol": "IMT",
-			"name": "MoneyToken",
-			"decimals": 18,
-			"logoURI": "ipfs://QmPFy5mdsTktAy2wpPizjAATfUNuVtTwti2DxUwgcsae8g",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-			"symbol": "PAX",
-			"name": "Paxos Standard",
-			"decimals": 18,
-			"logoURI": "ipfs://QmQTzo6Ecdn54x7NafwegjLetAnno1ATL9Y8M3PcVXGVhR",
-			"tags": [
-				"erc20",
-				"stablecoin"
-			]
 		},
 		{
 			"chainId": 1,

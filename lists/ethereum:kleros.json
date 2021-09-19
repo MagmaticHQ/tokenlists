@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-17T17:06:16.638Z",
+	"timestamp": "2021-09-18T17:06:15.220Z",
 	"version": {
-		"major": 65,
+		"major": 66,
 		"minor": 0,
 		"patch": 0
 	},
@@ -1993,6 +1993,15 @@
 			"name": "CoinPoker",
 			"decimals": 18,
 			"logoURI": "ipfs://QmRzx6Pts5vuMyw5hH6MLVL1QSJs7d9WRE1nBcxSTjLBgG",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
+			"symbol": "RAZOR",
+			"name": "Razor Network",
+			"decimals": 18,
+			"logoURI": "ipfs://QmRV2tapVxDTuwvShxMw5RhHx6uKr9ZrN79rwcnaJbCcnX",
 			"tags": []
 		},
 		{
@@ -8941,15 +8950,6 @@
 			"name": "SuperFarm",
 			"decimals": 18,
 			"logoURI": "ipfs://QmVRinBfrprs8MEtNmmMocyiQWA6UdyNWVcHszQ2XhLaC5",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
-			"symbol": "NEU",
-			"name": "Neumark",
-			"decimals": 18,
-			"logoURI": "ipfs://QmRih3YJut1LG3Cz77qWZQkegjUGWb3TPHTjmyqkadk8gc",
 			"tags": []
 		},
 		{

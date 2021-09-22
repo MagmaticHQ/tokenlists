@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-18T17:06:15.220Z",
+	"timestamp": "2021-09-21T17:06:14.802Z",
 	"version": {
-		"major": 66,
+		"major": 67,
 		"minor": 0,
 		"patch": 0
 	},
@@ -2790,6 +2790,18 @@
 			"decimals": 18,
 			"logoURI": "ipfs://QmRV2pYGPApAQG18adixxcHCX7CmLWV5Px3AofmafkRGkR",
 			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+			"symbol": "USDP",
+			"name": "Pax Dollar",
+			"decimals": 18,
+			"logoURI": "ipfs://QmaiB87xQzMZdHKanh9etNECJLiYrm7kuvBRq1Y3DbCTmy",
+			"tags": [
+				"erc20",
+				"stablecoin"
+			]
 		},
 		{
 			"chainId": 1,
@@ -8941,15 +8953,6 @@
 			"name": "Synthetic Inverse TRON",
 			"decimals": 18,
 			"logoURI": "ipfs://QmPJZmb2Z79mdhKos8XAwTxxqQvXJ4LcFCaezJC4DsQcTJ",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
-			"symbol": "SUPER",
-			"name": "SuperFarm",
-			"decimals": 18,
-			"logoURI": "ipfs://QmVRinBfrprs8MEtNmmMocyiQWA6UdyNWVcHszQ2XhLaC5",
 			"tags": []
 		},
 		{

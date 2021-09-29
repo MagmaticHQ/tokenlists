@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-21T17:06:14.802Z",
+	"timestamp": "2021-09-28T17:06:16.553Z",
 	"version": {
-		"major": 67,
+		"major": 68,
 		"minor": 0,
 		"patch": 0
 	},
@@ -3320,6 +3320,15 @@
 			"name": "Froge Finance",
 			"decimals": 9,
 			"logoURI": "ipfs://QmfAkRHyxrTRYCHnGBmDzskncFCtf12gscthvhGzY7iBm6",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xe1030B48b2033314979143766d7dC1F40ef8CE11",
+			"symbol": "PEEPS",
+			"name": "The People's Coin",
+			"decimals": 18,
+			"logoURI": "ipfs://QmXHMayDLaFRyVpfoCEHJbNduk4DcHzGii6TbJXQ43Tbaa",
 			"tags": []
 		},
 		{
@@ -8944,15 +8953,6 @@
 			"name": "Telcoin",
 			"decimals": 2,
 			"logoURI": "ipfs://QmZKZAAhahLvonHLMUd9DnqCHCCGuXS9JMPtb1bXA1uYL4",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xC5807183a9661A533CB08CbC297594a0B864dc12",
-			"symbol": "iTRX",
-			"name": "Synthetic Inverse TRON",
-			"decimals": 18,
-			"logoURI": "ipfs://QmPJZmb2Z79mdhKos8XAwTxxqQvXJ4LcFCaezJC4DsQcTJ",
 			"tags": []
 		},
 		{

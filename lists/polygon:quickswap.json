@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-09-22T13:48:03.836Z",
+	"timestamp": "2021-09-29T16:56:32.528Z",
 	"version": {
 		"major": 1,
 		"minor": 1,
-		"patch": 5
+		"patch": 8
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -94,6 +94,14 @@
 			"logoURI": "https://aria.fyi/images/Aria_Logo_256.png"
 		},
 		{
+			"name": "Cosmos",
+			"address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+			"symbol": "ATOM",
+			"decimals": 6,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960"
+		},
+		{
 			"name": "Avalanche Token",
 			"address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
 			"symbol": "AVAX",
@@ -150,14 +158,6 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753"
 		},
 		{
-			"name": "CyberFi Token",
-			"address": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
-			"symbol": "CFI",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://i.imgur.com/Z8V1O7H.png"
-		},
-		{
 			"name": "ChainGuardians Governance Token",
 			"address": "0x2Ab4f9aC80F33071211729e45Cfc346C1f8446d5",
 			"symbol": "CGG",
@@ -172,14 +172,6 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://i.loli.net/2021/07/28/K83jnTJzG9bq7Xt.png"
-		},
-		{
-			"name": "ChumHum",
-			"address": "0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca",
-			"symbol": "CHUM",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://i.imgur.com/66lM7Rx.png"
 		},
 		{
 			"name": "Crosschain IOTX",
@@ -340,6 +332,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/14238/small/ethernity_logo.png?1615189750"
+		},
+		{
+			"name": "SifChain",
+			"address": "0xa7051C5a22d963b81D71C2BA64D46a877fBc1821",
+			"symbol": "EROWAN",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/14044/small/EROWAN.png?1614656300"
 		},
 		{
 			"name": "Ether",
@@ -718,14 +718,6 @@
 			"logoURI": "https://i.imgur.com/q0LZUrw.png"
 		},
 		{
-			"name": "Matic Deflect Protocol",
-			"address": "0x82B6205002ecd05e97642D38D61e2cFeaC0E18cE",
-			"symbol": "mDEF",
-			"decimals": 9,
-			"chainId": 137,
-			"logoURI": "https://etherscan.io/token/images/deflect_32.png?=v1"
-		},
-		{
 			"name": "MeebMaster.com Token",
 			"address": "0x64aFDF9e28946419E325d801Fb3053d8B8FFdC23",
 			"symbol": "MEEB",
@@ -790,6 +782,14 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/17393/small/ME_logo_200_200.png?1627526275"
 		},
 		{
+			"name": "Mobius Token",
+			"address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
+			"symbol": "MOT",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/18144/small/11322.png?1630668459"
+		},
+		{
 			"name": "Matic Rebalance Token",
 			"address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
 			"symbol": "mRBAL",
@@ -799,7 +799,7 @@
 		},
 		{
 			"name": "MaticVerse",
-			"address": "0x0B313b4C589A3BD3350f625f2e94DC80AB50017E",
+			"address": "0xFEb090FcD433dE479396E82DB8B83a470dbAD3c9",
 			"symbol": "Mverse",
 			"decimals": 18,
 			"chainId": 137,
@@ -814,12 +814,12 @@
 			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png"
 		},
 		{
-			"name": "NFT Platform Index",
-			"address": "0xf7d9e281c5Cb4C6796284C5b663b3593D2037aF2",
-			"symbol": "NFTP",
+			"name": "NASDEX Token",
+			"address": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+			"symbol": "NSDX",
 			"decimals": 18,
 			"chainId": 137,
-			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/NFTP.png"
+			"logoURI": "https://assets.coingecko.com/coins/images/18634/small/nadex.PNG?1632727863"
 		},
 		{
 			"name": "O3 Swap Token",
@@ -1078,14 +1078,6 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/16074/small/polysafu.PNG?1622770619"
 		},
 		{
-			"name": "Sentinel",
-			"address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
-			"symbol": "SENT",
-			"decimals": 8,
-			"chainId": 137,
-			"logoURI": "https://cdn-images-1.medium.com/max/1200/1*mK1oPGsQWh4Nfupg-e0S-g.png"
-		},
-		{
 			"name": "PolyShield",
 			"address": "0xF239E69ce434c7Fb408b05a0Da416b14917d934e",
 			"symbol": "SHI3LD",
@@ -1132,14 +1124,6 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/vZnU36G.png"
-		},
-		{
-			"name": "Swirge",
-			"address": "0x043A3Aa319B563aC25D4E342d32bFfb51298DB7b",
-			"symbol": "SWG",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://etherscan.io/token/images/swirge_32.png"
 		},
 		{
 			"name": "SportX",
@@ -1364,6 +1348,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/cwfndaf.png"
+		},
+		{
+			"name": "YfDAI.finance",
+			"address": "0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8",
+			"symbol": "Yf-DAI",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/12385/small/1619048513068.png?1622193581"
 		},
 		{
 			"name": "yearn.finance",

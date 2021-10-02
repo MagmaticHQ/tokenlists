@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-09-28T17:06:16.553Z",
+	"timestamp": "2021-10-01T17:06:14.961Z",
 	"version": {
-		"major": 68,
+		"major": 69,
 		"minor": 0,
 		"patch": 0
 	},
@@ -3511,6 +3511,15 @@
 			"name": "AllianceBlock",
 			"decimals": 18,
 			"logoURI": "ipfs://QmUcLLfwikZ2G4BKKyh7DULQgSMGSzKpThWpWHhKvoW9DX",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xEd025A9Fe4b30bcd68460BCA42583090c2266468",
+			"symbol": "RPC",
+			"name": "Ripio Coin",
+			"decimals": 18,
+			"logoURI": "ipfs://QmfLvozoxntWu5t2GYsPYuc9RLDR9bpwxK3mXcuXuFyvgG",
 			"tags": []
 		},
 		{
@@ -8944,15 +8953,6 @@
 			"name": "Synthetic Inverse Uniswap",
 			"decimals": 18,
 			"logoURI": "ipfs://QmWNGmvWDxysE1CSG86mHszRses41oCYqif9hrcCqBz17d",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
-			"symbol": "TEL",
-			"name": "Telcoin",
-			"decimals": 2,
-			"logoURI": "ipfs://QmZKZAAhahLvonHLMUd9DnqCHCCGuXS9JMPtb1bXA1uYL4",
 			"tags": []
 		},
 		{

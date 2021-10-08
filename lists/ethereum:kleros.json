@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-01T17:06:14.961Z",
+	"timestamp": "2021-10-07T17:06:15.756Z",
 	"version": {
-		"major": 69,
+		"major": 70,
 		"minor": 0,
 		"patch": 0
 	},
@@ -1703,6 +1703,15 @@
 			"name": "Playgroundz",
 			"decimals": 18,
 			"logoURI": "ipfs://QmP4Le1vjnsan4RSEiNPExQttXTJPhm51yPeJj7ovUeGcq",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x31d4Eb09a216e181eC8a43ce79226A487D6F0BA9",
+			"symbol": "USDM",
+			"name": "USDM",
+			"decimals": 18,
+			"logoURI": "ipfs://QmQ7NFtPB9SRTPNwFdC8f9U4qJqosQBUiEv29QKJzqv4Jz",
 			"tags": []
 		},
 		{
@@ -8944,15 +8953,6 @@
 			"name": "QuarkChain",
 			"decimals": 18,
 			"logoURI": "ipfs://QmTkziAiXhAkYFeKtaeRp4MeA21YdzwP9idruxf6QfEebi",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x36A00FF9072570eF4B9292117850B8FE08d96cce",
-			"symbol": "iUNI",
-			"name": "Synthetic Inverse Uniswap",
-			"decimals": 18,
-			"logoURI": "ipfs://QmWNGmvWDxysE1CSG86mHszRses41oCYqif9hrcCqBz17d",
 			"tags": []
 		},
 		{

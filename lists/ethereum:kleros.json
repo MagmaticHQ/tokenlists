@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-07T17:06:15.756Z",
+	"timestamp": "2021-10-11T17:06:13.032Z",
 	"version": {
 		"major": 70,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -5893,15 +5893,6 @@
 		},
 		{
 			"chainId": 1,
-			"address": "0x17a4Ae8B1ea75d51AB0F2875B80452F7e34c272a",
-			"symbol": "KAWA",
-			"name": "Kawakami Inu",
-			"decimals": 18,
-			"logoURI": "ipfs://QmQQhDiGDTTJykKutvSvT9v9prR13CD973cQHCfu8MV3ep",
-			"tags": []
-		},
-		{
-			"chainId": 1,
 			"address": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
 			"symbol": "PIPT",
 			"name": "Power Index Pool Token",
@@ -8953,6 +8944,24 @@
 			"name": "QuarkChain",
 			"decimals": 18,
 			"logoURI": "ipfs://QmTkziAiXhAkYFeKtaeRp4MeA21YdzwP9idruxf6QfEebi",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x36A00FF9072570eF4B9292117850B8FE08d96cce",
+			"symbol": "iUNI",
+			"name": "Synthetic Inverse Uniswap",
+			"decimals": 18,
+			"logoURI": "ipfs://QmWNGmvWDxysE1CSG86mHszRses41oCYqif9hrcCqBz17d",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x17a4Ae8B1ea75d51AB0F2875B80452F7e34c272a",
+			"symbol": "KAWA",
+			"name": "Kawakami Inu",
+			"decimals": 18,
+			"logoURI": "ipfs://QmQQhDiGDTTJykKutvSvT9v9prR13CD973cQHCfu8MV3ep",
 			"tags": []
 		},
 		{

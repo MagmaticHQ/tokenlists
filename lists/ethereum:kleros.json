@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-11T17:06:13.032Z",
+	"timestamp": "2021-10-15T17:06:16.287Z",
 	"version": {
-		"major": 70,
-		"minor": 1,
+		"major": 71,
+		"minor": 0,
 		"patch": 0
 	},
 	"tags": {
@@ -6075,6 +6075,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xe0AeE745b22c522DE621F826a9453f534808DFD0",
+			"symbol": "MCU",
+			"name": "Meme Coin Universe",
+			"decimals": 9,
+			"logoURI": "ipfs://QmPpiU8NHE4McSKLRgCD3TTHn95uRTCaucUqxKv23AFfNb",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xE277aC35F9D327A670c1A3F3eeC80a83022431e4",
 			"symbol": "PUX",
 			"name": "PolypuX",
@@ -8944,15 +8953,6 @@
 			"name": "QuarkChain",
 			"decimals": 18,
 			"logoURI": "ipfs://QmTkziAiXhAkYFeKtaeRp4MeA21YdzwP9idruxf6QfEebi",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x36A00FF9072570eF4B9292117850B8FE08d96cce",
-			"symbol": "iUNI",
-			"name": "Synthetic Inverse Uniswap",
-			"decimals": 18,
-			"logoURI": "ipfs://QmWNGmvWDxysE1CSG86mHszRses41oCYqif9hrcCqBz17d",
 			"tags": []
 		},
 		{

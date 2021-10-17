@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-15T17:06:16.287Z",
+	"timestamp": "2021-10-16T17:06:14.464Z",
 	"version": {
-		"major": 71,
+		"major": 72,
 		"minor": 0,
 		"patch": 0
 	},
@@ -8953,15 +8953,6 @@
 			"name": "QuarkChain",
 			"decimals": 18,
 			"logoURI": "ipfs://QmTkziAiXhAkYFeKtaeRp4MeA21YdzwP9idruxf6QfEebi",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x17a4Ae8B1ea75d51AB0F2875B80452F7e34c272a",
-			"symbol": "KAWA",
-			"name": "Kawakami Inu",
-			"decimals": 18,
-			"logoURI": "ipfs://QmQQhDiGDTTJykKutvSvT9v9prR13CD973cQHCfu8MV3ep",
 			"tags": []
 		},
 		{

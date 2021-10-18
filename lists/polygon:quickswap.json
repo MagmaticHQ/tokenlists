@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-10-13T11:21:07.467Z",
+	"timestamp": "2021-10-17T11:47:14.314Z",
 	"version": {
 		"major": 1,
-		"minor": 1,
-		"patch": 10
+		"minor": 2,
+		"patch": 0
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -166,14 +166,6 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
 		},
 		{
-			"name": "Cryptocurrency Top Tokens Index",
-			"address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
-			"symbol": "CC10",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://etherscan.io/token/images/indexed-cc10_32.png"
-		},
-		{
 			"name": "Celsius",
 			"address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
 			"symbol": "CEL",
@@ -254,14 +246,6 @@
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
 		},
 		{
-			"name": "DEFI Top 5 Tokens Index",
-			"address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
-			"symbol": "DEFI5",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://i.imgur.com/uVGtugL.png"
-		},
-		{
 			"name": "DEGEN Index",
 			"address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
 			"symbol": "DEGEN",
@@ -300,14 +284,6 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://dinox.io/images/asset_icon_dnx.png"
-		},
-		{
-			"name": "Digital Reserve Currency",
-			"address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
-			"symbol": "DRC",
-			"decimals": 0,
-			"chainId": 137,
-			"logoURI": "https://pbs.twimg.com/profile_images/1318783238291292160/R4DxXdRA_400x400.jpg"
 		},
 		{
 			"name": "DSLA",
@@ -430,14 +406,6 @@
 			"logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
 		},
 		{
-			"name": "Fusion",
-			"address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-			"symbol": "FSN",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://cryptologos.cc/logos/fusion-fsn-logo.png?v=010"
-		},
-		{
 			"name": "FalconSwap Token",
 			"address": "0xad5dc12E88C6534Eea8cFe2265851D9d4A1472AD",
 			"symbol": "FSW",
@@ -476,14 +444,6 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://gains.farm/images/logo256.png"
-		},
-		{
-			"name": "Gravity Finance",
-			"address": "0x874e178A2f3f3F9d34db862453Cd756E7eAb0381",
-			"symbol": "GFI",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://assets.coingecko.com/coins/images/15871/small/GFI-Icon.png?1622178588"
 		},
 		{
 			"name": "Aavegotchi GHST Token",
@@ -574,14 +534,6 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/15952/small/IOI.jpg?1622514420"
 		},
 		{
-			"name": "Everipedia IQ",
-			"address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
-			"symbol": "IQ",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/IQ.png"
-		},
-		{
 			"name": "IRISnet",
 			"address": "0x3dc6052a693E4a2fc28Eb2Ea12fe0CfD3BD221D1",
 			"symbol": "IRIS",
@@ -628,14 +580,6 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/REyP9yh.jpg"
-		},
-		{
-			"name": "EthLend Token",
-			"address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
-			"symbol": "LEND",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
 		},
 		{
 			"name": "ChainLink Token",
@@ -836,14 +780,6 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/18144/small/11322.png?1630668459"
-		},
-		{
-			"name": "Matic Rebalance Token",
-			"address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
-			"symbol": "mRBAL",
-			"decimals": 18,
-			"chainId": 137,
-			"logoURI": "https://rebalancetoken.io/images/logo/logo.png"
 		},
 		{
 			"name": "MaticVerse",
@@ -1126,14 +1062,6 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/16184/small/rUSD-Logo-200.png?1623231145"
 		},
 		{
-			"name": "polySAFU",
-			"address": "0x26f6Cb841F9D4D72b68D7dCb6fDB5d6C832dD2A7",
-			"symbol": "SAFU",
-			"decimals": 9,
-			"chainId": 137,
-			"logoURI": "https://assets.coingecko.com/coins/images/16074/small/polysafu.PNG?1622770619"
-		},
-		{
 			"name": "PolyShield",
 			"address": "0xF239E69ce434c7Fb408b05a0Da416b14917d934e",
 			"symbol": "SHI3LD",
@@ -1388,14 +1316,6 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://i.imgur.com/Kte7hVj.jpg"
-		},
-		{
-			"name": "Standard",
-			"address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
-			"symbol": "xMARK",
-			"decimals": 9,
-			"chainId": 137,
-			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/8cb78aca77b340510958ed98a3cd260d2d7f0420/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png"
 		},
 		{
 			"name": "Persistence",

@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-16T17:06:14.464Z",
+	"timestamp": "2021-10-21T17:06:15.500Z",
 	"version": {
-		"major": 72,
+		"major": 73,
 		"minor": 0,
 		"patch": 0
 	},
@@ -6048,6 +6048,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x4E0fCa55a6C3A94720ded91153A27F60E26B9AA8",
+			"symbol": "BOOST",
+			"name": "Boost",
+			"decimals": 18,
+			"logoURI": "ipfs://QmYcHetRmGLD1rkUviTczdxE4Ja54NssxvWBGmxbhAZaBS",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xEA47B64e1BFCCb773A0420247C0aa0a3C1D2E5C5",
 			"symbol": "BAYC",
 			"name": "BAYC Vault",
@@ -8944,15 +8953,6 @@
 			"name": "Rivetz",
 			"decimals": 18,
 			"logoURI": "ipfs://QmT6W8a6pvN6WoZmPvHjbKjo6AQVmkpF4SvUhn7fiXrZRw",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
-			"symbol": "QKC",
-			"name": "QuarkChain",
-			"decimals": 18,
-			"logoURI": "ipfs://QmTkziAiXhAkYFeKtaeRp4MeA21YdzwP9idruxf6QfEebi",
 			"tags": []
 		},
 		{

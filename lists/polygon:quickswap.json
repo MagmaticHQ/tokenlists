@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-10-20T11:18:05.804Z",
+	"timestamp": "2021-10-22T19:47:05.355Z",
 	"version": {
 		"major": 1,
 		"minor": 2,
-		"patch": 1
+		"patch": 2
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -1092,6 +1092,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446"
+		},
+		{
+			"name": "StrongNodeEdge Token",
+			"address": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+			"symbol": "SNE",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12258.png"
 		},
 		{
 			"name": "Snook",

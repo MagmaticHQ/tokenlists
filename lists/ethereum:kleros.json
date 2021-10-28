@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-24T17:06:16.498Z",
+	"timestamp": "2021-10-27T17:06:16.073Z",
 	"version": {
-		"major": 74,
+		"major": 75,
 		"minor": 0,
 		"patch": 0
 	},
@@ -607,6 +607,15 @@
 			"name": "Rewards",
 			"decimals": 18,
 			"logoURI": "ipfs://QmWUXabGCAYSGYwcvkdnNiGLbtC2Sc8PTzCEqA3vyEFDJU",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xdC386452F9FFDa7F0d2940e5c60Dc0F9469b1097",
+			"symbol": "xKAWA",
+			"name": "xKAWA",
+			"decimals": 18,
+			"logoURI": "ipfs://QmVhPZ8ieJwB89FH1T9j6DZRgGksBo1eb2TmNScfcyR61o",
 			"tags": []
 		},
 		{
@@ -8944,15 +8953,6 @@
 			"name": "My DeFi Pet",
 			"decimals": 18,
 			"logoURI": "ipfs://QmWWB1yL1BLTYCKsBBUcn9Mri9qe1PiLZXut2bjnDgCDuZ",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x40ce0A1D8F4999807b92ec266a025F071814b15d",
-			"symbol": "NOTRUMP",
-			"name": "Dai If Trump Loses The 2020 Election",
-			"decimals": 18,
-			"logoURI": "ipfs://QmYmCrPf4hJ2VGVxurZxJJEzrBh86yodnZEL4JN1M4BaCv",
 			"tags": []
 		},
 		{

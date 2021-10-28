@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-10-22T19:47:05.355Z",
+	"timestamp": "2021-10-27T14:35:24.348Z",
 	"version": {
 		"major": 1,
 		"minor": 2,
-		"patch": 2
+		"patch": 3
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -502,6 +502,14 @@
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
 		},
 		{
+			"name": "Gains Network",
+			"address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+			"symbol": "GNS",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://gains.trade/images/logo.png"
+		},
+		{
 			"name": "Helmet.insure on Polygon",
 			"address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
 			"symbol": "Guard",
@@ -532,6 +540,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
+		},
+		{
+			"name": "Decentral Games ICE",
+			"address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
+			"symbol": "ICE",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/18110/small/ice-poker.png?1630500966"
 		},
 		{
 			"name": "iFARM",
@@ -1078,6 +1094,14 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/16184/small/rUSD-Logo-200.png?1623231145"
 		},
 		{
+			"name": "ScaleSwapToken",
+			"address": "0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33",
+			"symbol": "SCA",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/16360/small/thumbnail_1170823958_vertical_logo_lateral_radiance.png?1623810516"
+		},
+		{
 			"name": "PolyShield",
 			"address": "0xF239E69ce434c7Fb408b05a0Da416b14917d934e",
 			"symbol": "SHI3LD",
@@ -1174,6 +1198,14 @@
 			"logoURI": "https://etherscan.io/token/images/telcoin_28.png"
 		},
 		{
+			"name": "TETU Reward Token",
+			"address": "0x255707B70BF90aa112006E1b07B9AeA6De021424",
+			"symbol": "TETU",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/17882/small/gradient_icon_926.png?1629707907"
+		},
+		{
 			"name": "Polytrade",
 			"address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
 			"symbol": "TRADE",
@@ -1196,6 +1228,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/12330/small/e353ZVj.png?1599112996"
+		},
+		{
+			"name": "PureFi Token",
+			"address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
+			"symbol": "UFI",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/17341/small/purefi.PNG?1627362147"
 		},
 		{
 			"name": "UniLend Finance Token",

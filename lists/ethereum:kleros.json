@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-27T17:06:16.073Z",
+	"timestamp": "2021-10-29T17:06:22.228Z",
 	"version": {
-		"major": 75,
+		"major": 76,
 		"minor": 0,
 		"patch": 0
 	},
@@ -3012,6 +3012,15 @@
 			"name": "Shield Finance",
 			"decimals": 18,
 			"logoURI": "ipfs://QmZqo24KP8q3W1Rsdb7aMvTkzB6Dvta1SPS4GswhyTKhJX",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xAEcc217a749c2405b5ebC9857a16d58Bdc1c367F",
+			"symbol": "PAWTH",
+			"name": "Pawthereum",
+			"decimals": 9,
+			"logoURI": "ipfs://QmdCzySdJB1NFepGyrMCwJusaH952ediJ1amX8Lyq3MRaE",
 			"tags": []
 		},
 		{
@@ -8944,15 +8953,6 @@
 			"name": "Sentinel",
 			"decimals": 8,
 			"logoURI": "ipfs://QmSYwPu8dXGQYvwnLoUgynPXqhMrjkDrLADErK1dWXnhN5",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
-			"symbol": "DPET",
-			"name": "My DeFi Pet",
-			"decimals": 18,
-			"logoURI": "ipfs://QmWWB1yL1BLTYCKsBBUcn9Mri9qe1PiLZXut2bjnDgCDuZ",
 			"tags": []
 		},
 		{

@@ -6,9 +6,9 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-10-29T17:06:22.228Z",
+	"timestamp": "2021-11-02T17:07:14.693Z",
 	"version": {
-		"major": 76,
+		"major": 77,
 		"minor": 0,
 		"patch": 0
 	},
@@ -4965,6 +4965,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x382f0160c24f5c515A19f155BAc14d479433A407",
+			"symbol": "KLEE",
+			"name": "KleeKai",
+			"decimals": 9,
+			"logoURI": "ipfs://QmdtnQuCbna5YjrFNa6E9R57mNXuWQHg9Fm6JQzydbR5Xv",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
 			"symbol": "BEL",
 			"name": "Bella Protocol",
@@ -8944,15 +8953,6 @@
 			"name": "Gifto",
 			"decimals": 5,
 			"logoURI": "ipfs://QmWgXyHoYio9aUAPLkJXRHnBz3h3iF1AgUxQWr6DQPWxnq",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
-			"symbol": "SENT",
-			"name": "Sentinel",
-			"decimals": 8,
-			"logoURI": "ipfs://QmSYwPu8dXGQYvwnLoUgynPXqhMrjkDrLADErK1dWXnhN5",
 			"tags": []
 		},
 		{

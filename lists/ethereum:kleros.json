@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-11-02T17:07:14.693Z",
+	"timestamp": "2021-11-03T20:36:43.457Z",
 	"version": {
-		"major": 77,
-		"minor": 0,
+		"major": 78,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -1235,6 +1235,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc",
+			"symbol": "Mononoke-Inu",
+			"name": "Mononoke Inu",
+			"decimals": 9,
+			"logoURI": "ipfs://Qmco7bAg3MLwjHZeSrcBVoCAxobaccAmnWFYirwokzHAiN",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x5979F50f1D4c08f9A53863C2f39A7B0492C38d0f",
 			"symbol": "pLTC",
 			"name": "pTokens LTC",
@@ -1966,6 +1975,15 @@
 			"name": "Vether",
 			"decimals": 18,
 			"logoURI": "ipfs://QmU7u5wXviwrYze7e2FSzV6joEA3kiargKssHhPQwhcHQV",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xbf900809f4C73e5a3476eb183d8b06a27e61F8E5",
+			"symbol": "VNL",
+			"name": "Vanilla",
+			"decimals": 12,
+			"logoURI": "ipfs://QmQFbFRPACPYdZZzUxAc2t9UckABcXbbwB2gF1vHsHX8WG",
 			"tags": []
 		},
 		{
@@ -8957,6 +8975,222 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+			"symbol": "SENT",
+			"name": "Sentinel",
+			"decimals": 8,
+			"logoURI": "ipfs://QmSYwPu8dXGQYvwnLoUgynPXqhMrjkDrLADErK1dWXnhN5",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+			"symbol": "DPET",
+			"name": "My DeFi Pet",
+			"decimals": 18,
+			"logoURI": "ipfs://QmWWB1yL1BLTYCKsBBUcn9Mri9qe1PiLZXut2bjnDgCDuZ",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x40ce0A1D8F4999807b92ec266a025F071814b15d",
+			"symbol": "NOTRUMP",
+			"name": "Dai If Trump Loses The 2020 Election",
+			"decimals": 18,
+			"logoURI": "ipfs://QmYmCrPf4hJ2VGVxurZxJJEzrBh86yodnZEL4JN1M4BaCv",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xFFa93Aacf49297D51E211817452839052FDFB961",
+			"symbol": "DCC",
+			"name": "Distributed Credit Chain",
+			"decimals": 18,
+			"logoURI": "ipfs://QmXPXdpBbzpNgvszFrKjZrj7hgARb2bRB3uG8spgkPKA1K",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
+			"symbol": "RVT",
+			"name": "Rivetz",
+			"decimals": 18,
+			"logoURI": "ipfs://QmT6W8a6pvN6WoZmPvHjbKjo6AQVmkpF4SvUhn7fiXrZRw",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
+			"symbol": "ZINU",
+			"name": "Zombie Inu",
+			"decimals": 9,
+			"logoURI": "ipfs://QmfBMXj476DanXJbKdXjeNkoEJEFfRpgX2PtdZWPYn4AAL",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+			"symbol": "QKC",
+			"name": "QuarkChain",
+			"decimals": 18,
+			"logoURI": "ipfs://QmTkziAiXhAkYFeKtaeRp4MeA21YdzwP9idruxf6QfEebi",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x36A00FF9072570eF4B9292117850B8FE08d96cce",
+			"symbol": "iUNI",
+			"name": "Synthetic Inverse Uniswap",
+			"decimals": 18,
+			"logoURI": "ipfs://QmWNGmvWDxysE1CSG86mHszRses41oCYqif9hrcCqBz17d",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+			"symbol": "TEL",
+			"name": "Telcoin",
+			"decimals": 2,
+			"logoURI": "ipfs://QmZKZAAhahLvonHLMUd9DnqCHCCGuXS9JMPtb1bXA1uYL4",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xC5807183a9661A533CB08CbC297594a0B864dc12",
+			"symbol": "iTRX",
+			"name": "Synthetic Inverse TRON",
+			"decimals": 18,
+			"logoURI": "ipfs://QmPJZmb2Z79mdhKos8XAwTxxqQvXJ4LcFCaezJC4DsQcTJ",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+			"symbol": "SUPER",
+			"name": "SuperFarm",
+			"decimals": 18,
+			"logoURI": "ipfs://QmVRinBfrprs8MEtNmmMocyiQWA6UdyNWVcHszQ2XhLaC5",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
+			"symbol": "NEU",
+			"name": "Neumark",
+			"decimals": 18,
+			"logoURI": "ipfs://QmRih3YJut1LG3Cz77qWZQkegjUGWb3TPHTjmyqkadk8gc",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+			"symbol": "SNX",
+			"name": "Synthetix Network Token",
+			"decimals": 18,
+			"logoURI": "ipfs://QmR1YkycrQhHZU3dWF1F26yrnb5zwTEutH9Dp57ww3bxgE",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
+			"symbol": "IMT",
+			"name": "MoneyToken",
+			"decimals": 18,
+			"logoURI": "ipfs://QmPFy5mdsTktAy2wpPizjAATfUNuVtTwti2DxUwgcsae8g",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+			"symbol": "DG",
+			"name": "Decentral Games",
+			"decimals": 18,
+			"logoURI": "ipfs://QmaGqCR3Tg4WSfSGvpjmCqbDGr3ChB6SBRFfnzTjBTMUoh",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+			"symbol": "WOO",
+			"name": "Wootrade Network",
+			"decimals": 18,
+			"logoURI": "ipfs://QmNkuV4qxhgQ7PzbhKUvmGZ34SzHYnGXR9novnpf2h8DdM",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x81313f7c5c9C824236c9E4cba3AC4B049986E756",
+			"symbol": "HIPPO",
+			"name": "HippoFinance",
+			"decimals": 18,
+			"logoURI": "ipfs://QmYd6Yh3t7JAkvYcyA3gn65jZonX2oupy9T2CAQpr9XwfK",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+			"symbol": "CLV",
+			"name": "Clover",
+			"decimals": 6,
+			"logoURI": "ipfs://QmULSQePcd3JQZux1SWpXCeb4hqgs5yfWQHgLoeVSPpVu3",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+			"symbol": "ROUTE",
+			"name": "Router Protocol",
+			"decimals": 18,
+			"logoURI": "ipfs://Qma8NkdFrza8JLpMqHZWykYuh2diCPckmNwAF3bN6jRqse",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x9a7a4C141a3BCCE4A31e42C1192Ac6Add35069b4",
+			"symbol": "XMM",
+			"name": "Momentum",
+			"decimals": 10,
+			"logoURI": "ipfs://QmRvFeGbvxogJrgWUvRoTJzC7yS6xz2UCjYtKHbAY4xMqV",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
+			"symbol": "DUCK",
+			"name": "Unit Protocol",
+			"decimals": 18,
+			"logoURI": "ipfs://QmYpCh8WpJ9hJe5qDCEdSW7pF7JojcfxPStnpbrJU6k1LE",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+			"symbol": "MM",
+			"name": "Million",
+			"decimals": 18,
+			"logoURI": "ipfs://QmVArzZrtZSwvV5sg4bksiHB3oDqBCowETB7wugWX4z3CP",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+			"symbol": "MATH",
+			"name": "MATH",
+			"decimals": 18,
+			"logoURI": "ipfs://QmeNULGgeQrycac48SeM6csWqTVvWw2CvTUZj7NiPbjzc8",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xA8580F3363684d76055bdC6660CaeFe8709744e1",
+			"symbol": "FOL",
+			"name": "Folder Protocol",
+			"decimals": 18,
+			"logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
 			"symbol": "CHI",
 			"name": "Chi Gastoken",
@@ -9083,6 +9317,15 @@
 			"name": "Modum",
 			"decimals": 0,
 			"logoURI": "ipfs://QmdHSe6UiBRbphXADmecUGYxGKsUwyjzEJdCESMDA2sNPk",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+			"symbol": "LAND",
+			"name": "Decentraland LAND",
+			"decimals": 0,
+			"logoURI": "ipfs://QmTNcsaqyTgTJ968Mi3dWUp1Uetu7fBN9LGbmwatyL2Frf",
 			"tags": []
 		}
 	]

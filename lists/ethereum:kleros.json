@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-11-03T20:36:43.457Z",
+	"timestamp": "2021-11-04T17:06:20.997Z",
 	"version": {
 		"major": 78,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	},
 	"tags": {
@@ -5743,6 +5743,15 @@
 			"name": "Synthetic TRON",
 			"decimals": 18,
 			"logoURI": "ipfs://Qmb9TxULpiDgfjkCbHPS8ygXVVtPshrHTvV4wZHLCU7U7E",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x24E89bDf2f65326b94E36978A7EDeAc63623DAFA",
+			"symbol": "TKING",
+			"name": "Tiger King Coin",
+			"decimals": 18,
+			"logoURI": "ipfs://QmWmE1zeDNLoPSttKxeZEk6dKCdVbwAZFK1jUVSGnQaarD",
 			"tags": []
 		},
 		{

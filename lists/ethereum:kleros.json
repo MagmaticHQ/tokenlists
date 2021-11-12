@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-11-04T17:06:20.997Z",
+	"timestamp": "2021-11-11T17:06:17.503Z",
 	"version": {
 		"major": 78,
-		"minor": 2,
+		"minor": 3,
 		"patch": 0
 	},
 	"tags": {
@@ -7983,6 +7983,15 @@
 			"name": "Golden Goose",
 			"decimals": 18,
 			"logoURI": "ipfs://QmZ4oPYWwc4WSTjUBrLcaq4eP9CaEaQjjDrsHHuaLUqkmN",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x4a9D8B8FCe0B6ec033932B13c4e24d24Dc4113cd",
+			"symbol": "UDOG",
+			"name": "United Doge Finance",
+			"decimals": 9,
+			"logoURI": "ipfs://QmYDgDLGpSWCxFrZbpnDwrX9xY4toR7C5RV1onp9kSX9AR",
 			"tags": []
 		},
 		{

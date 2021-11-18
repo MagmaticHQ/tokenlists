@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-11-10T12:42:13.685Z",
+	"timestamp": "2021-11-17T07:49:28.244Z",
 	"version": {
 		"major": 1,
 		"minor": 2,
-		"patch": 7
+		"patch": 8
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -654,6 +654,14 @@
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/b8086dbc7040582d1412effe7a951914d4a96eef/blockchains/ethereum/assets/0x8A9C67fee641579dEbA04928c4BC45F66e26343A/logo.png"
 		},
 		{
+			"name": "Kirobo",
+			"address": "0xB382C1cfA622795a534e5bd56Fac93d59BAc8B0D",
+			"symbol": "KIRO",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/12688/small/QmScxyKBwqbGJZmp38EwaoRpXbzPkq3tvuMjeuJE1YLZeG.png?1601672684"
+		},
+		{
 			"name": "Forest Knight",
 			"address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
 			"symbol": "KNIGHT",
@@ -1084,6 +1092,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/9443/small/RING.png?1615271827"
+		},
+		{
+			"name": "Render Token",
+			"address": "0x61299774020dA444Af134c82fa83E3810b309991",
+			"symbol": "RNDR",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/11636/small/uTDd98ZN_400x400.jpg?1592200150"
 		},
 		{
 			"name": "rUSD",

@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-11-11T17:06:17.503Z",
+	"timestamp": "2021-11-22T17:06:19.992Z",
 	"version": {
 		"major": 78,
-		"minor": 3,
+		"minor": 4,
 		"patch": 0
 	},
 	"tags": {
@@ -2110,6 +2110,15 @@
 			"name": "The Tokenized Bitcoin",
 			"decimals": 8,
 			"logoURI": "ipfs://QmTrRze54JFYfzVvVZi6P5XPstbtxjHejdhA1HU9KxMRU3",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x60EF10EDfF6D600cD91caeCA04caED2a2e605Fe5",
+			"symbol": "MOCHI",
+			"name": "Mochi Inu",
+			"decimals": 18,
+			"logoURI": "ipfs://QmSgC7af4Xjqa9MvYNgy4Rx8vD36eSAhzYhpPeNuKnDMuu",
 			"tags": []
 		},
 		{

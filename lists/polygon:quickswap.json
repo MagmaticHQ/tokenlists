@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-11-17T07:49:28.244Z",
+	"timestamp": "2021-11-24T09:57:00.508Z",
 	"version": {
 		"major": 1,
 		"minor": 2,
-		"patch": 8
+		"patch": 9
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -348,6 +348,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://etherlegends.com/ELET.png"
+		},
+		{
+			"name": "Starchi Liquid Luck",
+			"address": "0xED0bb69f9F96E8C5FffdF16c468eceC385134eA5",
+			"symbol": "ELIXIR",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/18941/small/starchi.jpg?1633961292"
 		},
 		{
 			"name": "Dogelon",
@@ -734,6 +742,14 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/14051/small/Mask_Network.jpg?1614050316"
 		},
 		{
+			"name": "MASQ",
+			"address": "0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35",
+			"symbol": "MASQ",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/13699/small/MASQ_Logo_Blue_Solo_Transparent.png?1616661801"
+		},
+		{
 			"name": "Monsoon Finance",
 			"address": "0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
 			"symbol": "MCASH",
@@ -924,6 +940,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/10805/small/J51iIea.png?1583891599"
+		},
+		{
+			"name": "Polygon Ecosystem Index",
+			"address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
+			"symbol": "PECO",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/19270/small/amun-peco.png?1634868167"
 		},
 		{
 			"name": "PERA",
@@ -1334,6 +1358,22 @@
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
 		},
 		{
+			"name": "Wrapped CRO",
+			"address": "0xf2D8124b8F9267DaD61351c7aD252362880C6638",
+			"symbol": "WCRO",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/7310/small/cypto.png?1547043960"
+		},
+		{
+			"name": "FABWELT",
+			"address": "0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+			"symbol": "WELT",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/20505/small/welt.PNG?1637143324"
+		},
+		{
 			"name": "Wise Token",
 			"address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
 			"symbol": "WISE",
@@ -1452,6 +1492,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+		},
+		{
+			"name": "ZigCoin",
+			"address": "0x7BeBd226154E865954A87650FAefA8F485d36081",
+			"symbol": "ZIG",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/14796/small/zignaly.jpg?1618496339"
 		},
 		{
 			"name": "Zerogoki USD",

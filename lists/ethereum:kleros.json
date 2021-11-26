@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-11-22T17:06:19.992Z",
+	"timestamp": "2021-11-25T17:06:27.065Z",
 	"version": {
 		"major": 78,
-		"minor": 4,
+		"minor": 5,
 		"patch": 0
 	},
 	"tags": {
@@ -6062,6 +6062,15 @@
 			"name": "RAIN Network",
 			"decimals": 18,
 			"logoURI": "ipfs://Qmd5sjWy2pvoSVW4fMEL697NBV4rrWf4kCMzXdRhYCuggB",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xD45740aB9ec920bEdBD9BAb2E863519E59731941",
+			"symbol": "SNOOD",
+			"name": "Schnoodle",
+			"decimals": 18,
+			"logoURI": "ipfs://QmNiowBE634KdmRY5D2gyjQcJB5GuLq2Ku9rDcmniRX9in",
 			"tags": []
 		},
 		{

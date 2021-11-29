@@ -56,10 +56,6 @@ const lists: Record<number, TokenListMeta[]> = {
 const LIST_DIR = 'lists';
 
 async function run() {
-	await rm(LIST_DIR, {
-		recursive: true,
-	});
-	await mkdir(LIST_DIR);
 	const chainIds = Object.keys(lists).map(idString => parseInt(idString));
 	const files = [];
 	for (const chainId of chainIds) {
@@ -70,13 +66,16 @@ async function run() {
 			const chain = chains[chainId];
 			const fileName = `${chain}:${id}.json`;
 			const filePath = `${LIST_DIR}/${fileName}`;
-			const listString = JSON.stringify(listData, null, '\t');
-			await writeFile(filePath, listString);
 			files.push({
 				id,
 				chain: chainId,
 				name: fileName,
 			});
+			if (!listData) {
+				continue;
+			}
+			const listString = JSON.stringify(listData, null, '\t');
+			await writeFile(filePath, listString);
 		}
 	}
 	const indexString = JSON.stringify(files, null, '\t');
@@ -84,10 +83,14 @@ async function run() {
 }
 
 async function getList(url: string, chainId: number) {
-	let delay = 100;
+	let tries = 0;
 	while(true) {
+		const delay = 1000 * 2 ** tries;
+		if (tries > 10) {
+			return;
+		}
 		await sleep(delay);
-		delay *= 2;
+		tries++;
 		try {
 			const listResponse = await axios.get(url);
 			if (listResponse.status !== 200) {

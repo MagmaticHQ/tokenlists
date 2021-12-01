@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-11-25T17:06:27.065Z",
+	"timestamp": "2021-11-30T17:06:25.506Z",
 	"version": {
 		"major": 78,
-		"minor": 5,
+		"minor": 6,
 		"patch": 0
 	},
 	"tags": {
@@ -1163,15 +1163,6 @@
 		},
 		{
 			"chainId": 1,
-			"address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
-			"symbol": "XAUT",
-			"name": "Tether Gold",
-			"decimals": 6,
-			"logoURI": "ipfs://QmawUqVNsuEa35dS6Mc5KYtrazQhC7Dai1bkmpVsJ6Braj",
-			"tags": []
-		},
-		{
-			"chainId": 1,
 			"address": "0x797AAB1ce7c01eB727ab980762bA88e7133d2157",
 			"symbol": "crUSDT",
 			"name": "Cream USDT",
@@ -1847,6 +1838,15 @@
 			"name": "Perlin",
 			"decimals": 18,
 			"logoURI": "ipfs://QmTXn77LnaUr4LQ4yVmeKsAUGJpKVvQMEEizGAYAX7F1PC",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+			"symbol": "PSP",
+			"name": "ParaSwap",
+			"decimals": 18,
+			"logoURI": "ipfs://QmcB3Db1T3FbmsbJGhKewFuwmJSic7N7X2YxTUvVtJuL3G",
 			"tags": []
 		},
 		{
@@ -9223,6 +9223,15 @@
 			"name": "Folder Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
+			"symbol": "XAUT",
+			"name": "Tether Gold",
+			"decimals": 6,
+			"logoURI": "ipfs://QmawUqVNsuEa35dS6Mc5KYtrazQhC7Dai1bkmpVsJ6Braj",
 			"tags": []
 		},
 		{

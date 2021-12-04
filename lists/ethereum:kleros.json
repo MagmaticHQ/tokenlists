@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-11-30T17:06:25.506Z",
+	"timestamp": "2021-12-03T17:06:16.385Z",
 	"version": {
 		"major": 78,
-		"minor": 6,
+		"minor": 7,
 		"patch": 0
 	},
 	"tags": {
@@ -1577,6 +1577,15 @@
 			"name": "PRIA",
 			"decimals": 18,
 			"logoURI": "ipfs://Qmbqw6x1PJMyBhPqsnwweSx8yncQSwAQXoFiNzAhjopDd5",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xCbd0595113c173Ab7746347D0600D390a85a7EEa",
+			"symbol": "ACE",
+			"name": "Ascend",
+			"decimals": 9,
+			"logoURI": "ipfs://QmPpVKT1BoaMbEWYzuigwZ8pV9wswxGmrsjnR93wwhJrhc",
 			"tags": []
 		},
 		{

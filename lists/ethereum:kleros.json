@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-12-03T17:06:16.385Z",
+	"timestamp": "2021-12-06T17:34:06.374Z",
 	"version": {
-		"major": 78,
-		"minor": 7,
+		"major": 79,
+		"minor": 0,
 		"patch": 0
 	},
 	"tags": {
@@ -9232,15 +9232,6 @@
 			"name": "Folder Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
-			"symbol": "XAUT",
-			"name": "Tether Gold",
-			"decimals": 6,
-			"logoURI": "ipfs://QmawUqVNsuEa35dS6Mc5KYtrazQhC7Dai1bkmpVsJ6Braj",
 			"tags": []
 		},
 		{

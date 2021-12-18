@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-12-06T17:34:06.374Z",
+	"timestamp": "2021-12-17T17:06:22.761Z",
 	"version": {
 		"major": 79,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -50,6 +50,15 @@
 			"tags": [
 				"erc20"
 			]
+		},
+		{
+			"chainId": 1,
+			"address": "0x1b890fD37Cd50BeA59346fC2f8ddb7cd9F5Fabd5",
+			"symbol": "NEWO",
+			"name": "New Order",
+			"decimals": 18,
+			"logoURI": "ipfs://QmYG75u8zhVr29gXn9x5oADdQgW9QoHMoFudf8htXE7Qhj",
+			"tags": []
 		},
 		{
 			"chainId": 1,

@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-12-17T17:06:22.761Z",
+	"timestamp": "2021-12-29T17:06:21.496Z",
 	"version": {
 		"major": 79,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	},
 	"tags": {
@@ -8791,6 +8791,15 @@
 			"name": "UNCL",
 			"decimals": 18,
 			"logoURI": "ipfs://QmUFb9LmbFYNcf6eCcfWP8zN6WPxJN5FpCcrgPzzDEoKCE",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xC2C3D431249E64542aDD3172665732e485928Ad3",
+			"symbol": "RPTR",
+			"name": "Raptor",
+			"decimals": 18,
+			"logoURI": "ipfs://QmSMX2oUs37FrLUS9T31JN2i2kXJysZSH7WqBXcWKik6rF",
 			"tags": []
 		},
 		{

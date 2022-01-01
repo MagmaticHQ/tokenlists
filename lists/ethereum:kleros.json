@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-12-29T17:06:21.496Z",
+	"timestamp": "2021-12-31T17:06:21.542Z",
 	"version": {
 		"major": 79,
-		"minor": 2,
+		"minor": 3,
 		"patch": 0
 	},
 	"tags": {
@@ -2342,6 +2342,15 @@
 			"name": "Gambler Shiba",
 			"decimals": 18,
 			"logoURI": "ipfs://QmYHdjhJtjhZy1BnvoUTLcXj3e9LdQkHsg6A17b3GaHxEu",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xe0d2F5C883d5d470D16fa6dD73610bB4253577fF",
+			"symbol": "MCM",
+			"name": "MemeCoinUniverse",
+			"decimals": 9,
+			"logoURI": "ipfs://QmWnJphejh8pryRiCPV7EfeEjS2yTxVZNcnKSB8hBBjSWb",
 			"tags": []
 		},
 		{

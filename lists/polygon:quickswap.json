@@ -1,10 +1,10 @@
 {
 	"name": "Quickswap Token List",
-	"timestamp": "2021-12-27T15:50:25.243Z",
+	"timestamp": "2022-01-05T07:08:44.168Z",
 	"version": {
 		"major": 1,
 		"minor": 2,
-		"patch": 18
+		"patch": 19
 	},
 	"tags": {},
 	"logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -116,6 +116,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://pbs.twimg.com/profile_images/1428328610444742660/4fa6uMzp_400x400.jpg"
+		},
+		{
+			"name": "Blockchain Monster Coin",
+			"address": "0xc10358f062663448a3489fC258139944534592ac",
+			"symbol": "BCMC",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://bcmhunt.com/bcmc-coin-512x512.png"
 		},
 		{
 			"name": "Bella",
@@ -822,6 +830,14 @@
 			"logoURI": "https://assets.coingecko.com/coins/images/757/small/mysterium.png?1547034503"
 		},
 		{
+			"name": "NACHO",
+			"address": "0xcD86152047e800d67BDf00A4c635A8B6C0e5C4c2",
+			"symbol": "NACHO",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/21635/small/NF_nacho_2_200x200.png?1639627573"
+		},
+		{
 			"name": "Nexo",
 			"address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
 			"symbol": "NEXO",
@@ -836,6 +852,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/18634/small/nadex.PNG?1632727863"
+		},
+		{
+			"name": "NSHARE",
+			"address": "0x948D0a28b600BDBd77AF4ea30E6F338167034181",
+			"symbol": "NSHARE",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/21692/small/NF_nshare_2_200x200.png?1639721239"
 		},
 		{
 			"name": "O3 Swap Token",
@@ -1015,7 +1039,7 @@
 		},
 		{
 			"name": "PYR Token",
-			"address": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9",
+			"address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
 			"symbol": "PYR",
 			"decimals": 18,
 			"chainId": 137,
@@ -1140,6 +1164,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://assets.coingecko.com/coins/images/16360/small/thumbnail_1170823958_vertical_logo_lateral_radiance.png?1623810516"
+		},
+		{
+			"name": "Sunflower Farm",
+			"address": "0xdf9B4b57865B403e08c85568442f95c26b7896b0",
+			"symbol": "SFF",
+			"decimals": 18,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/22198/small/download.png?1641192480"
 		},
 		{
 			"name": "PolyShield",
@@ -1276,6 +1308,14 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://polygonscan.com/token/images/polytrade_32.png"
+		},
+		{
+			"name": "UniArts Network Token",
+			"address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
+			"symbol": "UART",
+			"decimals": 12,
+			"chainId": 137,
+			"logoURI": "https://assets.coingecko.com/coins/images/22092/small/3Rx82r_w_400x400.png?1640823145"
 		},
 		{
 			"name": "Unibright",

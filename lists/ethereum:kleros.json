@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2021-12-31T17:06:21.542Z",
+	"timestamp": "2022-01-05T17:06:20.840Z",
 	"version": {
 		"major": 79,
-		"minor": 3,
+		"minor": 4,
 		"patch": 0
 	},
 	"tags": {
@@ -5042,6 +5042,15 @@
 			"name": "PolySwarm",
 			"decimals": 18,
 			"logoURI": "ipfs://QmPJNa6hXR9GVPPxVotR6ZdnqxBJpppnFggssmUqD7nKoW",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xDE72a052cBB212eFf11A4A33d61dF9C5A2De8dd1",
+			"symbol": "ShunaV2",
+			"name": "Shuna Inuverse",
+			"decimals": 9,
+			"logoURI": "ipfs://QmakNo3iUSWYGU2MumXqe33tmKYy6mQzZnt5KxUsxyg7XP",
 			"tags": []
 		},
 		{

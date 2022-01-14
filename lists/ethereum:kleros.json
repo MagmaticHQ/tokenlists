@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-01-05T17:06:20.840Z",
+	"timestamp": "2022-01-13T17:06:22.735Z",
 	"version": {
 		"major": 79,
-		"minor": 4,
+		"minor": 5,
 		"patch": 0
 	},
 	"tags": {
@@ -3776,6 +3776,15 @@
 			"name": "Crowdholding",
 			"decimals": 18,
 			"logoURI": "ipfs://QmeTxujihNmuqXsXcqFsEtE8mfP61LAe45j5s8seFLobzB",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x7475C42f8BF2c19F4EAF12fEaabaBA859fdC8914",
+			"symbol": "ACCEL",
+			"name": "ACCEL",
+			"decimals": 18,
+			"logoURI": "ipfs://QmbfxZR3WPLAUtiqbqpbdn8xpGMVCGNvetBQto6BEunhBz",
 			"tags": []
 		},
 		{
@@ -8813,15 +8822,6 @@
 		},
 		{
 			"chainId": 1,
-			"address": "0xC2C3D431249E64542aDD3172665732e485928Ad3",
-			"symbol": "RPTR",
-			"name": "Raptor",
-			"decimals": 18,
-			"logoURI": "ipfs://QmSMX2oUs37FrLUS9T31JN2i2kXJysZSH7WqBXcWKik6rF",
-			"tags": []
-		},
-		{
-			"chainId": 1,
 			"address": "0xcBc1065255cBc3aB41a6868c22d1f1C573AB89fd",
 			"symbol": "CRETH2",
 			"name": "Cream ETH 2",
@@ -9268,6 +9268,15 @@
 			"name": "Folder Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xC2C3D431249E64542aDD3172665732e485928Ad3",
+			"symbol": "RPTR",
+			"name": "Raptor",
+			"decimals": 18,
+			"logoURI": "ipfs://QmSMX2oUs37FrLUS9T31JN2i2kXJysZSH7WqBXcWKik6rF",
 			"tags": []
 		},
 		{

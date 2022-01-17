@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-01-13T17:06:22.735Z",
+	"timestamp": "2022-01-16T17:06:22.349Z",
 	"version": {
 		"major": 79,
-		"minor": 5,
+		"minor": 6,
 		"patch": 0
 	},
 	"tags": {
@@ -6712,6 +6712,15 @@
 			"name": "FLIP",
 			"decimals": 18,
 			"logoURI": "ipfs://QmcbJT77zoVXnVQGMPFULQ6cCwwV3FfTycfsz5BscjwJ6F",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC",
+			"symbol": "KTO",
+			"name": "Kounotori",
+			"decimals": 9,
+			"logoURI": "ipfs://QmcvNU7F7f1k1datJu3tu7XJw37fBdTXySbRMN6TSGaas9",
 			"tags": []
 		},
 		{

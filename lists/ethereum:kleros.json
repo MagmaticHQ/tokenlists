@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-01-16T17:06:22.349Z",
+	"timestamp": "2022-01-18T17:06:21.406Z",
 	"version": {
-		"major": 79,
-		"minor": 6,
+		"major": 80,
+		"minor": 0,
 		"patch": 0
 	},
 	"tags": {
@@ -9277,15 +9277,6 @@
 			"name": "Folder Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0xC2C3D431249E64542aDD3172665732e485928Ad3",
-			"symbol": "RPTR",
-			"name": "Raptor",
-			"decimals": 18,
-			"logoURI": "ipfs://QmSMX2oUs37FrLUS9T31JN2i2kXJysZSH7WqBXcWKik6rF",
 			"tags": []
 		},
 		{

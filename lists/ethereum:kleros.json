@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-01-18T17:06:21.406Z",
+	"timestamp": "2022-01-24T17:06:25.082Z",
 	"version": {
 		"major": 80,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"tags": {
@@ -4376,6 +4376,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0x89D8a5Eb849dF52515b23b2b8E260f63fbb0aAFf",
+			"symbol": "RAPTOR",
+			"name": "Raptor",
+			"decimals": 18,
+			"logoURI": "ipfs://QmTFXMSrxaRC5o1FKBLmqcTWNe471XiK7yXhJNRVHbKL5L",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
 			"symbol": "SXP",
 			"name": "Swipe",
@@ -6278,6 +6287,15 @@
 			"name": "Synthetic Alphabet",
 			"decimals": 18,
 			"logoURI": "ipfs://QmehGyoBEnqVpsJ7f2vuq7nXms64Z1JUASquu6Y84Qzm7x",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x1A434A4c16223fb48F8f835e2E277bf72B4b5D1A",
+			"symbol": "NETHER",
+			"name": "Netherworld",
+			"decimals": 18,
+			"logoURI": "ipfs://QmRbRDD7BJixzRhbywyTCtyvH2ALiGeJWEZbZJZYNvSXXf",
 			"tags": []
 		},
 		{

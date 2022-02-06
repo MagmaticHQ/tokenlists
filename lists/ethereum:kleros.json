@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-01-24T17:06:25.082Z",
+	"timestamp": "2022-02-05T17:06:30.149Z",
 	"version": {
 		"major": 80,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	},
 	"tags": {
@@ -1685,6 +1685,15 @@
 			"name": "Percent",
 			"decimals": 18,
 			"logoURI": "ipfs://Qmc9jYgoxT2yUyBtwL9yXdr3HnwUjcQ9fgE85HV4FX66Tv",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x55d1d16fB42fCE47B899010c996a3a31f6db8fD6",
+			"symbol": "BINU",
+			"name": "Bully Inu",
+			"decimals": 18,
+			"logoURI": "ipfs://QmXD5UEnK1mhUbr7RZDpHWQRdZwF2KB5kZtqcFoKb74Ed5",
 			"tags": []
 		},
 		{

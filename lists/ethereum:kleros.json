@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-02-05T17:06:30.149Z",
+	"timestamp": "2022-02-06T17:06:24.751Z",
 	"version": {
 		"major": 80,
-		"minor": 2,
+		"minor": 3,
 		"patch": 0
 	},
 	"tags": {
@@ -5206,6 +5206,15 @@
 			"name": "Medicalchain",
 			"decimals": 18,
 			"logoURI": "ipfs://QmPkdi9w7ZRoCQLytTsXfcyv1eSqrgMXK5X7QdbRrr27mf",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0xA9639160481b625ba43677bE753E0A70bf58c647",
+			"symbol": "RBXS",
+			"name": "RBXSamurai",
+			"decimals": 18,
+			"logoURI": "ipfs://Qmdh1FZrscaBVuQfv3AsDgWQK78EYYnUmNaNzWdpuUBuCY",
 			"tags": []
 		},
 		{

@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-02-06T17:06:24.751Z",
+	"timestamp": "2022-02-09T17:06:19.528Z",
 	"version": {
 		"major": 80,
-		"minor": 3,
+		"minor": 4,
 		"patch": 0
 	},
 	"tags": {
@@ -754,15 +754,6 @@
 			"name": "ZMINE",
 			"decimals": 18,
 			"logoURI": "ipfs://QmcaFrJScm6ZS8bZLwjDJotP7JmK4CZgcj6smPHM8QaQUv",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
-			"symbol": "OHM",
-			"name": "Olympus",
-			"decimals": 9,
-			"logoURI": "ipfs://QmcDGyz7Ag6PJB7zHQt1uMnJkFjvawAGwWp2UbmoEAtpXp",
 			"tags": []
 		},
 		{
@@ -6988,6 +6979,15 @@
 		},
 		{
 			"chainId": 1,
+			"address": "0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629",
+			"symbol": "CIG",
+			"name": "Cigarettes",
+			"decimals": 18,
+			"logoURI": "ipfs://QmNfoArdJ8Hidfs5dRN6nVzPUn5kZAhJhsA99SadNvK9Fx",
+			"tags": []
+		},
+		{
+			"chainId": 1,
 			"address": "0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
 			"symbol": "DPY",
 			"name": "Delphy",
@@ -9313,6 +9313,15 @@
 			"name": "Folder Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
+			"symbol": "OHM",
+			"name": "Olympus",
+			"decimals": 9,
+			"logoURI": "ipfs://QmcDGyz7Ag6PJB7zHQt1uMnJkFjvawAGwWp2UbmoEAtpXp",
 			"tags": []
 		},
 		{

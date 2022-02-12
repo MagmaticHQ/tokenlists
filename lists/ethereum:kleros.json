@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-02-09T17:06:19.528Z",
+	"timestamp": "2022-02-11T17:06:20.971Z",
 	"version": {
 		"major": 80,
-		"minor": 4,
+		"minor": 5,
 		"patch": 0
 	},
 	"tags": {
@@ -3338,6 +3338,15 @@
 			"name": "BiLira",
 			"decimals": 6,
 			"logoURI": "ipfs://QmWmAcQjMQTfiBDGTZpSSALS2vFDwUCu9LSYcJweqZcJqD",
+			"tags": []
+		},
+		{
+			"chainId": 1,
+			"address": "0x84BB61Eb0336b309Ccf14Cc68bD1888cFa4846eA",
+			"symbol": "MINE",
+			"name": "The Official MINE Token",
+			"decimals": 9,
+			"logoURI": "ipfs://QmRD7RR7njQXwuBzYSsYHiG1WMQ13Jrtrauoh9UpvKx8n8",
 			"tags": []
 		},
 		{

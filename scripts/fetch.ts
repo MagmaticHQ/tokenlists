@@ -74,11 +74,11 @@ async function run() {
       if (!listData) {
         continue;
       }
-      const listString = JSON.stringify(listData, null, '\t');
+      const listString = JSON.stringify(listData, null, 2);
       await writeFile(filePath, listString);
     }
   }
-  const indexString = JSON.stringify(files, null, '\t');
+  const indexString = JSON.stringify(files, null, 2);
   await writeFile(`${LIST_DIR}/index.json`, indexString);
 }
 

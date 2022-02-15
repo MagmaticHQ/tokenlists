@@ -4,8 +4,16 @@
 	"keywords": [
 		"defi"
 	],
-	"timestamp": "2022-02-13T23:05:08.649+00:00",
+	"timestamp": "2022-02-14T06:05:06.060+00:00",
 	"tokens": [
+		{
+			"chainId": 137,
+			"address": "0x228b5c21ac00155cf62c57bcc704c0da8187950b",
+			"name": "Nexus Dubai",
+			"symbol": "NXD",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/23414/thumb/nexus.PNG?1644187373"
+		},
 		{
 			"chainId": 137,
 			"address": "0x26f6cb841f9d4d72b68d7dcb6fdb5d6c832dd2a7",
@@ -32,11 +40,19 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
-			"name": "Kommunitas",
-			"symbol": "KOM",
-			"decimals": 8,
-			"logoURI": "https://assets.coingecko.com/coins/images/17483/thumb/1_f1S3h57YLT1e1cl8g7RJpw_2x.jpeg?1627956421"
+			"address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+			"name": "Klima DAO",
+			"symbol": "KLIMA",
+			"decimals": 9,
+			"logoURI": "https://assets.coingecko.com/coins/images/19169/thumb/klima-logo.png?1634606729"
+		},
+		{
+			"chainId": 137,
+			"address": "0xc250e9987a032acac293d838726c511e6e1c029d",
+			"name": "OtterClam",
+			"symbol": "CLAM",
+			"decimals": 9,
+			"logoURI": "https://assets.coingecko.com/coins/images/20670/thumb/clam.png?1637548092"
 		},
 		{
 			"chainId": 137,
@@ -88,14 +104,6 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0x51b5619f5180e333d18b6310c8d540aea43a0371",
-			"name": "Vault Hill City",
-			"symbol": "VHC",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/23120/thumb/download.png?1643266899"
-		},
-		{
-			"chainId": 137,
 			"address": "0x6acda5e7eb1117733dc7cb6158fc67f226b32022",
 			"name": "ZRO",
 			"symbol": "ZRO",
@@ -109,6 +117,14 @@
 			"symbol": "SONG",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/17536/thumb/Beatify_Final_logo_Transparent_2_%281%29.png?1628139015"
+		},
+		{
+			"chainId": 137,
+			"address": "0xcc1b9517460d8ae86fe576f614d091fca65a28fc",
+			"name": "Vigorus",
+			"symbol": "VIS",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/21245/thumb/VIS.PNG?1638768736"
 		},
 		{
 			"chainId": 137,
@@ -128,19 +144,19 @@
 		},
 		{
 			"chainId": 137,
+			"address": "0x51b5619f5180e333d18b6310c8d540aea43a0371",
+			"name": "Vault Hill City",
+			"symbol": "VHC",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/23120/thumb/download.png?1643266899"
+		},
+		{
+			"chainId": 137,
 			"address": "0x0527c8c43250279d6eb74da1078193f5316fc9a0",
 			"name": "PolyQuity Dollar",
 			"symbol": "PYD",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/18460/thumb/PYD200.png?1632108803"
-		},
-		{
-			"chainId": 137,
-			"address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
-			"name": "Klima DAO",
-			"symbol": "KLIMA",
-			"decimals": 9,
-			"logoURI": "https://assets.coingecko.com/coins/images/19169/thumb/klima-logo.png?1634606729"
 		},
 		{
 			"chainId": 137,
@@ -176,14 +192,6 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0x228b5c21ac00155cf62c57bcc704c0da8187950b",
-			"name": "Nexus Dubai",
-			"symbol": "NXD",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/23414/thumb/nexus.PNG?1644187373"
-		},
-		{
-			"chainId": 137,
 			"address": "0x752d59604d72b6dc44196f4a39a3f07779417407",
 			"name": "ETH Variable Levera",
 			"symbol": "METHMOON",
@@ -216,11 +224,11 @@
 		},
 		{
 			"chainId": 137,
-			"address": "0xc250e9987a032acac293d838726c511e6e1c029d",
-			"name": "OtterClam",
-			"symbol": "CLAM",
-			"decimals": 9,
-			"logoURI": "https://assets.coingecko.com/coins/images/20670/thumb/clam.png?1637548092"
+			"address": "0xc004e2318722ea2b15499d6375905d75ee5390b8",
+			"name": "Kommunitas",
+			"symbol": "KOM",
+			"decimals": 8,
+			"logoURI": "https://assets.coingecko.com/coins/images/17483/thumb/1_f1S3h57YLT1e1cl8g7RJpw_2x.jpeg?1627956421"
 		},
 		{
 			"chainId": 137,
@@ -501,14 +509,6 @@
 			"symbol": "COLLAR",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/19187/thumb/12695.png?1634629533"
-		},
-		{
-			"chainId": 137,
-			"address": "0xcc1b9517460d8ae86fe576f614d091fca65a28fc",
-			"name": "Vigorus",
-			"symbol": "VIS",
-			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/21245/thumb/VIS.PNG?1638768736"
 		},
 		{
 			"chainId": 137,
@@ -4484,7 +4484,7 @@
 			"name": "Cougar Token",
 			"symbol": "CGS",
 			"decimals": 18,
-			"logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo_-_2021-10-26T054246.383.png?1635198174"
+			"logoURI": "https://assets.coingecko.com/coins/images/19402/thumb/logo.png?1644812043"
 		},
 		{
 			"chainId": 137,
@@ -5701,11 +5701,19 @@
 			"symbol": "XBX",
 			"decimals": 18,
 			"logoURI": "https://assets.coingecko.com/coins/images/18341/thumb/200x200.png?1631601808"
+		},
+		{
+			"chainId": 137,
+			"address": "0x432cdbc749fd96aa35e1dc27765b23fdcc8f5cf1",
+			"name": "Envelop  Niftsy ",
+			"symbol": "NIFTSY",
+			"decimals": 18,
+			"logoURI": "https://assets.coingecko.com/coins/images/19161/thumb/logo200x200.png?1643188130"
 		}
 	],
 	"version": {
 		"major": 41,
-		"minor": 6,
-		"patch": 0
+		"minor": 7,
+		"patch": 1
 	}
 }

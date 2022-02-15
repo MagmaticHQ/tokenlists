@@ -6,10 +6,10 @@
 		"kleros",
 		"list"
 	],
-	"timestamp": "2022-02-11T17:06:20.971Z",
+	"timestamp": "2022-02-14T17:06:19.713Z",
 	"version": {
-		"major": 80,
-		"minor": 5,
+		"major": 81,
+		"minor": 0,
 		"patch": 0
 	},
 	"tags": {
@@ -9322,15 +9322,6 @@
 			"name": "Folder Protocol",
 			"decimals": 18,
 			"logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
-			"tags": []
-		},
-		{
-			"chainId": 1,
-			"address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
-			"symbol": "OHM",
-			"name": "Olympus",
-			"decimals": 9,
-			"logoURI": "ipfs://QmcDGyz7Ag6PJB7zHQt1uMnJkFjvawAGwWp2UbmoEAtpXp",
 			"tags": []
 		},
 		{

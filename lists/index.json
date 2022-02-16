@@ -1,42 +1,42 @@
 [
-	{
-		"id": "coingecko",
-		"chain": 1,
-		"name": "ethereum:coingecko.json"
-	},
-	{
-		"id": "kleros",
-		"chain": 1,
-		"name": "ethereum:kleros.json"
-	},
-	{
-		"id": "mycrypto",
-		"chain": 1,
-		"name": "ethereum:mycrypto.json"
-	},
-	{
-		"id": "zapper",
-		"chain": 1,
-		"name": "ethereum:zapper.json"
-	},
-	{
-		"id": "zerion",
-		"chain": 1,
-		"name": "ethereum:zerion.json"
-	},
-	{
-		"id": "coingecko",
-		"chain": 137,
-		"name": "polygon:coingecko.json"
-	},
-	{
-		"id": "quickswap",
-		"chain": 137,
-		"name": "polygon:quickswap.json"
-	},
-	{
-		"id": "balancer",
-		"chain": 137,
-		"name": "polygon:balancer.json"
-	}
+  {
+    "id": "coingecko",
+    "chain": 1,
+    "name": "ethereum:coingecko.json"
+  },
+  {
+    "id": "kleros",
+    "chain": 1,
+    "name": "ethereum:kleros.json"
+  },
+  {
+    "id": "mycrypto",
+    "chain": 1,
+    "name": "ethereum:mycrypto.json"
+  },
+  {
+    "id": "zapper",
+    "chain": 1,
+    "name": "ethereum:zapper.json"
+  },
+  {
+    "id": "zerion",
+    "chain": 1,
+    "name": "ethereum:zerion.json"
+  },
+  {
+    "id": "coingecko",
+    "chain": 137,
+    "name": "polygon:coingecko.json"
+  },
+  {
+    "id": "quickswap",
+    "chain": 137,
+    "name": "polygon:quickswap.json"
+  },
+  {
+    "id": "balancer",
+    "chain": 137,
+    "name": "polygon:balancer.json"
+  }
 ]

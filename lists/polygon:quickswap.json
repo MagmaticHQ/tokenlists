@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-02-15T16:01:26.740Z",
+  "timestamp": "2022-02-16T17:11:17.047Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 23
+    "patch": 25
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -270,6 +270,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
     },
     {
+      "name": "CosplayToken",
+      "address": "0x8d520c8E66091cfD6743fe37Fbe3A09505616C4b",
+      "symbol": "COT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/21294/small/brave_ZxsjzUc8xn.png?1638874098"
+    },
+    {
       "name": "CelsiusX Wrapped ADA",
       "address": "0x64875Aaa68d1d5521666C67d692Ee0B926b08b2F",
       "symbol": "cxADA",
@@ -356,6 +364,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/17103/small/DINO.png?1626244014"
+    },
+    {
+      "name": "Daily COP",
+      "address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+      "symbol": "DLYCOP",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/18283/small/logo.png?1631366443"
     },
     {
       "name": "DinoX Coin",
@@ -1406,6 +1422,22 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16133/small/tomb_icon_noBG.png?1623055476"
     },
     {
+      "name": "TOWER",
+      "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+      "symbol": "TOWER",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/14134/small/tower-circular-1000.png?1632195469"
+    },
+    {
+      "name": "Trace Network",
+      "address": "0x4287F07CBE6954f9F0DecD91d0705C926d8d03A4",
+      "symbol": "TRACE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/23266/small/93mryokp_400x400.png?1643413792"
+    },
+    {
       "name": "Polytrade",
       "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
       "symbol": "TRADE",
@@ -1502,6 +1534,14 @@
       "logoURI": "https://s3-us-west-2.amazonaws.com/acf-uploads/apyvisionlogo200circle.png"
     },
     {
+      "name": "VOLTAGE",
+      "address": "0xE8A05E85883F9663b18a38d7aa89853deaba56e3",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/18515/small/volt.png?1632219924"
+    },
+    {
       "name": "VOXEL Token",
       "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
       "symbol": "VOXEL",
@@ -1558,6 +1598,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
     },
     {
+      "name": "Wrapped METIS",
+      "address": "0xA863246658DEA34111C3C1DceDb2cfd5d6067334",
+      "symbol": "WMETIS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/15595/small/metis.PNG?1621298076"
+    },
+    {
       "name": "moonwolf.io",
       "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
       "symbol": "WOLF",
@@ -1588,6 +1636,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/14101/small/Group-423.png?1614317472"
+    },
+    {
+      "name": "NFT Worlds",
+      "address": "0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9",
+      "symbol": "WRLD",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/22112/small/ZyBrRgfO.jpg?1640842284"
     },
     {
       "name": "WazirX",
@@ -1636,6 +1692,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.imgur.com/Kte7hVj.jpg"
+    },
+    {
+      "name": "Exchange Genesis Ethlas Medium",
+      "address": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
+      "symbol": "XGEM",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/22535/small/17200.png?1642023748"
     },
     {
       "name": "Persistence",

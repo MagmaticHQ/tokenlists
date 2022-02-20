@@ -6,11 +6,11 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-02-14T17:06:19.713Z",
+  "timestamp": "2022-02-19T17:06:20.438Z",
   "version": {
     "major": 81,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     "erc20": {
@@ -6993,7 +6993,9 @@
       "name": "Cigarettes",
       "decimals": 18,
       "logoURI": "ipfs://QmNfoArdJ8Hidfs5dRN6nVzPUn5kZAhJhsA99SadNvK9Fx",
-      "tags": []
+      "tags": [
+        "erc20"
+      ]
     },
     {
       "chainId": 1,

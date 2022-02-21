@@ -6,11 +6,11 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-02-19T17:06:20.438Z",
+  "timestamp": "2022-02-20T17:06:24.818Z",
   "version": {
     "major": 81,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   },
   "tags": {
     "erc20": {
@@ -9207,6 +9207,15 @@
       "name": "SuperFarm",
       "decimals": 18,
       "logoURI": "ipfs://QmVRinBfrprs8MEtNmmMocyiQWA6UdyNWVcHszQ2XhLaC5",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x9aD45E692350BA56e2583671C4Bd76C5331a249e",
+      "symbol": "PeepsPay",
+      "name": "PeepsPay",
+      "decimals": 9,
+      "logoURI": "ipfs://QmQQvUibFiNBXJdAB9eJyX228iPWPT2osUM48PQSRbSqXq",
       "tags": []
     },
     {

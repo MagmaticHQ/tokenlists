@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-02-16T17:11:17.047Z",
+  "timestamp": "2022-03-02T10:20:46.228Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 25
+    "patch": 26
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -92,6 +92,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-128-white.svg"
+    },
+    {
+      "name": "ARTH Valuecoin",
+      "address": "0xE52509181FEb30EB4979E29EC70D50FD5C44D590",
+      "symbol": "ARTH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
     },
     {
       "name": "Atlantis",
@@ -470,6 +478,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
+      "name": "ETH 2x Flexible Leverage Index",
+      "address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
+      "symbol": "ETH2x-FLI-P",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/21183/small/ETH2x-FLO_token_logo.jpg?1638512434"
+    },
+    {
       "name": "ETHA",
       "address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
       "symbol": "ETHA",
@@ -510,6 +526,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17359/small/Logo_black_%282%29.png?1634095075"
     },
     {
+      "name": "Fancy Games",
+      "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+      "symbol": "FNC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/21367/small/fnc.png?1639025576"
+    },
+    {
       "name": "Fodl",
       "address": "0x5314bA045a459f63906Aa7C76d9F337DcB7d6995",
       "symbol": "FODL",
@@ -532,6 +556,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016"
+    },
+    {
+      "name": "Fuse",
+      "address": "0xF915fDDa4c882731C0456a4214548Cd13A822886",
+      "symbol": "FUSE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/10347/small/vUXKHEe.png?1601523640"
     },
     {
       "name": "GAIA Everworld",
@@ -758,10 +790,10 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
-      "name": "Wrapped LUNA Token",
-      "address": "0x74946A114ca2B26267983ef51aD8664Cabde4034",
+      "name": "LUNA (Wormhole)",
+      "address": "0x9cd6746665D9557e1B9a775819625711d0693439",
       "symbol": "LUNA",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
     },
@@ -1492,6 +1524,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/18798/small/Moneda.png?1633474110"
+    },
+    {
+      "name": "Unbound Dollar",
+      "address": "0x1eBA4B44C4F8cc2695347C6a78F0B7a002d26413",
+      "symbol": "UND",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/19932/small/und.PNG?1636325217"
     },
     {
       "name": "Uniswap",

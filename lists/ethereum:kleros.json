@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-02-20T17:06:24.818Z",
+  "timestamp": "2022-03-08T17:06:20.013Z",
   "version": {
-    "major": 81,
-    "minor": 1,
+    "major": 82,
+    "minor": 0,
     "patch": 0
   },
   "tags": {
@@ -3929,15 +3929,6 @@
       "name": "Rake Finance",
       "decimals": 18,
       "logoURI": "ipfs://QmSqqRpxGCPCsS3xYFhTQJJm4EGBQnh8NDYocJ6CbtAnvr",
-      "tags": []
-    },
-    {
-      "chainId": 1,
-      "address": "0x1d464Ac5e046e5fE280c9588eDF8eB681b07008F",
-      "symbol": "GMB",
-      "name": "GMB",
-      "decimals": 18,
-      "logoURI": "ipfs://Qmb3e8vawee57tFF9jHnzT1Yo318usx9qxbXWpVxpGUEbh",
       "tags": []
     },
     {

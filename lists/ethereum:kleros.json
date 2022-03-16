@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-08T17:06:20.013Z",
+  "timestamp": "2022-03-15T17:06:38.816Z",
   "version": {
     "major": 82,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {
@@ -58,6 +58,15 @@
       "name": "New Order",
       "decimals": 18,
       "logoURI": "ipfs://QmYG75u8zhVr29gXn9x5oADdQgW9QoHMoFudf8htXE7Qhj",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x4463e6A3dEd0dBE3F6e15bC8420dFc55e5FeA830",
+      "symbol": "TXA",
+      "name": "TXA",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUD4wEi8dcXeHAsWB5hJ8wzPTFBcMgR3F1XGuQWYib8Pq",
       "tags": []
     },
     {
@@ -589,6 +598,15 @@
       "name": "Chromia",
       "decimals": 6,
       "logoURI": "ipfs://QmZvEb36d3YsF4a9zBgWSeh2497GKnmSZ12D8bFNpoFiGM",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x4EcE5C5CfB9B960A49aAe739E15cDB6cfDcc5782",
+      "symbol": "DBUY",
+      "name": "Doont Buy",
+      "decimals": 9,
+      "logoURI": "ipfs://QmZNB8NN9LvHy634LY397RkGJF55iuoecNi5iLP3bMdnp3",
       "tags": []
     },
     {
@@ -2123,6 +2141,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xE276056f924E15BEac26F7b10B6D2805F9c64Bb5",
+      "symbol": "FIRU",
+      "name": "Firulais",
+      "decimals": 9,
+      "logoURI": "ipfs://QmTjDZEoRJRT6zs6WFrVBzk967urXHe8EpqtXp8GFL4E2i",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
       "symbol": "imBTC",
       "name": "The Tokenized Bitcoin",
@@ -2155,6 +2182,15 @@
       "name": "KanadeCoin",
       "decimals": 8,
       "logoURI": "ipfs://QmUzrR4HptSQBHKZruzaypaWy3idebaera3uoRaFTX9y2Y",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+      "symbol": "CIV",
+      "name": "Civilization",
+      "decimals": 18,
+      "logoURI": "ipfs://QmQKVwa9GxxV5AJnHuAkgkLvYpBjeonD76U7NMTFmGNLBV",
       "tags": []
     },
     {
@@ -3279,15 +3315,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
-      "symbol": "AGI",
-      "name": "SingularityNET",
-      "decimals": 8,
-      "logoURI": "ipfs://QmUMkTAFTGVbsDrQwubnYuiUux6ndosp3ic2UsCvwVL7Gx",
-      "tags": []
-    },
-    {
-      "chainId": 1,
       "address": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
       "symbol": "MOON",
       "name": "MoonSwap",
@@ -3347,6 +3374,15 @@
       "name": "The Official MINE Token",
       "decimals": 9,
       "logoURI": "ipfs://QmRD7RR7njQXwuBzYSsYHiG1WMQ13Jrtrauoh9UpvKx8n8",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xBE0C826f17680d8Da620855bE89DD6544C034cA1",
+      "symbol": "BANKETH",
+      "name": "BankEth",
+      "decimals": 18,
+      "logoURI": "ipfs://QmapUXDAsaBh1iRbndN9wryZZmdU7J6DHh5ZsBscnzf4yd",
       "tags": []
     },
     {
@@ -4032,15 +4068,6 @@
         "erc20",
         "stablecoin"
       ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
-      "symbol": "WABI",
-      "name": "Tael",
-      "decimals": 18,
-      "logoURI": "ipfs://QmccQfaVxM79pmNQFo6cGRHgHxzvXRDUUr2jT5tDkg1QVo",
-      "tags": []
     },
     {
       "chainId": 1,
@@ -4853,15 +4880,6 @@
       "name": "Metaverse NFT Index",
       "decimals": 18,
       "logoURI": "ipfs://QmZojbXDiZFV42G5gd6D9eqWw2FzFPuZ3LsVFjZx2wabPb",
-      "tags": []
-    },
-    {
-      "chainId": 1,
-      "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
-      "symbol": "ASKO",
-      "name": "Askobar Network",
-      "decimals": 18,
-      "logoURI": "ipfs://QmTv2MpMcxUhrcLcMZ5Am6891D7VNuhbiEon7davvRcF1B",
       "tags": []
     },
     {
@@ -5979,6 +5997,15 @@
       "name": "Shuffle Monster",
       "decimals": 18,
       "logoURI": "ipfs://QmR8pr7kwoJtQSbPspuEmidAxiEgXzyb4A1pL8p6xccBZG",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB",
+      "symbol": "DFL",
+      "name": "DeFIL",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPYDFEM6dtyuUD79emzUWEa1wrzVH7jC2GkvJarSPiLT8",
       "tags": []
     },
     {
@@ -7127,6 +7154,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x368BF9F1A1CA767935E39F20439D9041707E2634",
+      "symbol": "CFXT",
+      "name": "Chainflix",
+      "decimals": 18,
+      "logoURI": "ipfs://QmYH6Tqdee7uLiYmkdj1zx94wHKJHYaGPhQY8siPbprx2i",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x70c621f949b6556c4545707a2d5d73A776b98359",
       "symbol": "SKCH",
       "name": "Skychain",
@@ -7924,6 +7960,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xd9b89EEe86B15634c70CaB51BAF85615A4AB91a1",
+      "symbol": "LKT",
+      "name": "Locklet",
+      "decimals": 18,
+      "logoURI": "ipfs://QmVhNeuxQE98WRWpqqjjySwVLnrRpJRZgi8Rv6HY4Gza1P",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x2d7aC061fc3db53c39fe1607fB8cec1B2C162B01",
       "symbol": "iLINK",
       "name": "Synthetic Inverse Chainlink",
@@ -8528,6 +8573,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x3757232B55E60da4A8793183aC030CfCE4c3865d",
+      "symbol": "YDR",
+      "name": "YDragon",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTf42BTrUfGT9JZhniFG1wu17DbNrUUXSDoLd273GdSPT",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xCd7492db29E2ab436e819b249452EE1bbDf52214",
       "symbol": "SMI",
       "name": "SafeMoon Inu",
@@ -8849,17 +8903,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
-      "symbol": "RPL",
-      "name": "Rocket Pool",
-      "decimals": 18,
-      "logoURI": "ipfs://QmSW1smahanN4K7HTc99CAWW2MbxrsEquCMd48fkNbaBeZ",
-      "tags": [
-        "erc20"
-      ]
-    },
-    {
-      "chainId": 1,
       "address": "0x2f4eb47A1b1F4488C71fc10e39a4aa56AF33Dd49",
       "symbol": "UNCL",
       "name": "UNCL",
@@ -8928,6 +8971,15 @@
       "name": "Fulcrum DAI iToken",
       "decimals": 18,
       "logoURI": "ipfs://QmWBCZ2mAPW7kmU4sfN2rxEVvUwcB1PoAPj92mwg3nkj7U",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xE33AE4E795114279721047484E5ad5cc7DF24fcB",
+      "symbol": "MCF",
+      "name": "MCFinance",
+      "decimals": 10,
+      "logoURI": "ipfs://QmdhgAQzAXsmWG1xZwG2vAt1uN1WGTBX2odXsAkaN6AZfx",
       "tags": []
     },
     {
@@ -9247,15 +9299,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
-      "symbol": "WOO",
-      "name": "Wootrade Network",
-      "decimals": 18,
-      "logoURI": "ipfs://QmNkuV4qxhgQ7PzbhKUvmGZ34SzHYnGXR9novnpf2h8DdM",
-      "tags": []
-    },
-    {
-      "chainId": 1,
       "address": "0x81313f7c5c9C824236c9E4cba3AC4B049986E756",
       "symbol": "HIPPO",
       "name": "HippoFinance",
@@ -9324,6 +9367,53 @@
       "name": "Folder Protocol",
       "decimals": 18,
       "logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
+      "symbol": "AGI",
+      "name": "SingularityNET",
+      "decimals": 8,
+      "logoURI": "ipfs://QmUMkTAFTGVbsDrQwubnYuiUux6ndosp3ic2UsCvwVL7Gx",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+      "symbol": "WABI",
+      "name": "Tael",
+      "decimals": 18,
+      "logoURI": "ipfs://QmccQfaVxM79pmNQFo6cGRHgHxzvXRDUUr2jT5tDkg1QVo",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
+      "symbol": "ASKO",
+      "name": "Askobar Network",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTv2MpMcxUhrcLcMZ5Am6891D7VNuhbiEon7davvRcF1B",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+      "symbol": "RPL",
+      "name": "Rocket Pool",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSW1smahanN4K7HTc99CAWW2MbxrsEquCMd48fkNbaBeZ",
+      "tags": [
+        "erc20"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "symbol": "WOO",
+      "name": "Wootrade Network",
+      "decimals": 18,
+      "logoURI": "ipfs://QmNkuV4qxhgQ7PzbhKUvmGZ34SzHYnGXR9novnpf2h8DdM",
       "tags": []
     },
     {

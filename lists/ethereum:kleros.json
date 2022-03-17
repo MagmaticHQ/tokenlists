@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-15T17:06:38.816Z",
+  "timestamp": "2022-03-16T17:06:36.538Z",
   "version": {
-    "major": 82,
-    "minor": 1,
+    "major": 83,
+    "minor": 0,
     "patch": 0
   },
   "tags": {
@@ -375,6 +375,15 @@
       "name": "BEAT",
       "decimals": 18,
       "logoURI": "ipfs://QmXAWk7EbC1bXYET2igN8VR4Ea2SowT7XjNsEK5rKwseEG",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x280f76a218DDC8d56B490B5835e251E55a2e8F8d",
+      "symbol": "sUNI",
+      "name": "Strike UNI",
+      "decimals": 8,
+      "logoURI": "ipfs://QmUyYkhWmboyrfdRzVeqTCjPWCBC598BGUg97gSdZUUmxZ",
       "tags": []
     },
     {
@@ -1069,6 +1078,15 @@
       "name": "X8X Token",
       "decimals": 18,
       "logoURI": "ipfs://QmPu6ms5ny8s5cGqP27xDpE5md53YtZTEdeveoQNTL5wyK",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680",
+      "symbol": "sSXP",
+      "name": "Strike SXP",
+      "decimals": 8,
+      "logoURI": "ipfs://QmTL4uvfGiwXL5vSxaVApRqDczVw6s1CggVwo4L5aBa9KV",
       "tags": []
     },
     {
@@ -2596,6 +2614,15 @@
       "name": "BANKEX",
       "decimals": 18,
       "logoURI": "ipfs://QmYr7D5xjdp3c7ExpmhHmLrS8TnRbhSErvWMzMu3Qj8aEf",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+      "symbol": "aAAVE",
+      "name": "Aave AAVE",
+      "decimals": 18,
+      "logoURI": "ipfs://QmdNFYUK6N9j3biTKrjbBdCK4o6FByuAQ4W42Jj4NeKjAD",
       "tags": []
     },
     {
@@ -4567,6 +4594,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x3774E825d567125988Fb293e926064B6FAa71DAB",
+      "symbol": "sUSDC",
+      "name": "Strike USDC",
+      "decimals": 8,
+      "logoURI": "ipfs://QmaQvbi2zdhUmDFxHKhT6KZGYCb7nhUtFBaPC5itFyaysW",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
       "symbol": "DF",
       "name": "dForce",
@@ -5280,6 +5316,15 @@
       "name": "Onooks",
       "decimals": 18,
       "logoURI": "ipfs://QmauECrAdLweDmswVww1qxA1jY41Jn1ASmQxNLiSg7uxbs",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x8b3FF1ed4F36C2c2be675AFb13CC3AA5d73685a5",
+      "symbol": "crCEL",
+      "name": "Cream Celsius",
+      "decimals": 8,
+      "logoURI": "ipfs://QmWqEw9KrXribkGWnBJFEVTbaXJQfyrwFZ8duuXiHjEjK2",
       "tags": []
     },
     {
@@ -6098,6 +6143,15 @@
       "name": "Ubex",
       "decimals": 18,
       "logoURI": "ipfs://QmX2y3Dmvh2iiVH5idAYP9QqrcsHyoNqi1p49TBrT92Fka",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x2A537Fa9FFaea8C1A41D3C2B68a9cb791529366D",
+      "symbol": "crDPI",
+      "name": "Cream DefiPulse Index",
+      "decimals": 8,
+      "logoURI": "ipfs://QmWbLojcfxzKnR2pUJKD3umm3GCzsuz7pggVuWrs24sULN",
       "tags": []
     },
     {
@@ -7233,6 +7287,15 @@
       "name": "Bezop",
       "decimals": 18,
       "logoURI": "ipfs://QmRWaFfnzaStHcqCY89jwKAzT3aZ9ZCT3FBvMDFtaWFH66",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xFA57F00D948bb6a28072f5416fCbF7836C3d62dD",
+      "symbol": "FRIES",
+      "name": "friesDAO",
+      "decimals": 18,
+      "logoURI": "ipfs://QmREeGUMvTmRnW7JPfqBvg6EQzru63SiqPFnah4UHQYaBa",
       "tags": []
     },
     {
@@ -9146,6 +9209,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xA361718326c15715591c299427c62086F69923D9",
+      "symbol": "aBUSD",
+      "name": "Aave BUSD",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUkxtPAnpqko3pw82ovbhTP1XiHTvdepaWcHpuBRcJnoW",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xC5bBaE50781Be1669306b9e001EFF57a2957b09d",
       "symbol": "GTO",
       "name": "Gifto",
@@ -9371,15 +9443,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
-      "symbol": "AGI",
-      "name": "SingularityNET",
-      "decimals": 8,
-      "logoURI": "ipfs://QmUMkTAFTGVbsDrQwubnYuiUux6ndosp3ic2UsCvwVL7Gx",
-      "tags": []
-    },
-    {
-      "chainId": 1,
       "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
       "symbol": "WABI",
       "name": "Tael",
@@ -9406,15 +9469,6 @@
       "tags": [
         "erc20"
       ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
-      "symbol": "WOO",
-      "name": "Wootrade Network",
-      "decimals": 18,
-      "logoURI": "ipfs://QmNkuV4qxhgQ7PzbhKUvmGZ34SzHYnGXR9novnpf2h8DdM",
-      "tags": []
     },
     {
       "chainId": 1,

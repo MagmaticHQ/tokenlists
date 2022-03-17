@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-03-02T10:20:46.228Z",
+  "timestamp": "2022-03-16T15:28:55.147Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 26
+    "patch": 27
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -156,6 +156,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://pbs.twimg.com/profile_images/1428328610444742660/4fa6uMzp_400x400.jpg"
+    },
+    {
+      "name": "Banana",
+      "address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
+      "symbol": "BANANA",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/17521/small/banana-token-cg.png?1646285527"
     },
     {
       "name": "Blockchain Monster Coin",
@@ -718,6 +726,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/5135/small/IRIS.png?1557999365"
     },
     {
+      "name": "PlanetIX",
+      "address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+      "symbol": "IXT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555"
+    },
+    {
       "name": "JPY Coin",
       "address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
       "symbol": "JPYC",
@@ -1102,6 +1118,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19270/small/amun-peco.png?1634868167"
     },
     {
+      "name": "PENT",
+      "address": "0x283366bb42ef49a994913BAF22263c6562e588a4",
+      "symbol": "PENT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/23493/small/small-logo.png?1644221697"
+    },
+    {
       "name": "PERA",
       "address": "0xe95fD76CF16008c12FF3b3a937CB16Cd9Cc20284",
       "symbol": "PERA",
@@ -1364,6 +1388,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452"
+    },
+    {
+      "name": "Sphere Finance",
+      "address": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
+      "symbol": "SPHERE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png"
     },
     {
       "name": "BSCstarter",

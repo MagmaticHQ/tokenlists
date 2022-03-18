@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-16T17:06:36.538Z",
+  "timestamp": "2022-03-17T17:06:36.015Z",
   "version": {
     "major": 83,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {
@@ -2114,6 +2114,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x9d1C2A187cf908aEd8CFAe2353Ef72F06223d54D",
+      "symbol": "sWBTC",
+      "name": "Strike WBTC",
+      "decimals": 8,
+      "logoURI": "ipfs://QmPcPxEcHL5FuUazZhN6aUHG4ENwKaFyvDqfFGXM5Lby4X",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
       "symbol": "CELR",
       "name": "Celer Network",
@@ -2818,6 +2827,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x224DB5E6180761df4C3d8936585f6b8b83879770",
+      "symbol": "OML",
+      "name": "Omlira",
+      "decimals": 18,
+      "logoURI": "ipfs://QmbN4SsStEQgV2CiVD98yrMPZbMZER1vqPtju5jwh3Ag92",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xeABACD844A196D7Faf3CE596edeBF9900341B420",
       "symbol": "sCEX",
       "name": "Synthetic Centralised Exchange Index",
@@ -3311,6 +3329,15 @@
       "name": "CFX Quantum",
       "decimals": 6,
       "logoURI": "ipfs://QmcGLfgXKvXzN8aY8R4ZQ6i8vsh2ei7Ufzo1YbLAJPi4L4",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec",
+      "symbol": "SPHRI",
+      "name": "Spherium",
+      "decimals": 18,
+      "logoURI": "ipfs://QmcAYPZ9RHUQnZQHYo5rLFt9kXp129Zz22o9Jq1dpifsci",
       "tags": []
     },
     {
@@ -4871,6 +4898,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xBbd900e05b4aF2124390D206F70bc4E583B1bE85",
+      "symbol": "MINTYS",
+      "name": "MintySwap",
+      "decimals": 9,
+      "logoURI": "ipfs://QmbRi1tbH3d6xVgdroJUGcJVDH6CTbWwNyf8nRoyz6JLKz",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
       "symbol": "PCL",
       "name": "Peculium",
@@ -5597,6 +5633,15 @@
       "name": "Wrapped Tezos",
       "decimals": 18,
       "logoURI": "ipfs://QmbYLX3mrbSt9kcSvdPMyhpsxtFbNMHVoLWZhoMfpyjA4Y",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x4164e5b047842Ad7dFf18fc6A6e63a1e40610f46",
+      "symbol": "sSTRK",
+      "name": "Strike STRK",
+      "decimals": 8,
+      "logoURI": "ipfs://QmWB6KBLizsCdzYDqBRGQwD7LJC7w7GTEKjBZ8c4AZeNRJ",
       "tags": []
     },
     {
@@ -6577,6 +6622,15 @@
       "name": "Wrapped SDT",
       "decimals": 18,
       "logoURI": "ipfs://Qmeoe9cVhKadHqrFc9Np7aTEF8aAa9jXpvpKsk7n5w5jzH",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xbEe9Cf658702527b0AcB2719c1FAA29EdC006a92",
+      "symbol": "sETH",
+      "name": "Strike ETH",
+      "decimals": 8,
+      "logoURI": "ipfs://QmZXqG8Y57LogRwaBFgwcXQoiBfW38ttkEDUb3U4EmD9pP",
       "tags": []
     },
     {
@@ -8124,6 +8178,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xA01199c61841Fce3b3daFB83FeFC1899715c8756",
+      "symbol": "CIRUS",
+      "name": "Cirus",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTdvMcQJwNT4gdeipLHAwv15wzny8nuL7KpaydKK88FDh",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36",
       "symbol": "WRC",
       "name": "WhiteRockCasino",
@@ -9178,6 +9241,15 @@
       "name": "Stabilize",
       "decimals": 18,
       "logoURI": "ipfs://QmeCT9Aj8ZVJVxLefuEtvivE7Ek9vZJ5bR24XtvbHkHvWT",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F3B3B269d9f7088B022290906acff8710914be1",
+      "symbol": "sLINK",
+      "name": "Strike LINK",
+      "decimals": 8,
+      "logoURI": "ipfs://QmbKcy9rUqofoz5tpnq9qPU5DPNevdCSQEyaq9CjBuWYu2",
       "tags": []
     },
     {

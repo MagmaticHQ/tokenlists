@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-17T17:06:36.015Z",
+  "timestamp": "2022-03-18T17:06:25.803Z",
   "version": {
-    "major": 83,
-    "minor": 1,
+    "major": 84,
+    "minor": 0,
     "patch": 0
   },
   "tags": {
@@ -2272,6 +2272,15 @@
       "name": "The Red Order",
       "decimals": 18,
       "logoURI": "ipfs://Qma9jJBsnt2a3B9HcuLuxuhY2CQAKEHbCNxYEByoJqyo4G",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x6911F552842236bd9E8ea8DDBB3fb414e2C5FA9d",
+      "symbol": "SNP",
+      "name": "Synapse Network",
+      "decimals": 18,
+      "logoURI": "ipfs://QmNPxisWwnQ9XfiWfrTy39H9Czhm98SeGpMwyuH34Ssrs9",
       "tags": []
     },
     {
@@ -7805,6 +7814,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x8689D850CdF3b74A1F6A5eB60302c785B71c2fc7",
+      "symbol": "CPHX",
+      "name": "Crypto Phoenix",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZzgwTY5dqpeSsz86eKeDUinRELkog6RwB2oEKbv2csL7",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
       "symbol": "SHAKE",
       "name": "SHAKE",
@@ -9236,6 +9254,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x42476F744292107e34519F9c357927074Ea3F75D",
+      "symbol": "LOOM",
+      "name": "Loom Network",
+      "decimals": 18,
+      "logoURI": "ipfs://QmYxdmvbTxK2jFXkhgrQa78MZ71jbB8aJjVz6if1SZccaT",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
       "symbol": "STBZ",
       "name": "Stabilize",
@@ -9520,15 +9547,6 @@
       "name": "Tael",
       "decimals": 18,
       "logoURI": "ipfs://QmccQfaVxM79pmNQFo6cGRHgHxzvXRDUUr2jT5tDkg1QVo",
-      "tags": []
-    },
-    {
-      "chainId": 1,
-      "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
-      "symbol": "ASKO",
-      "name": "Askobar Network",
-      "decimals": 18,
-      "logoURI": "ipfs://QmTv2MpMcxUhrcLcMZ5Am6891D7VNuhbiEon7davvRcF1B",
       "tags": []
     },
     {

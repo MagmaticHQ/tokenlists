@@ -6,9 +6,9 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-18T17:06:25.803Z",
+  "timestamp": "2022-03-19T17:06:36.855Z",
   "version": {
-    "major": 84,
+    "major": 85,
     "minor": 0,
     "patch": 0
   },
@@ -31,6 +31,15 @@
     }
   },
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+      "symbol": "LOOKS",
+      "name": "LooksRare",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWwmuySmabFF2E2jtzeRxbgKK6yPjHEJj4qd54kEY3RAh",
+      "tags": []
+    },
     {
       "chainId": 1,
       "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
@@ -2168,6 +2177,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
+      "symbol": "OHM",
+      "name": "Olympus",
+      "decimals": 9,
+      "logoURI": "ipfs://QmRhLx3u42eo2WRNvd6yz1j7jBacynyRLQYSoS4vge6CG6",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xE276056f924E15BEac26F7b10B6D2805F9c64Bb5",
       "symbol": "FIRU",
       "name": "Firulais",
@@ -4134,6 +4152,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
+      "symbol": "aYFI",
+      "name": "Aave YFI",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTb4LbaoZy36ttwujK2DKHZbBYTNtZh9eaGQAxfMFgUcf",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x24DCc881E7Dd730546834452F21872D5cb4b5293",
       "symbol": "XD",
       "name": "Data Transaction Token",
@@ -4833,6 +4860,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+      "symbol": "TRB",
+      "name": "Tellor",
+      "decimals": 18,
+      "logoURI": "ipfs://QmdNjELEACx3P9oWZzgZwUaAHTsvhLYiJKtFJkHoFUrTJW",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
       "symbol": "HGET",
       "name": "Hedget",
@@ -5388,15 +5424,6 @@
       "name": "Amp",
       "decimals": 18,
       "logoURI": "ipfs://Qmak2sBpgvpgi9espd9zWMHuNcL2yvqtZiQCw9GxC2Kkgu",
-      "tags": []
-    },
-    {
-      "chainId": 1,
-      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-      "symbol": "stETH",
-      "name": "Staked Ether",
-      "decimals": 18,
-      "logoURI": "ipfs://QmUQ1ZKHwpLTJmP32bpEKfJRmPXdeXDMwCjTUrLS4LGK4Z",
       "tags": []
     },
     {
@@ -6006,6 +6033,15 @@
       "name": "PoolTogether",
       "decimals": 18,
       "logoURI": "ipfs://QmYcNj7mXiVweVc46BAMv4cxyGoKE6XG8ktZ922ZEoDrW6",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "symbol": "KNC",
+      "name": "Kyber Network",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUyAEzJHF8K3xEQ7nmzJB5LgGHbyehZ32h693jU5uK65C",
       "tags": []
     },
     {
@@ -6964,6 +7000,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
+      "symbol": "aKNC",
+      "name": "Aave KNC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPPiXLS1Hx8BYhf1GQzU16ERvcnSiD9TM8w5pQViPt6FR",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x15Eabb7500E44B7Fdb6e4051cA8DecA430cF9FB8",
       "symbol": "DXF",
       "name": "Dexfin",
@@ -7285,6 +7330,15 @@
       "name": "Skychain",
       "decimals": 6,
       "logoURI": "ipfs://QmfDWkq6ZBzWxD2P3WZyJdtuUQSKp7MnWfuc1SMgHPvp1S",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+      "symbol": "GHST",
+      "name": "Aavegotchi",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWYYGa1L1UzCxvZ4Jd66s8iUUWgMYCSiZZsch7RfRGeN1",
       "tags": []
     },
     {
@@ -8219,6 +8273,15 @@
       "name": "Vesper Finance",
       "decimals": 18,
       "logoURI": "ipfs://QmRFHWRxPnZMYGfeviHSBmxVzAbN7E6dQLZpEKht41GeBE",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+      "symbol": "MC",
+      "name": "Merit Circle",
+      "decimals": 18,
+      "logoURI": "ipfs://QmctFhAtiBYG216YHpcXy2diQK7fb2EXCTPqFnsLYDaV2d",
       "tags": []
     },
     {
@@ -9245,6 +9308,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198",
+      "symbol": "BANK",
+      "name": "Bankless DAO",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZFuCfQy8MGfwzwvbzckqhQJLNUyKrBPkuiFRpXmwZbWJ",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
       "symbol": "cUNI",
       "name": "Compound Uniswap",
@@ -9542,11 +9614,11 @@
     },
     {
       "chainId": 1,
-      "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
-      "symbol": "WABI",
-      "name": "Tael",
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+      "symbol": "stETH",
+      "name": "Staked Ether",
       "decimals": 18,
-      "logoURI": "ipfs://QmccQfaVxM79pmNQFo6cGRHgHxzvXRDUUr2jT5tDkg1QVo",
+      "logoURI": "ipfs://QmUQ1ZKHwpLTJmP32bpEKfJRmPXdeXDMwCjTUrLS4LGK4Z",
       "tags": []
     },
     {

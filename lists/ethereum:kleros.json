@@ -6,9 +6,9 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-19T17:06:36.855Z",
+  "timestamp": "2022-03-20T17:06:18.996Z",
   "version": {
-    "major": 85,
+    "major": 86,
     "minor": 0,
     "patch": 0
   },
@@ -9620,17 +9620,6 @@
       "decimals": 18,
       "logoURI": "ipfs://QmUQ1ZKHwpLTJmP32bpEKfJRmPXdeXDMwCjTUrLS4LGK4Z",
       "tags": []
-    },
-    {
-      "chainId": 1,
-      "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
-      "symbol": "RPL",
-      "name": "Rocket Pool",
-      "decimals": 18,
-      "logoURI": "ipfs://QmSW1smahanN4K7HTc99CAWW2MbxrsEquCMd48fkNbaBeZ",
-      "tags": [
-        "erc20"
-      ]
     },
     {
       "chainId": 1,

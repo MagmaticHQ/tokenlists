@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-20T17:06:18.996Z",
+  "timestamp": "2022-03-21T17:06:33.209Z",
   "version": {
     "major": 86,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {
@@ -2627,6 +2627,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x7ea9C63E216D5565c3940A2B3d150e59C2907Db3",
+      "symbol": "crBBTC",
+      "name": "Cream Binance Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "ipfs://QmXzXR5MWtg2jiEDnpsrKGWNjm2PYAjynhFgyYqP1BSWs9",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x436F0F3a982074c4a05084485D421466a994FE53",
       "symbol": "RTE",
       "name": "Rate3",
@@ -4639,6 +4648,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x1f19f83fC9a25F3C861260143E36c17706257986",
+      "symbol": "VEST",
+      "name": "DAO Invest",
+      "decimals": 18,
+      "logoURI": "ipfs://QmThT2rNKeG2btqNgLu1pBENVP8FSMMpsbjEGGJmqgbbY2",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xb4058411967D5046f3510943103805be61f0600E",
       "symbol": "STONK",
       "name": "STONK",
@@ -5100,6 +5118,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xF5cFBC74057C610c8EF151A439252680AC68c6DC",
+      "symbol": "OCT",
+      "name": "Octopus Network",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPuGtPmd87mga14SiRC51PSJBHbEbeSHHMhDZ5DZ1XjLj",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x79da1431150C9b82D2E5dfc1C68B33216846851e",
       "symbol": "iLTC",
       "name": "Synthetic Inverse Litecoin",
@@ -5213,6 +5240,15 @@
       "name": "Crypto Kombat",
       "decimals": 8,
       "logoURI": "ipfs://QmNpe61CEhMcnSk1NjTsQ3PUhKkdJUH9rYMgFCsE4EBg8a",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x61107a409fFFe1965126aa456Af679719695C69C",
+      "symbol": "UMI",
+      "name": "Umi Digital",
+      "decimals": 18,
+      "logoURI": "ipfs://QmRzYTgZaUFpRRTiCYDMawpocUXjMeGEFCHwpwo9JQYoA7",
       "tags": []
     },
     {
@@ -7639,6 +7675,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x3225E3C669B39C7c8B3e204a8614bB218c5e31BC",
+      "symbol": "crAAVE",
+      "name": "Cream AAVE",
+      "decimals": 8,
+      "logoURI": "ipfs://QmfLMezwako33Jxx16wXf6ajNhUH71eEAaXZBcko7PbqFk",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x9248c485b0B80f76DA451f167A8db30F33C70907",
       "symbol": "DEBASE",
       "name": "Debase",
@@ -8127,6 +8172,15 @@
       "name": "Synthetic Chainlink",
       "decimals": 18,
       "logoURI": "ipfs://QmWCHmGGxH4ztgLw8LhAukW7ToyaJHsfzNJvuTvD6oyAVS",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x609c711783295209d9f33F535A7cA55B8FF87Af2",
+      "symbol": "TOLL",
+      "name": "Toll Free Swap",
+      "decimals": 18,
+      "logoURI": "ipfs://QmYR3YRGaPmEPqYYzLJMk6rVHk4hLswM3m6QUpQKLutYM8",
       "tags": []
     },
     {
@@ -9191,15 +9245,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-      "symbol": "CRO",
-      "name": "Crypto.com Coin",
-      "decimals": 8,
-      "logoURI": "ipfs://QmXZ8Ddy2q9cNZPvEMGe8swB2uyUpUoUxzQwfqj8hVxB7w",
-      "tags": []
-    },
-    {
-      "chainId": 1,
       "address": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713",
       "symbol": "COVER",
       "name": "Cover Protocol",
@@ -9619,6 +9664,15 @@
       "name": "Staked Ether",
       "decimals": 18,
       "logoURI": "ipfs://QmUQ1ZKHwpLTJmP32bpEKfJRmPXdeXDMwCjTUrLS4LGK4Z",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+      "symbol": "CRO",
+      "name": "Crypto.com Coin",
+      "decimals": 8,
+      "logoURI": "ipfs://QmXZ8Ddy2q9cNZPvEMGe8swB2uyUpUoUxzQwfqj8hVxB7w",
       "tags": []
     },
     {

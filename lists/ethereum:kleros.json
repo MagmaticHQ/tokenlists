@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-21T17:06:33.209Z",
+  "timestamp": "2022-03-22T17:06:38.205Z",
   "version": {
     "major": 86,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {
@@ -4383,6 +4383,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xf2Ef3551C1945A7218fc4eC0a75c9eCFDF012A4F",
+      "symbol": "C4G3",
+      "name": "Cage",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWjxCvFpQFWc9gSqsyEK4gBPbfcGR8Qshmjt1LUSHa3Nt",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xe36E2D3c7c34281FA3bC737950a68571736880A1",
       "symbol": "sADA",
       "name": "Synthetic Cardano",
@@ -4734,6 +4743,15 @@
       "name": "Cream Balancer",
       "decimals": 8,
       "logoURI": "ipfs://QmVAVM19KQD5h7mH7NrmbG9XuqjrMo61RhGZrXGyFw2Hzu",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+      "symbol": "aDAI",
+      "name": "Aave DAI",
+      "decimals": 18,
+      "logoURI": "ipfs://QmRsmgbCGm1mroxr6QWC9CCpXc7FNkVh9eqg2Jbo5gF71Y",
       "tags": []
     },
     {
@@ -5900,6 +5918,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+      "symbol": "aCRV",
+      "name": "Aave CRV",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWx5UXZW4GzqniQeyVBrJSQtnJpLwL7RGqF4WGAUsUgWd",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
       "symbol": "mUSD",
       "name": "mStable USD",
@@ -6784,6 +6811,15 @@
       "name": "Synthetic Inverse DeFi Index",
       "decimals": 18,
       "logoURI": "ipfs://QmRtPMDthpo2EvQGbKWexK2wjmHoJnq92y2BPRZ7rqDfAf",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
+      "symbol": "aLINK",
+      "name": "Aave LINK",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSV85piJdSzbVcXY6yRdeZoM9pi8PZqC5o19MJDmJKhec",
       "tags": []
     },
     {
@@ -8661,6 +8697,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xd4937682df3C8aEF4FE912A96A74121C0829E664",
+      "symbol": "aFRAX",
+      "name": "Aave FRAX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUaK9mgxKFvevEpoCb9t5aoEbmiGpBTpgcqRuScCYdkzV",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x8Ee04E1e9400d4e2091Ff3A46509E246E2F34542",
       "symbol": "MUSUBI",
       "name": "Musubi",
@@ -8702,6 +8747,15 @@
       "name": "Zero Utility Token",
       "decimals": 18,
       "logoURI": "ipfs://QmTfcY9RSugfeAUgTY2jCkfdtVzABdF9NpKrhTWNbvcHh9",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+      "symbol": "aENJ",
+      "name": "Aave ENJ",
+      "decimals": 18,
+      "logoURI": "ipfs://QmefciNFWM6dCJtHMebgjPuphoXZctPCE7hSct6Zxt4ue5",
       "tags": []
     },
     {
@@ -9610,6 +9664,15 @@
       "name": "Router Protocol",
       "decimals": 18,
       "logoURI": "ipfs://Qma8NkdFrza8JLpMqHZWykYuh2diCPckmNwAF3bN6jRqse",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x99d36e97676A68313ffDc627fd6b56382a2a08B6",
+      "symbol": "BABYTRUMP",
+      "name": "Baby Trump",
+      "decimals": 9,
+      "logoURI": "ipfs://QmRhWQHHAMF6QLCU1ZYx9xy5rQgCy3kF8gqdogkrfZjDXE",
       "tags": []
     },
     {

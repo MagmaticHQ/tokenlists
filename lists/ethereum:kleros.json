@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-22T17:06:38.205Z",
+  "timestamp": "2022-03-23T17:06:23.275Z",
   "version": {
     "major": 86,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {
@@ -7069,6 +7069,15 @@
         "erc20",
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWb9Ps8WKDBEifUWQnDb9xahBFZjTeZsRZ1cvJu7jkLxd",
+      "tags": []
     },
     {
       "chainId": 1,

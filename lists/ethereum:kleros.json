@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-23T17:06:23.275Z",
+  "timestamp": "2022-03-24T17:06:37.337Z",
   "version": {
     "major": 86,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {
@@ -548,6 +548,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x46DceB1bB2c55531D12A4E769E8088F4aF64D410",
+      "symbol": "XBX",
+      "name": "XBX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTRjHELXMUZV67NXsxAjTYp8mUPuwHNbDxxVfhavDKQtL",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x1602af2C782cC03F9241992E243290Fccf73Bb13",
       "symbol": "QBIT",
       "name": "Qubitica",
@@ -1033,6 +1042,15 @@
       "name": "Relevant",
       "decimals": 18,
       "logoURI": "ipfs://Qmc1aWADL9yu6WDd2LHw5LRjm3LpXjipxU9683DUMdeNUm",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x6c936D4AE98E6d2172dB18c16C4b601C99918EE6",
+      "symbol": "LIFE",
+      "name": "Life Crypto",
+      "decimals": 18,
+      "logoURI": "ipfs://QmVQPBVGhsDivDQD8cAbh4Mmq9XbRWwVXrjCRpH6k41QNe",
       "tags": []
     },
     {
@@ -2508,6 +2526,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+      "symbol": "aREN",
+      "name": "Aave REN",
+      "decimals": 18,
+      "logoURI": "ipfs://QmTBQZTnYcFs5LbjGRfrjruxhzW6fPuJqiNVy6bwLEn7eX",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
       "symbol": "BUSD",
       "name": "Binance USD",
@@ -2542,6 +2569,15 @@
       "name": "Govi",
       "decimals": 18,
       "logoURI": "ipfs://QmVqWCcKdBEooqeLNXGEoH9zmVQ3hXLqiEKe1XS9cULecE",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x903560b1CcE601794C584F58898dA8a8b789Fc5d",
+      "symbol": "crKP3R",
+      "name": "Cream Keep3rV1",
+      "decimals": 8,
+      "logoURI": "ipfs://QmSaeccrmSnaecvnA7cjwsgBiH9EudXUbBFehGV1eUoVdV",
       "tags": []
     },
     {
@@ -5610,6 +5646,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+      "symbol": "aMANA",
+      "name": "Aave MANA",
+      "decimals": 18,
+      "logoURI": "ipfs://Qmayu3xACjp9KtsSAXhxLm1chq5TaHQTqStRZWAuPKcsEi",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x076C97e1c869072eE22f8c91978C99B4bcB02591",
       "symbol": "CBT",
       "name": "CommerceBlock",
@@ -6145,6 +6190,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x9783B81438C24848f85848f8df31845097341771",
+      "symbol": "COLLAR",
+      "name": "Dog Collar",
+      "decimals": 18,
+      "logoURI": "ipfs://QmY2crtyJkEDNBZvzz5zf16Vz3pamqZYSuztFuhuYRRiwh",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x763186eB8d4856D536eD4478302971214FEbc6A9",
       "symbol": "BETR",
       "name": "BetterBetting",
@@ -6270,6 +6324,15 @@
       "tags": [
         "erc20"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
+      "symbol": "aMKR",
+      "name": "Aave MKR",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPgVu8mpKC1b5EvNdYRsCFK9MUAxKc7oani61pLSoUvyb",
+      "tags": []
     },
     {
       "chainId": 1,
@@ -9144,6 +9207,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xf55BbE0255f7f4E70f63837Ff72A577fbDDbE924",
+      "symbol": "crBOND",
+      "name": "Cream BarnBridge",
+      "decimals": 8,
+      "logoURI": "ipfs://QmU5pskcfpAdvKYN5PjRZtcxZMHhAoCVXWjkbYNuS29Lzk",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x687642347a9282Be8FD809d8309910A3f984Ac5a",
       "symbol": "iKNC",
       "name": "Fulcrum KNC iToken",
@@ -9176,6 +9248,15 @@
       "name": "Dynamic Supply",
       "decimals": 18,
       "logoURI": "ipfs://QmVFaxkfEk7xDwzGYWrZjpV3Qw3wHfNnnGYzyUEYfrFSnX",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
+      "symbol": "aSNX",
+      "name": "Aave SNX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmbovcMi8pyyLwpZVMF7zrGhk28uc6hEHvT1nf2Ez7Tvaw",
       "tags": []
     },
     {

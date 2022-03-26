@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-24T17:06:37.337Z",
+  "timestamp": "2022-03-25T17:06:33.142Z",
   "version": {
-    "major": 86,
-    "minor": 4,
+    "major": 87,
+    "minor": 0,
     "patch": 0
   },
   "tags": {
@@ -2056,6 +2056,15 @@
       "name": "Vether",
       "decimals": 18,
       "logoURI": "ipfs://QmU7u5wXviwrYze7e2FSzV6joEA3kiargKssHhPQwhcHQV",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9Dc63083c464d6EDcCFf23444fF3CFc6886f6FB",
+      "symbol": "yvCurve-oBTC",
+      "name": "Curve oBTC Pool yVault",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWvcARiFntmdeDFS29QHUBiuq9i4HYPdpsdkNFdGxEMTa",
       "tags": []
     },
     {
@@ -6399,6 +6408,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x054B7ed3F45714d3091e82aAd64A1588dC4096Ed",
+      "symbol": "crHBTC",
+      "name": "Cream Huobi BTC",
+      "decimals": 8,
+      "logoURI": "ipfs://QmP8LinT9zSNyDRb8moKUjmrcE1UKjTdC8tZQfjZvyyq3h",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x745a824D6aBBD236AA794b5530062778A6Ad7523",
       "symbol": "sMSFT",
       "name": "Synthetic Microsoft",
@@ -6467,6 +6485,15 @@
       "name": "GET Protocol",
       "decimals": 18,
       "logoURI": "ipfs://QmQVDvyZ65UybjkCqmrHoXTaG9NK4pGNm2gv5A5twkb8Hx",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
+      "symbol": "aTUSD",
+      "name": "Aave TUSD",
+      "decimals": 18,
+      "logoURI": "ipfs://QmaYWZA4xoNTniHErCbLgDdvqruWdfHTKUqAb9AFLABegU",
       "tags": []
     },
     {
@@ -6757,6 +6784,15 @@
       "name": "Aludra Network",
       "decimals": 18,
       "logoURI": "ipfs://QmTmbaJPW8mgJ1XwbvpEx3bXzQ4PV3M3JNppurrxpkMEa6",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
+      "symbol": "aSUSD",
+      "name": "Aave SUSD",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXMAwKt2HDqb19ohUpAL77bmE338Y1ht9D6KUAVmPK3rk",
       "tags": []
     },
     {
@@ -7635,6 +7671,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x3c5DF3077BcF800640B5DAE8c91106575a4826E6",
+      "symbol": "yvCurve-pBTC",
+      "name": "Curve pBTC Pool yVault",
+      "decimals": 18,
+      "logoURI": "ipfs://QmViSaNPnjKnGxQtbdv1vqj2MZThR8MxU3NZJHMucSr5GX",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x92eF4FFBfe0Df030837b65d7FcCFE1ABd6549579",
       "symbol": "SWG",
       "name": "Swirge",
@@ -7952,6 +7997,15 @@
       "name": "DAI yVault",
       "decimals": 18,
       "logoURI": "ipfs://Qmc2tin2LTo5Q5CLnZAdwsoLqaqy4dwtebD9nyS3b5VpD5",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xd5103AfcD0B3fA865997Ef2984C66742c51b2a8b",
+      "symbol": "crHFIL",
+      "name": "Cream Huobi FIL",
+      "decimals": 8,
+      "logoURI": "ipfs://QmapBeAZe61HLrAF6aNjcPcYLD6wZjMpBLCqk3HbRLBGRF",
       "tags": []
     },
     {
@@ -9808,15 +9862,6 @@
       "name": "Folder Protocol",
       "decimals": 18,
       "logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
-      "tags": []
-    },
-    {
-      "chainId": 1,
-      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-      "symbol": "stETH",
-      "name": "Staked Ether",
-      "decimals": 18,
-      "logoURI": "ipfs://QmUQ1ZKHwpLTJmP32bpEKfJRmPXdeXDMwCjTUrLS4LGK4Z",
       "tags": []
     },
     {

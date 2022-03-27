@@ -6,9 +6,9 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-25T17:06:33.142Z",
+  "timestamp": "2022-03-26T17:06:35.319Z",
   "version": {
-    "major": 87,
+    "major": 88,
     "minor": 0,
     "patch": 0
   },
@@ -724,6 +724,15 @@
       "name": "Lunyr",
       "decimals": 18,
       "logoURI": "ipfs://QmecVQ788WtSELfdfRyXGmkFynq7WYvU23Z6YdeN9xXC15",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
+      "symbol": "aZRX",
+      "name": "Aave ZRX",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZDRjMMAtPvZ3JSRCArvsH2imJoZfCXVaaN3EiFjkYYpK",
       "tags": []
     },
     {
@@ -3000,6 +3009,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+      "symbol": "RPL",
+      "name": "Rocket Pool",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSW1smahanN4K7HTc99CAWW2MbxrsEquCMd48fkNbaBeZ",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x30635297E450b930f8693297eBa160D9e6c8eBcf",
       "symbol": "sUNI",
       "name": "Synthetic Uniswap",
@@ -3369,6 +3387,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
+      "symbol": "PEAK",
+      "name": "PEAKDEFI",
+      "decimals": 8,
+      "logoURI": "ipfs://QmVhKcGRYG1TwdKTxT1Sw1xbFW7m9fhtTMALyGbtqgXM1X",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x38A94e92A19E970c144DEd0B2DD47278CA11CC1F",
       "symbol": "F9",
       "name": "Falcon Nine",
@@ -3522,6 +3549,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "symbol": "WOO",
+      "name": "WOO Network",
+      "decimals": 18,
+      "logoURI": "ipfs://QmNkuV4qxhgQ7PzbhKUvmGZ34SzHYnGXR9novnpf2h8DdM",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
       "symbol": "DEXTF",
       "name": "DEXTF Protocol",
@@ -3671,6 +3707,15 @@
       "name": "OriginTrail",
       "decimals": 18,
       "logoURI": "ipfs://Qmc6t768USzkHmwAfCGz1nEMJCybbgTVp9C9tjErRJhGjf",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+      "symbol": "aUSDT",
+      "name": "Aave USDT",
+      "decimals": 6,
+      "logoURI": "ipfs://QmUHWPcs84pgAwwRunTp4HvStSiqPU3Pn8yZ8qCpubff59",
       "tags": []
     },
     {
@@ -3909,6 +3954,15 @@
       "name": "Zero Exchange",
       "decimals": 18,
       "logoURI": "ipfs://QmNcJ1aTeYdWjthBmyD8wmK6Y63Ympi9xhaA8fu7ioigw5",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xDC59ac4FeFa32293A95889Dc396682858d52e5Db",
+      "symbol": "BEAN",
+      "name": "Bean",
+      "decimals": 6,
+      "logoURI": "ipfs://QmeDMAcEfARLKnZHmdCqQyFc5dukdTqWQGTsu2ErAK7raQ",
       "tags": []
     },
     {
@@ -5132,6 +5186,15 @@
       "name": "a3Curve",
       "decimals": 18,
       "logoURI": "ipfs://QmankNkL8NxQkGNsgEurKJAPrqrq3ZnDx2q1nDyf76QC9g",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+      "symbol": "FXS",
+      "name": "Frax Share",
+      "decimals": 18,
+      "logoURI": "ipfs://QmdrpXu96vcFVNY1CsnyxSghFGGffwCMtyaZp3W1H7fsey",
       "tags": []
     },
     {
@@ -6539,6 +6602,15 @@
       "name": "Curve renBTC Pool yVault",
       "decimals": 18,
       "logoURI": "ipfs://QmcDhrT8g5sfisGQJVe4mKy5SYopyybxk1g9pdTygwTcTU",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+      "symbol": "FLX",
+      "name": "Reflexer Ungovernance Token",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZcw8VSni75nX9npaJmdUk8PAc4gAGCGGQBXTtA76EVXn",
       "tags": []
     },
     {
@@ -9389,6 +9461,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x8a83A0DE55C003A970070a8a0FA7CB24203fC13d",
+      "symbol": "PAST",
+      "name": "Past Project",
+      "decimals": 9,
+      "logoURI": "ipfs://QmUrwwtxr9nXf3u24mqRsjuNoq96czjaEJN4wvYxb4HtQW",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x14da230d6726C50F759Bc1838717F8CE6373509C",
       "symbol": "KAT",
       "name": "Kambria",
@@ -9862,15 +9943,6 @@
       "name": "Folder Protocol",
       "decimals": 18,
       "logoURI": "ipfs://QmXH1mvYeFZRb8wcNakd2w2jZ3EEaF97vEiDUWecQXNEsT",
-      "tags": []
-    },
-    {
-      "chainId": 1,
-      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-      "symbol": "CRO",
-      "name": "Crypto.com Coin",
-      "decimals": 8,
-      "logoURI": "ipfs://QmXZ8Ddy2q9cNZPvEMGe8swB2uyUpUoUxzQwfqj8hVxB7w",
       "tags": []
     },
     {

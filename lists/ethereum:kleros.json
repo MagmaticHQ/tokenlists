@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-26T17:06:35.319Z",
+  "timestamp": "2022-03-27T17:06:34.720Z",
   "version": {
     "major": 88,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {
@@ -1372,6 +1372,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+      "symbol": "aWETH",
+      "name": "Aave WETH",
+      "decimals": 18,
+      "logoURI": "ipfs://Qmasgwpz26rCu1Lf7NLsZ21PAi4YUqFEHjjSpTmNtgba8G",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
       "symbol": "CUDOS",
       "name": "Cudos",
@@ -1829,6 +1838,15 @@
       "name": "Sentivate",
       "decimals": 18,
       "logoURI": "ipfs://QmWQgqZPgxNNquFpcHtCQAuBAUwzQho6tfTXQfAPdHcHDc",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+      "symbol": "aWBTC",
+      "name": "Aave WBTC",
+      "decimals": 8,
+      "logoURI": "ipfs://QmV6rWRiHHf57AjiGnWcCWR6qJm5KscNKfCLMWGCfGqmCJ",
       "tags": []
     },
     {
@@ -3054,6 +3072,15 @@
         "erc20",
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBcca60bB61934080951369a648Fb03DF4F96263C",
+      "symbol": "aUSDC",
+      "name": "Aave USDC",
+      "decimals": 6,
+      "logoURI": "ipfs://Qmd9A9vhHURQUaCRaLUo4GV5uoZzLrmm9wMtWBb72MZSey",
+      "tags": []
     },
     {
       "chainId": 1,
@@ -8064,6 +8091,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xF256CC7847E919FAc9B808cC216cAc87CCF2f47a",
+      "symbol": "aXSUSHI",
+      "name": "Aave XSUSHI",
+      "decimals": 18,
+      "logoURI": "ipfs://QmV5oAmFfqQ89mAx5v2USMySePzZ7DCDefDeogSzPZ22s9",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x19D3364A399d251E894aC732651be8B0E4e85001",
       "symbol": "yvDAI",
       "name": "DAI yVault",
@@ -9673,6 +9709,15 @@
       "name": "Strike LINK",
       "decimals": 8,
       "logoURI": "ipfs://QmbKcy9rUqofoz5tpnq9qPU5DPNevdCSQEyaq9CjBuWYu2",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+      "symbol": "aUNI",
+      "name": "Aave UNI",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPrLGGuqMMKAJE39R2QRijjKFBRQm1xM5tVnSVWQFbB4D",
       "tags": []
     },
     {

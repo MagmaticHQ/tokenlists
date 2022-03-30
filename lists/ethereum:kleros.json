@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-27T17:06:34.720Z",
+  "timestamp": "2022-03-29T17:19:17.340Z",
   "version": {
     "major": 88,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {
@@ -2753,6 +2753,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xD692ac3245bb82319A31068D6B8412796eE85d2c",
+      "symbol": "crHUSD",
+      "name": "Cream HUSD",
+      "decimals": 8,
+      "logoURI": "ipfs://Qme4k5j23QB3WHaEgDTCiQ725B3btf1JowdBPAhJx8bYsJ",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
       "symbol": "CRV",
       "name": "Curve DAO Token",
@@ -3599,6 +3608,15 @@
       "name": "PolkaDoge",
       "decimals": 9,
       "logoURI": "ipfs://QmNUMVBWRU1YezFUwQLvDeXt1ymHDrFfAmfLoeGTU5tEnt",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x3C6C553A95910F9FC81c98784736bd628636D296",
+      "symbol": "crESD",
+      "name": "Cream Empty Set Dollar",
+      "decimals": 8,
+      "logoURI": "ipfs://QmWzUuAizcuBqkYnz2cv8ytLBNGSpTiix1RaD6q8gpzKWB",
       "tags": []
     },
     {
@@ -4718,6 +4736,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+      "symbol": "COW",
+      "name": "CoW Protocol Token",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUVXJHMgXVnKGMJWnKzHmeZizaEMeX4fPqwwqp5PGjgMD",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
       "symbol": "DATA",
       "name": "Streamr",
@@ -5258,6 +5285,15 @@
       "name": "Ganesha Token",
       "decimals": 18,
       "logoURI": "ipfs://QmPUkwwezmvXxvtvx5aaY9SpVRxw4BdshgNSxRfNeP1WV2",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x77252494C25444F8598A0c74Ffc90ADc535291a9",
+      "symbol": "NMS",
+      "name": "Nemesis ETH",
+      "decimals": 18,
+      "logoURI": "ipfs://QmPBJgUZ18EBf1XC9XjURigW4ND8LT8WZf8DJUT5SofBbW",
       "tags": []
     },
     {
@@ -6035,6 +6071,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x92B767185fB3B04F881e3aC8e5B0662a027A1D9f",
+      "symbol": "crDAI",
+      "name": "Cream Dai",
+      "decimals": 8,
+      "logoURI": "ipfs://QmbcBEDtrjoCt4XMLc818sV3vVtfDTgzEV67RPcRGWZULt",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
       "symbol": "sBTC",
       "name": "Synthetic Bitcoin",
@@ -6705,6 +6750,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x10a3da2BB0Fae4D591476fd97D6636fd172923a8",
+      "symbol": "crHEGIC",
+      "name": "Cream Hegic",
+      "decimals": 8,
+      "logoURI": "ipfs://QmRRPZ7wwRh8RUx2eu7Zi6CXfe6VCxx4FGVLmSe5xdhnTb",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xf34960d9d60be18cC1D5Afc1A6F012A723a28811",
       "symbol": "KCS",
       "name": "KuCoin Token",
@@ -6818,6 +6872,15 @@
       "name": "GROWTH DeFi",
       "decimals": 18,
       "logoURI": "ipfs://Qmd2ykt4ecWdLd8xbP1AnXkJgQRDarsVKiKgbYGeC8cQEu",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xfd609a03B393F1A1cFcAcEdaBf068CAD09a924E2",
+      "symbol": "crCRETH2",
+      "name": "Cream Cream ETH 2",
+      "decimals": 8,
+      "logoURI": "ipfs://QmfNwR1FmMokyCGKsGMi9SVGEQkSNZFMJDBkFEFSutKPRp",
       "tags": []
     },
     {

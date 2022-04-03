@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-03-16T15:28:55.147Z",
+  "timestamp": "2022-04-02T09:24:04.008Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 27
+    "patch": 29
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -102,6 +102,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
     },
     {
+      "name": "Attack",
+      "address": "0xF868939Ee81F04f463010BC52EAb91c0839eF08c",
+      "symbol": "ATK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/21333/small/attack.PNG?1638948221"
+    },
+    {
       "name": "Atlantis",
       "address": "0x0b68782eFF3177f1F9240B64A7e2F8E0497e2454",
       "symbol": "ATLX",
@@ -116,14 +124,6 @@
       "decimals": 6,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960"
-    },
-    {
-      "name": "AutoMatic",
-      "address": "0x3eB177A6693eC81d1E170136f8AD02fffBE172a7",
-      "symbol": "AUMI",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/19413/small/automatic.PNG?1635212504"
     },
     {
       "name": "Avalanche Token",
@@ -256,7 +256,7 @@
     {
       "name": "Otter Clam",
       "address": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
-      "symbol": "CLAM2",
+      "symbol": "CLAM",
       "decimals": 9,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png?1637548092"
@@ -516,6 +516,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/15825/small/fear-logo-400-400.png?1625552865"
+    },
+    {
+      "name": "DeFiner",
+      "address": "0x576c990A8a3E7217122e9973b2230A3be9678E94",
+      "symbol": "FIN",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12780/small/PdaW8Lb.png?1602500407"
     },
     {
       "name": "Fish",
@@ -934,6 +942,14 @@
       "logoURI": "https://modefi.io/images/modefi256.png"
     },
     {
+      "name": "moda",
+      "address": "0x5E430F88D1BE82EB3eF92b6fF06125168fD5DCf2",
+      "symbol": "MODA",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/20870/small/ModaDAO__logomark-primary_3x.png?1637809145"
+    },
+    {
       "name": "Monavale",
       "address": "0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
       "symbol": "MONA",
@@ -1012,6 +1028,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2694.png"
+    },
+    {
+      "name": "Nitro",
+      "address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+      "symbol": "NITRO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/21668/small/_X6vYBDM_400x400.jpg?1639705848"
     },
     {
       "name": "NASDEX Token",
@@ -1516,14 +1540,6 @@
       "decimals": 12,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/22092/small/3Rx82r_w_400x400.png?1640823145"
-    },
-    {
-      "name": "Unibright",
-      "address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
-      "symbol": "UBT",
-      "decimals": 8,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/2707/small/UnibrightLogo_colorful_500x500_preview.png?1547036916"
     },
     {
       "name": "UnirisToken",

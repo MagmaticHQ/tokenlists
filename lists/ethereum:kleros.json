@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-03-29T17:19:17.340Z",
+  "timestamp": "2022-04-16T08:43:42.389Z",
   "version": {
     "major": 88,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {
@@ -1595,6 +1595,15 @@
       "name": "FalconSwap",
       "decimals": 18,
       "logoURI": "ipfs://QmXEawRrGAb96zctZr2LcrRrqM35rfkpCBwSH6y19oPYMF",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x15874d65e649880c2614e7a480cb7c9A55787FF6",
+      "symbol": "EMAX",
+      "name": "EthereumMax",
+      "decimals": 18,
+      "logoURI": "ipfs://QmR4ntTTdf2hLgDw4S2CebEXvbEUUYm4c7kAZu6qCyYinb",
       "tags": []
     },
     {
@@ -4655,6 +4664,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x299698B4B44BD6d023981A7317798dEe12860834",
+      "symbol": "NFP",
+      "name": "New Frontier Presents",
+      "decimals": 9,
+      "logoURI": "ipfs://QmU8MKLLgiejvTbx27pRRhHNu4L2AVLg8KPfUsL8gYy3xF",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0x89D8a5Eb849dF52515b23b2b8E260f63fbb0aAFf",
       "symbol": "RAPTOR",
       "name": "Raptor",
@@ -6166,6 +6184,15 @@
       "name": "Centrality",
       "decimals": 18,
       "logoURI": "ipfs://QmWZtapHR8spDn7bSzQCeAVxqbXGfigtd9RmQ2RQb8hUNi",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xeCe8531550Fc599ccB2c7734494FBc358d0a9483",
+      "symbol": "PP",
+      "name": "PP",
+      "decimals": 18,
+      "logoURI": "ipfs://QmY5WmifP6BfEgpxbwMPaTEkT773dtq366kfuTrpyfxdnK",
       "tags": []
     },
     {

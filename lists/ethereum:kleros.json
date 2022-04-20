@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-04-16T08:43:42.389Z",
+  "timestamp": "2022-04-19T17:06:26.855Z",
   "version": {
     "major": 88,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {
@@ -449,6 +449,15 @@
       "name": "Direwolf",
       "decimals": 2,
       "logoURI": "ipfs://QmeyMEHbreLKo7pzGnBrDgnaQ2fkZJY7391ybqq2idXBSS",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x63f3B021B40a54D5a612b8dc3C0ff7DfA7da476D",
+      "symbol": "EXEC",
+      "name": "Executive Token",
+      "decimals": 9,
+      "logoURI": "ipfs://QmPVLmLEncMbdi1tqoUsQ7w57DS62hN5GgkEYvCkDZAdMs",
       "tags": []
     },
     {
@@ -8934,6 +8943,15 @@
       "name": "S4FE",
       "decimals": 18,
       "logoURI": "ipfs://QmV37vg5BAdtdCGrHk7DChhYPnqLRFpEyv4RWKPLqaaWBg",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xEdc511cD6cf92877f755C3641141d416D65A4E10",
+      "symbol": "CHRG",
+      "name": "Charge",
+      "decimals": 9,
+      "logoURI": "ipfs://QmXikTXDUeKxCYXeDytWnfDA167JQgcb5A9hn6YbYEcE8A",
       "tags": []
     },
     {

@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-04-19T17:06:26.855Z",
+  "timestamp": "2022-04-22T17:06:22.339Z",
   "version": {
     "major": 88,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {
@@ -6229,6 +6229,15 @@
       "name": "Morpher",
       "decimals": 18,
       "logoURI": "ipfs://QmUdJAv5WUPKeMqeu8ML9bwBqvNmrKkXosqCcMkyzenpJP",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xD54F76a4F66d6016A7FF169FacE62C14746e25b7",
+      "symbol": "EWOM",
+      "name": "EWOM",
+      "decimals": 18,
+      "logoURI": "ipfs://QmULXNnV6pz1LRfisQ9CQLPQnLyqqdCGdVPa4T9wiqHeBH",
       "tags": []
     },
     {

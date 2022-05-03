@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-04-22T17:06:22.339Z",
+  "timestamp": "2022-05-02T17:06:14.269Z",
   "version": {
-    "major": 88,
-    "minor": 5,
+    "major": 89,
+    "minor": 0,
     "patch": 0
   },
   "tags": {
@@ -5415,15 +5415,6 @@
     },
     {
       "chainId": 1,
-      "address": "0x382f0160c24f5c515A19f155BAc14d479433A407",
-      "symbol": "KLEE",
-      "name": "KleeKai",
-      "decimals": 9,
-      "logoURI": "ipfs://QmdtnQuCbna5YjrFNa6E9R57mNXuWQHg9Fm6JQzydbR5Xv",
-      "tags": []
-    },
-    {
-      "chainId": 1,
       "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
       "symbol": "BEL",
       "name": "Bella Protocol",
@@ -6384,6 +6375,15 @@
       "name": "Dog Collar",
       "decimals": 18,
       "logoURI": "ipfs://QmY2crtyJkEDNBZvzz5zf16Vz3pamqZYSuztFuhuYRRiwh",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+      "symbol": "CRO",
+      "name": "Cronos",
+      "decimals": 8,
+      "logoURI": "ipfs://QmXZ8Ddy2q9cNZPvEMGe8swB2uyUpUoUxzQwfqj8hVxB7w",
       "tags": []
     },
     {

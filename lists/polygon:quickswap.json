@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-04-29T10:32:45.994Z",
+  "timestamp": "2022-05-11T12:14:07.498Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 33
+    "patch": 34
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -478,6 +478,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9651.png"
     },
     {
+      "name": "Emanate",
+      "address": "0x3fB256CFefedb6A54De7465c0EE86dC574AE464D",
+      "symbol": "EMT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/4152/small/emanate.png?1558422824"
+    },
+    {
       "name": "Ethernity Chain",
       "address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
       "symbol": "ERN",
@@ -852,6 +860,14 @@
       "decimals": 8,
       "chainId": 137,
       "logoURI": "https://i.imgur.com/KTS2F7I.png"
+    },
+    {
+      "name": "Lucidao",
+      "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+      "symbol": "LCD",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
     },
     {
       "name": "Lido DAO Token",
@@ -1318,6 +1334,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
     },
     {
+      "name": "PolysportsToken",
+      "address": "0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518",
+      "symbol": "PS1",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/25070/small/L-T2x_cG_400x400.jpg?1650024620"
+    },
+    {
       "name": "ParaSwap",
       "address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
       "symbol": "PSP",
@@ -1347,7 +1371,7 @@
       "symbol": "QUICK(NEW)",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/QUICK_NEW.svg"
+      "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
     },
     {
       "name": "QuickSwap(OLD)",

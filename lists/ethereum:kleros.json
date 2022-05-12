@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-05-02T17:06:14.269Z",
+  "timestamp": "2022-05-11T17:06:17.455Z",
   "version": {
     "major": 89,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {
@@ -6885,6 +6885,15 @@
     },
     {
       "chainId": 1,
+      "address": "0xe8e8486228753E01Dbc222dA262Aa706Bd67e601",
+      "symbol": "WEB3",
+      "name": "Arch Ethereum Web3",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWdn41uTVBCmtcEeMGNJLchL2NsZEWH8WvXM2ZEHdJ2qy",
+      "tags": []
+    },
+    {
+      "chainId": 1,
       "address": "0xE17f017475a709De58E976081eB916081ff4c9d5",
       "symbol": "RMPL",
       "name": "RMPL",
@@ -7234,6 +7243,15 @@
       "name": "Synthetic Inverse Binance Coin",
       "decimals": 18,
       "logoURI": "ipfs://QmZ5m9jPvsr6ESk8SWizq55ZaY6AGYmvQhZ5nTjYKjhCat",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x9fcF4497ED9fBb8D8B46259e4f2bB4749953ab8B",
+      "symbol": "DeFi",
+      "name": "DeFiant Token",
+      "decimals": 9,
+      "logoURI": "ipfs://QmT1imxBxcpJinCfgUbZ8nxBWRLhC5eYVxcCs6bsrumcVk",
       "tags": []
     },
     {

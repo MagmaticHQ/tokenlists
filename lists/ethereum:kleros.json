@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-05-11T17:06:17.455Z",
+  "timestamp": "2022-05-15T17:06:18.124Z",
   "version": {
     "major": 89,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {
@@ -580,6 +580,15 @@
       "name": "Cogecoin",
       "decimals": 18,
       "logoURI": "ipfs://QmWj3qSWeA2SjBbxPXVLpxiWnansMYe43Ah7dVtg1GoaRU",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xA67E9F021B9d208F7e3365B2A155E3C55B27de71",
+      "symbol": "KLEE",
+      "name": "KleeKai",
+      "decimals": 9,
+      "logoURI": "ipfs://QmdtnQuCbna5YjrFNa6E9R57mNXuWQHg9Fm6JQzydbR5Xv",
       "tags": []
     },
     {

@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-05-15T17:06:18.124Z",
+  "timestamp": "2022-05-21T17:06:18.832Z",
   "version": {
     "major": 89,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {
@@ -2794,6 +2794,15 @@
       "name": "Curve DAO Token",
       "decimals": 18,
       "logoURI": "ipfs://QmQafnfhnpppWkmjoiQJgKHeFPh4AhXM7Mk7cryTmqMmqu",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+      "symbol": "STG",
+      "name": "Stargate Finance",
+      "decimals": 18,
+      "logoURI": "ipfs://QmZ3BKyxsLQHiDdLaDex76gEeyEGoMNRbJRXniAw9U77DD",
       "tags": []
     },
     {

@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-05-21T17:06:18.832Z",
+  "timestamp": "2022-05-29T17:06:15.693Z",
   "version": {
     "major": 89,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "tags": {
@@ -9664,6 +9664,15 @@
       "name": "Kambria",
       "decimals": 18,
       "logoURI": "ipfs://QmRbvzNhswdGPGEg4kPTSrTZJLpS9SLuRtooVwsQMjG5WN",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x524Ebc93BeEf838F70b4Ae54b675d3e971D5884E",
+      "symbol": "HERO",
+      "name": "Challenge Coin",
+      "decimals": 9,
+      "logoURI": "ipfs://QmXTRp514XARyuwJKFZ2eAPKknqWTvEtGTd8NmkEbEn2dQ",
       "tags": []
     },
     {

@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-05-25T12:48:10.264Z",
+  "timestamp": "2022-05-31T17:15:47.115Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 35
+    "patch": 36
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -1694,6 +1694,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12225.png"
     },
     {
+      "name": "TrueUSD",
+      "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665"
+    },
+    {
       "name": "UniArts Network Token",
       "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
       "symbol": "UART",
@@ -1748,6 +1756,14 @@
       "decimals": 6,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Decentralized USD",
+      "address": "0xFFA4D863C96e743A2e1513824EA006B8D0353C57",
+      "symbol": "USDD",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/25380/small/UUSD.jpg?1651823371"
     },
     {
       "name": "Tether USD",

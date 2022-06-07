@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-05-29T17:06:15.693Z",
+  "timestamp": "2022-06-06T17:06:15.481Z",
   "version": {
     "major": 89,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {
@@ -4905,6 +4905,15 @@
       "name": "Metronome",
       "decimals": 18,
       "logoURI": "ipfs://QmaKxwSuJLNJqjBxtYVf3ZxcSAz6GEJX8kSM3H98nuoZ77",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xCE3f08e664693ca792caCE4af1364D5e220827B2",
+      "symbol": "SAITAMA",
+      "name": "SAITAMA",
+      "decimals": 9,
+      "logoURI": "ipfs://QmPgP74h3isweX3xnhrnLyNbFeRdddxShhG8oiDDpF55TS",
       "tags": []
     },
     {

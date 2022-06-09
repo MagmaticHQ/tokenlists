@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-05-31T17:15:47.115Z",
+  "timestamp": "2022-06-08T13:33:09.080Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 36
+    "patch": 38
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -615,11 +615,11 @@
     },
     {
       "name": "Frax",
-      "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+      "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
       "symbol": "FRAX",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://avatars.githubusercontent.com/u/56005256?s=200&v=4"
+      "logoURI": "https://polygonscan.com/token/images/frax_32.png"
     },
     {
       "name": "Fantom Token",
@@ -692,6 +692,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
+    },
+    {
+      "name": "GAX Liquidity Token Reward",
+      "address": "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc",
+      "symbol": "GLTR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.ibb.co/qMMwsK7/gltr-token.png"
     },
     {
       "name": "Guild Member Token",
@@ -1238,6 +1246,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18630/small/YtrqPIWc.png?1632710781"
     },
     {
+      "name": "Ripae",
+      "address": "0x8063037ea50E4a066bF1430EA1E3e609CD5cEf6B",
+      "symbol": "PAE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/23420/small/logo192_%282%29.png?1644194954"
+    },
+    {
       "name": "PolkaBridge",
       "address": "0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0",
       "symbol": "PBR",
@@ -1316,6 +1332,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/809/small/v2logo-1.png?1624906282"
+    },
+    {
+      "name": "pMATIC",
+      "address": "0xA0dF47432d9d88bcc040E9ee66dDC7E17A882715",
+      "symbol": "pMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://matic.ripae.finance/static/media/ripae_pftm.1a3fe2b4.svg"
     },
     {
       "name": "pTokens PNT",
@@ -1406,14 +1430,6 @@
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
     },
     {
-      "name": "QuickChart",
-      "address": "0x0Af77B096cbDF53B5c39c2fcff8F14C5E3a36356",
-      "symbol": "QuickChart",
-      "decimals": 9,
-      "chainId": 137,
-      "logoURI": "https://i.imgur.com/jv5A0eX.png"
-    },
-    {
       "name": "QUIDD",
       "address": "0x123706cDD8e60324e610E9A2CC7012D0F45A5b8E",
       "symbol": "QUIDD",
@@ -1436,14 +1452,6 @@
       "decimals": 6,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/16733/small/REGEN.png?1624861317"
-    },
-    {
-      "name": "Zerogoki Token",
-      "address": "0xB9f9e37c2CdbaFF928C3Da730b02F06fE09aE70E",
-      "symbol": "REI",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/17015/small/iconZerogoki.png?1626618921"
     },
     {
       "name": "Relay Token",
@@ -1574,14 +1582,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png?1616489452"
     },
     {
-      "name": "Sphere Finance",
-      "address": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
-      "symbol": "SPHERE",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://i.ibb.co/xKnbP10/logo-icon-onlight-whitebg.png"
-    },
-    {
       "name": "Sprocket",
       "address": "0x0D98EAe620491d8f6836a39Ac45E54b286FDd2d7",
       "symbol": "SPROCKET",
@@ -1627,7 +1627,7 @@
       "symbol": "TECH",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/17983/small/Profile_picture_white.jpg?1630149169"
+      "logoURI": "https://i.imgur.com/71B4h8s.png"
     },
     {
       "name": "Telcoin",
@@ -1700,14 +1700,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/3449/small/tusd.png?1618395665"
-    },
-    {
-      "name": "UniArts Network Token",
-      "address": "0xf244E91A46A9cdd48da295cA5d0B27894f8032B1",
-      "symbol": "UART",
-      "decimals": 12,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/22092/small/3Rx82r_w_400x400.png?1640823145"
     },
     {
       "name": "UnirisToken",
@@ -1958,14 +1950,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14582/small/512_Light.png?1617149658"
     },
     {
-      "name": "YAMP.FINANCE",
-      "address": "0x87f654c4b347230C60CAD8d7ea9cF0D7238bcc79",
-      "symbol": "YAMP",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://yamp.finance/img/yamp_logo.svg"
-    },
-    {
       "name": "YEL Token",
       "address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
       "symbol": "YEL",
@@ -1980,14 +1964,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/12385/small/1619048513068.png?1622193581"
-    },
-    {
-      "name": "ZigCoin",
-      "address": "0x7BeBd226154E865954A87650FAefA8F485d36081",
-      "symbol": "ZIG",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/14796/small/zignaly.jpg?1618496339"
     }
   ]
 }

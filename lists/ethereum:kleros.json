@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-06-06T17:06:15.481Z",
+  "timestamp": "2022-06-13T17:06:16.953Z",
   "version": {
     "major": 89,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "tags": {
@@ -2110,6 +2110,15 @@
       "name": "Vether",
       "decimals": 18,
       "logoURI": "ipfs://QmU7u5wXviwrYze7e2FSzV6joEA3kiargKssHhPQwhcHQV",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xA967Dd943B336680540011536E7D8c3d33333515",
+      "symbol": "EURL",
+      "name": "Lugh",
+      "decimals": 6,
+      "logoURI": "ipfs://QmaT499Xv3zmw3EtHxbfPoWHi1QFKyz1nL2ypVVvTKJtBR",
       "tags": []
     },
     {

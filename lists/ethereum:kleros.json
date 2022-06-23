@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-06-13T17:06:16.953Z",
+  "timestamp": "2022-06-22T17:06:18.830Z",
   "version": {
     "major": 89,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {
@@ -3077,6 +3077,15 @@
       "name": "BTU Protocol",
       "decimals": 18,
       "logoURI": "ipfs://QmSbTCZQMkG65v3H6wp27tz55XLq7tUYkYKZBGEdD6wskB",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+      "symbol": "EUROC",
+      "name": "Euro Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://Qmah8RxMz69grmPfa8wDdzYNd9DNqrp2NETzwdh9LtawPb",
       "tags": []
     },
     {

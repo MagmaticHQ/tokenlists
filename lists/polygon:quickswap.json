@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-06-08T13:33:09.080Z",
+  "timestamp": "2022-06-22T16:06:36.767Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 38
+    "patch": 39
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -70,28 +70,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12785/small/akash-logo.png?1615447676"
     },
     {
-      "name": "Aluna",
-      "address": "0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A",
-      "symbol": "ALN",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/14379/small/uaLoLU8c_400x400_%281%29.png?1627873106"
-    },
-    {
       "name": "Aavegotchi ALPHA",
       "address": "0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2",
       "symbol": "ALPHA",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/24738/small/alpha.png?1648769768"
-    },
-    {
-      "name": "Angel",
-      "address": "0x0B6afe834dab840335F87d99b45C2a4bd81A93c7",
-      "symbol": "ANGEL",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/17739/small/Polylauncher_-_200_x_200.png?1629121147"
     },
     {
       "name": "AnRKey X",
@@ -108,14 +92,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-128-white.svg"
-    },
-    {
-      "name": "ARTH Valuecoin",
-      "address": "0xE52509181FEb30EB4979E29EC70D50FD5C44D590",
-      "symbol": "ARTH",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
     },
     {
       "name": "Attack",
@@ -278,14 +254,6 @@
       "logoURI": "https://raw.githubusercontent.com/iotexproject/iotex-token-metadata/master/images/io1nxetpma4de3wx6tqcgxdtj5wc64a24t64dc76s.png"
     },
     {
-      "name": "Otter Clam",
-      "address": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
-      "symbol": "CLAM",
-      "decimals": 9,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png?1637548092"
-    },
-    {
       "name": "Centaur Token",
       "address": "0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5",
       "symbol": "CNTR",
@@ -390,14 +358,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17438/small/derace-logo-black-coingecko.png?1627656907"
     },
     {
-      "name": "DeSpace Protocol",
-      "address": "0xa062fc09cA6bdeb2f6E3b77E1d4e09C42C964742",
-      "symbol": "DES",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://i.imgur.com/rb4P2E3.jpg"
-    },
-    {
       "name": "decentral.games",
       "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
       "symbol": "DG",
@@ -468,14 +428,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/17298/small/200x200_pixel.png?1627288546"
-    },
-    {
-      "name": "Elementeum",
-      "address": "0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4",
-      "symbol": "ELET",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://etherlegends.com/ELET.png"
     },
     {
       "name": "Starchi Liquid Luck",
@@ -908,6 +860,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png?1609873644"
+    },
+    {
+      "name": "LunaFi",
+      "address": "0xCa7BF3C514d412AC12D10Eff302301A81153F557",
+      "symbol": "LFI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/24594/small/lfi.png?1648310927"
     },
     {
       "name": "ChainLink Token",
@@ -1675,7 +1635,7 @@
       "symbol": "TRACE",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/23266/small/93mryokp_400x400.png?1643413792"
+      "logoURI": "https://assets.coingecko.com/coins/images/23266/small/Token_Icon_02.png?1655797843"
     },
     {
       "name": "Polytrade",
@@ -1740,6 +1700,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
+    },
+    {
+      "name": "USD+",
+      "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+      "symbol": "USD+",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267"
     },
     {
       "name": "USD Coin",

@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-06-22T17:06:18.830Z",
+  "timestamp": "2022-06-26T17:06:18.696Z",
   "version": {
     "major": 89,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tags": {
@@ -9179,6 +9179,15 @@
       "name": "Synthetic Inverse Aave",
       "decimals": 18,
       "logoURI": "ipfs://QmQxm8PRiL6p8K4WBYFwLFaZVksZm9yowWQNaXXQx1crqR",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xe0cCa86B254005889aC3a81e737f56a14f4A38F5",
+      "symbol": "ALTA",
+      "name": "Alta Finance",
+      "decimals": 18,
+      "logoURI": "ipfs://QmcKTih3QqPXujK9XqZhjPRC1v4nkaRsCstWt5ap9P7MCY",
       "tags": []
     },
     {

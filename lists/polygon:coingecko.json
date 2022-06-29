@@ -4,16 +4,8 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2022-06-27T22:06:18.148+00:00",
+  "timestamp": "2022-06-28T03:05:38.581+00:00",
   "tokens": [
-    {
-      "chainId": 137,
-      "address": "0x346404079b3792a6c548b072b9c4dddfb92948d5",
-      "name": "GeniuX",
-      "symbol": "IUX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26078/thumb/coin.png?1655886774"
-    },
     {
       "chainId": 137,
       "address": "0xd4945a3d0de9923035521687d4bf18cc9b0c7c2a",
@@ -61,14 +53,6 @@
       "symbol": "HBN",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/59/thumb/hobonickels.png?1547033710"
-    },
-    {
-      "chainId": 137,
-      "address": "0x301595f6fd5f69fad7a488dacb8971e7c0c2f559",
-      "name": "Wrapped ThunderPOKT",
-      "symbol": "WTPOKT",
-      "decimals": 12,
-      "logoURI": "https://assets.coingecko.com/coins/images/24835/thumb/vjCQH6sw.jpg?1649060228"
     },
     {
       "chainId": 137,
@@ -232,11 +216,11 @@
     },
     {
       "chainId": 137,
-      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
-      "name": "MAI",
-      "symbol": "MIMATIC",
+      "address": "0x93dcfe01dd256b9c9593ce2f5bf8488c4a78dde6",
+      "name": "Ethica",
+      "symbol": "ETHICA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018"
+      "logoURI": "https://assets.coingecko.com/coins/images/26179/thumb/D5qFCZtn_400x400.png?1656382314"
     },
     {
       "chainId": 137,
@@ -280,19 +264,19 @@
     },
     {
       "chainId": 137,
+      "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+      "name": "MAI",
+      "symbol": "MIMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1620281018"
+    },
+    {
+      "chainId": 137,
       "address": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
       "name": "Pleasure Coin",
       "symbol": "NSFW",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15315/thumb/pleasurecoin-icon.png?1648724879"
-    },
-    {
-      "chainId": 137,
-      "address": "0xce899f26928a2b21c6a2fddd393ef37c61dba918",
-      "name": "Museum of Crypto Art",
-      "symbol": "MOCA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15829/thumb/photo_2021-06-04_09.36.16.jpeg?1622770606"
     },
     {
       "chainId": 137,
@@ -309,22 +293,6 @@
       "symbol": "APU",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/23662/thumb/logo.png?1644991484"
-    },
-    {
-      "chainId": 137,
-      "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
-      "name": "OtterClam",
-      "symbol": "CLAM",
-      "decimals": 9,
-      "logoURI": "https://assets.coingecko.com/coins/images/20670/thumb/clam.png?1637548092"
-    },
-    {
-      "chainId": 137,
-      "address": "0xe00dec05d7601d4a3729b03e451ccd9bc63a4b7e",
-      "name": "MyWorld",
-      "symbol": "MWT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/26170/thumb/myworld_tokensymbol-02.png?1656367130"
     },
     {
       "chainId": 137,
@@ -408,6 +376,14 @@
     },
     {
       "chainId": 137,
+      "address": "0xe00dec05d7601d4a3729b03e451ccd9bc63a4b7e",
+      "name": "MyWorld",
+      "symbol": "MWT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26170/thumb/myworld_tokensymbol-02.png?1656367130"
+    },
+    {
+      "chainId": 137,
       "address": "0xd1750f78af070c041229f8a57bb13878c4945e53",
       "name": "Harpy Finance",
       "symbol": "HARPY",
@@ -432,14 +408,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x9bd9ad490dd3a52f096d229af4483b94d63be618",
-      "name": "CelsiusX Wrapped DOGE",
-      "symbol": "CXDOGE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23683/thumb/R2747rb.png?1644997607"
-    },
-    {
-      "chainId": 137,
       "address": "0x0d0b8488222f7f83b23e365320a4021b12ead608",
       "name": "Next Earth",
       "symbol": "NXTT",
@@ -461,6 +429,14 @@
       "symbol": "GBTS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/16732/thumb/gembites.PNG?1624859947"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
+      "name": "OtterClam",
+      "symbol": "CLAM",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/20670/thumb/clam.png?1637548092"
     },
     {
       "chainId": 137,
@@ -501,6 +477,14 @@
       "symbol": "YAMP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/17301/thumb/0x87f654c4b347230C60CAD8d7ea9cF0D7238bcc79.png?1627267863"
+    },
+    {
+      "chainId": 137,
+      "address": "0x301595f6fd5f69fad7a488dacb8971e7c0c2f559",
+      "name": "Wrapped ThunderPOKT",
+      "symbol": "WTPOKT",
+      "decimals": 12,
+      "logoURI": "https://assets.coingecko.com/coins/images/24835/thumb/vjCQH6sw.jpg?1649060228"
     },
     {
       "chainId": 137,
@@ -744,14 +728,6 @@
     },
     {
       "chainId": 137,
-      "address": "0xb6169e71144b4debd9caa2dbb851fc8ffde6119f",
-      "name": "DuDe",
-      "symbol": "DUDE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/25924/thumb/dude-logo-png.jpg?1654672849"
-    },
-    {
-      "chainId": 137,
       "address": "0x5c59d7cb794471a9633391c4927ade06b8787a90",
       "name": "Timeleap Finance",
       "symbol": "TIME",
@@ -824,6 +800,22 @@
     },
     {
       "chainId": 137,
+      "address": "0x346404079b3792a6c548b072b9c4dddfb92948d5",
+      "name": "GeniuX",
+      "symbol": "IUX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26078/thumb/coin.png?1655886774"
+    },
+    {
+      "chainId": 137,
+      "address": "0xce899f26928a2b21c6a2fddd393ef37c61dba918",
+      "name": "Museum of Crypto Art",
+      "symbol": "MOCA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15829/thumb/photo_2021-06-04_09.36.16.jpeg?1622770606"
+    },
+    {
+      "chainId": 137,
       "address": "0x130ce4e4f76c2265f94a961d70618562de0bb8d2",
       "name": "Inverse BTC Flexible Leverage Index",
       "symbol": "IBTC-FLI-P",
@@ -880,6 +872,14 @@
     },
     {
       "chainId": 137,
+      "address": "0xb6169e71144b4debd9caa2dbb851fc8ffde6119f",
+      "name": "DuDe",
+      "symbol": "DUDE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25924/thumb/dude-logo-png.jpg?1654672849"
+    },
+    {
+      "chainId": 137,
       "address": "0x12a34a6759c871c4c1e8a0a42cfc97e4d7aaf68d",
       "name": "Tutellus",
       "symbol": "TUT",
@@ -909,14 +909,6 @@
       "symbol": "PZAP",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15623/thumb/polyzap.png?1621349109"
-    },
-    {
-      "chainId": 137,
-      "address": "0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8",
-      "name": "Aavegotchi FOMO",
-      "symbol": "FOMO",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24737/thumb/fomo.png?1648769659"
     },
     {
       "chainId": 137,
@@ -992,6 +984,14 @@
     },
     {
       "chainId": 137,
+      "address": "0x9bd9ad490dd3a52f096d229af4483b94d63be618",
+      "name": "CelsiusX Wrapped DOGE",
+      "symbol": "CXDOGE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23683/thumb/R2747rb.png?1644997607"
+    },
+    {
+      "chainId": 137,
       "address": "0xacbdc2b7a577299718309ed5c4b703fb5ed7af90",
       "name": "Signed",
       "symbol": "SIGN",
@@ -1005,6 +1005,14 @@
       "symbol": "SCO2",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/25976/thumb/SCO2.png?1655112461"
+    },
+    {
+      "chainId": 137,
+      "address": "0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8",
+      "name": "Aavegotchi FOMO",
+      "symbol": "FOMO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24737/thumb/fomo.png?1648769659"
     },
     {
       "chainId": 137,
@@ -6705,7 +6713,7 @@
   ],
   "version": {
     "major": 85,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }

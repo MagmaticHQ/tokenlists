@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-06-26T17:06:18.696Z",
+  "timestamp": "2022-06-29T17:06:16.563Z",
   "version": {
     "major": 89,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tags": {
@@ -2119,7 +2119,9 @@
       "name": "Lugh",
       "decimals": 6,
       "logoURI": "ipfs://QmaT499Xv3zmw3EtHxbfPoWHi1QFKyz1nL2ypVVvTKJtBR",
-      "tags": []
+      "tags": [
+        "erc20"
+      ]
     },
     {
       "chainId": 1,
@@ -6611,6 +6613,15 @@
       "name": "Decentralized Machine Learning",
       "decimals": 18,
       "logoURI": "ipfs://QmVaKaArzJuKvvMHchx8q8V9gt9vYEgqwS3HkuGqoA1PKR",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+      "symbol": "SOLACE",
+      "name": "Solace",
+      "decimals": 18,
+      "logoURI": "ipfs://QmQPnVUdHGyrsFm7YH1gnVqqaRbfd7epXZBrvgPxpZ9abv",
       "tags": []
     },
     {

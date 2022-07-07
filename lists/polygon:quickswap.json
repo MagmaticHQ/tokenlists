@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-06-29T12:05:47.796Z",
+  "timestamp": "2022-07-06T17:02:27.331Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 40
+    "patch": 41
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -68,6 +68,14 @@
       "decimals": 6,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/12785/small/akash-logo.png?1615447676"
+    },
+    {
+      "name": "Algebra",
+      "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+      "symbol": "ALGB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/19580/small/13211.png?1635469023"
     },
     {
       "name": "Aavegotchi ALPHA",
@@ -1214,6 +1222,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23420/small/logo192_%282%29.png?1644194954"
     },
     {
+      "name": "Paxos Gold",
+      "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
+      "symbol": "PAXG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/9519/small/paxg.PNG?1568542565"
+    },
+    {
       "name": "PolkaBridge",
       "address": "0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0",
       "symbol": "PBR",
@@ -1508,6 +1524,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/20658/small/sd.png?1642927667"
+    },
+    {
+      "name": "Sunflower Land",
+      "address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+      "symbol": "SFL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203"
     },
     {
       "name": "SHIBA INU",

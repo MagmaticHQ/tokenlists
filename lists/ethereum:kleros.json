@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-06-29T17:06:16.563Z",
+  "timestamp": "2022-07-13T17:07:03.845Z",
   "version": {
     "major": 89,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "tags": {
@@ -3088,7 +3088,9 @@
       "name": "Euro Coin",
       "decimals": 6,
       "logoURI": "ipfs://Qmah8RxMz69grmPfa8wDdzYNd9DNqrp2NETzwdh9LtawPb",
-      "tags": []
+      "tags": [
+        "erc20"
+      ]
     },
     {
       "chainId": 1,
@@ -9384,6 +9386,15 @@
       "tags": [
         "erc20"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC631bE100F6Cf9A7012C23De5a6ccb990EAFC133",
+      "symbol": "BTFA",
+      "name": "Banana Task Force Ape",
+      "decimals": 9,
+      "logoURI": "ipfs://QmPGRey6dx4uCqJsPcfbawpZZsYKMYGb8Cc8XaygsWN1wL",
+      "tags": []
     },
     {
       "chainId": 1,

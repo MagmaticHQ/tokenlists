@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-07-13T17:07:03.845Z",
+  "timestamp": "2022-07-17T17:06:19.794Z",
   "version": {
     "major": 89,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "tags": {
@@ -1312,6 +1312,15 @@
       "name": "Alchemix",
       "decimals": 18,
       "logoURI": "ipfs://Qme9AM7m2M5MQ7R8d3kqtzWsKZegn1AaXVhUWisHaJVeZH",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0x5dE83a4b2CA7D85476bb5cA5435E1BF1bbFdE9a2",
+      "symbol": "NUTRA",
+      "name": "Nutraceutical Finance",
+      "decimals": 9,
+      "logoURI": "ipfs://QmXo1iXsGqtnXJA1w1Eo14Bi53FpGPV834aJYAKhEXrEDo",
       "tags": []
     },
     {

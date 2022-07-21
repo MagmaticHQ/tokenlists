@@ -1,10 +1,10 @@
 {
   "name": "Quickswap Token List",
-  "timestamp": "2022-07-06T17:02:27.331Z",
+  "timestamp": "2022-07-20T19:39:38.307Z",
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 41
+    "patch": 43
   },
   "tags": {},
   "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
@@ -179,7 +179,7 @@
       "symbol": "BETS",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18453.png"
     },
     {
       "name": "Biconomy Token",
@@ -438,14 +438,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17298/small/200x200_pixel.png?1627288546"
     },
     {
-      "name": "Starchi Liquid Luck",
-      "address": "0xED0bb69f9F96E8C5FffdF16c468eceC385134eA5",
-      "symbol": "ELIXIR",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/18941/small/starchi.jpg?1633961292"
-    },
-    {
       "name": "Dogelon",
       "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
       "symbol": "ELON",
@@ -630,14 +622,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19584/small/game_station.PNG?1635471603"
     },
     {
-      "name": "GemBites",
-      "address": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
-      "symbol": "GBTS",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://i.ibb.co/D7nDtJK/Gem-Bites32x32.png"
-    },
-    {
       "name": "Genesis",
       "address": "0x51869836681BcE74a514625c856aFb697a013797",
       "symbol": "GENESIS",
@@ -708,14 +692,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.imgur.com/VtDIzy7.png"
-    },
-    {
-      "name": "Hanu Yokia",
-      "address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
-      "symbol": "HANU",
-      "decimals": 12,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/17161/small/Goji_Hanu_Logo_200x200.png?1627127472"
     },
     {
       "name": "HBAR",
@@ -1046,28 +1022,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17393/small/ME_logo_200_200.png?1627526275"
     },
     {
-      "name": "Mobius Token",
-      "address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
-      "symbol": "MOT",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/18144/small/11322.png?1630668459"
-    },
-    {
       "name": "SHEESHA POLYGON",
       "address": "0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D",
       "symbol": "mSHEESHA",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://pbs.twimg.com/profile_images/1427241161417060359/uHXKH64w_400x400.jpg"
-    },
-    {
-      "name": "MaticLaunch",
-      "address": "0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26",
-      "symbol": "MTCL",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/18036/small/TQzTNi5.png?1630312183"
     },
     {
       "name": "Metaverse",
@@ -1246,22 +1206,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/10805/small/J51iIea.png?1583891599"
     },
     {
-      "name": "pddollar",
-      "address": "0x146e58D34EaB0bFf7e0a63cfe9332908d680c667",
-      "symbol": "PDDOLLAR",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/24962/small/pddollar.png?1649574672"
-    },
-    {
-      "name": "PDSHARE",
-      "address": "0x3068382885602FC0089aeC774944b5ad6123ae60",
-      "symbol": "PDSHARE",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/24963/small/pdshare.png?1649574782"
-    },
-    {
       "name": "Polygon Ecosystem Index",
       "address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
       "symbol": "PECO",
@@ -1356,6 +1300,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
+    },
+    {
+      "name": "Prosper",
+      "address": "0x6109cB051c5C64093830121ed76272aB04bBDD7C",
+      "symbol": "PROS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/13668/small/heD6cg22l3sF5VgPh4G1xC6lnKEWXJif-jbaqUpv8CDP6jbWaqn9UjBdkXWNrw1CewaQOxb8zXRdNeNJWWiUDjfsEl_d7E3bPLg4cFoilQF5TGKHfWyJlnpm3UYc9ytvRvOjxOevMuiu8-lusnNoOcwgsJpMkYWHqe322GAxLt0_30kFMVAcjEDUrOlkK6hUYi0m9P433mvNlOm.jpg?1610671732"
     },
     {
       "name": "PolysportsToken",

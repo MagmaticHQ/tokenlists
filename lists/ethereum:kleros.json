@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-07-17T17:06:19.794Z",
+  "timestamp": "2022-07-24T17:06:15.487Z",
   "version": {
     "major": 89,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   },
   "tags": {
@@ -1069,6 +1069,15 @@
       "name": "Relevant",
       "decimals": 18,
       "logoURI": "ipfs://Qmc1aWADL9yu6WDd2LHw5LRjm3LpXjipxU9683DUMdeNUm",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xA67b8e40111A0EDD30C3210b77aadb86AD234c43",
+      "symbol": "BANDEX",
+      "name": "Banana Index",
+      "decimals": 9,
+      "logoURI": "ipfs://QmNv6FVgxXA33U1ZZoeJcVdb6CzJRfdTrPCzphFVY4fHLo",
       "tags": []
     },
     {

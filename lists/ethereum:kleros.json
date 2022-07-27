@@ -6,10 +6,10 @@
     "kleros",
     "list"
   ],
-  "timestamp": "2022-07-24T17:06:15.487Z",
+  "timestamp": "2022-07-26T17:06:23.355Z",
   "version": {
     "major": 89,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
   "tags": {
@@ -5979,6 +5979,15 @@
       "name": "Woofy",
       "decimals": 12,
       "logoURI": "ipfs://QmU1iHdDsSggb4uNdUUKiJttq8yNP6K6VXFbkR7dNfTRKy",
+      "tags": []
+    },
+    {
+      "chainId": 1,
+      "address": "0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC",
+      "symbol": "VEMP",
+      "name": "vEmpire DDAO",
+      "decimals": 18,
+      "logoURI": "ipfs://QmUuuJCrfuMY2gRxaHh2oWdpr4tVRQaZdFuKTaKnbNj3ny",
       "tags": []
     },
     {
